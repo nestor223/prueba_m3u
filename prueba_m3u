@@ -1,103 +1,519 @@
 #EXTM3U
-#EXTINF:-1 group-title="24/7 PELICULAS" tvg-logo="http://mundo2.vip:8080/images/30b5e165c2cb5c2ff8ddf5a78107f9fb.png",24/7 | Adam Sandler
-http://p2premium.club:8080/live/RonaldSoriano/R1chardM1L3/317105.m3u8
-#EXTINF:-1 group-title="24/7 PELICULAS" tvg-logo="http://mundo2.vip:8080/images/8c0580dc511edb61890b7004d523e8e5.png",24/7 | Animadas
-http://p2premium.club:8080/live/RonaldSoriano/R1chardM1L3/317106.m3u8
-#EXTINF:-1 group-title="24/7 PELICULAS" tvg-logo="http://mundo2.vip:8080/images/2166506e3dbb85eab9a2977a12623fcc.png",24/7 | Aventura
-http://p2premium.club:8080/live/RonaldSoriano/R1chardM1L3/317108.m3u8
-#EXTINF:-1 group-title="24/7 PELICULAS" tvg-logo="http://mundo2.vip:8080/images/4e42e34a6da0498328641a287c97b8fc.png",24/7 | Batman (Saga de Nolan)
-http://p2premium.club:8080/live/RonaldSoriano/R1chardM1L3/317109.m3u8
-#EXTINF:-1 group-title="24/7 PELICULAS" tvg-logo="http://mundo2.vip:8080/images/2d2c6a8269650a412e43615d796d436b.png",24/7 | Cantinflas
-http://p2premium.club:8080/live/RonaldSoriano/R1chardM1L3/317110.m3u8
-#EXTINF:-1 group-title="24/7 PELICULAS" tvg-logo="http://mundo2.vip:8080/images/44265d5fa194c0ecab7de1c6a3d2a900.png",24/7 | Cincuenta Sombras
-http://p2premium.club:8080/live/RonaldSoriano/R1chardM1L3/317111.m3u8
-#EXTINF:-1 group-title="24/7 PELICULAS" tvg-logo="http://mundo2.pro:80/images/8f0cbeb1c76d9357e9b4d95f813eae72.png",24/7 | Cine infantil
-http://p2premium.club:8080/live/RonaldSoriano/R1chardM1L3/317112.m3u8
-#EXTINF:-1 group-title="24/7 PELICULAS" tvg-logo="http://mundo2.vip:8080/images/7c9d91ecb61667b5897647c99979b54d.png",24/7 | Cinema Latino
-http://p2premium.club:8080/live/RonaldSoriano/R1chardM1L3/317113.m3u8
-#EXTINF:-1 group-title="24/7 PELICULAS" tvg-logo="http://mundo2.vip:8080/images/4bb3ad3d7d53702f4e64abb95dae4e29.png",24/7 | Crepusculo
-http://p2premium.club:8080/live/RonaldSoriano/R1chardM1L3/317117.m3u8
-#EXTINF:-1 group-title="24/7 PELICULAS" tvg-logo="http://mundo2.vip:8080/images/3dba3aba74fa0292935dd657f7d80068.png",24/7 | Crimen
-http://p2premium.club:8080/live/RonaldSoriano/R1chardM1L3/317118.m3u8
-#EXTINF:-1 group-title="24/7 PELICULAS" tvg-logo="http://mundo2.vip:8080/images/8e2454555ce7c41df9d7a501d3909583.png",24/7 | Deportes
-http://p2premium.club:8080/live/RonaldSoriano/R1chardM1L3/317119.m3u8
-#EXTINF:-1 group-title="24/7 PELICULAS" tvg-logo="http://mundo2.vip:8080/images/09a39b71c7aba23d764e3cd30038e309.png",24/7 | Destino Final
-http://p2premium.club:8080/live/RonaldSoriano/R1chardM1L3/317120.m3u8
-#EXTINF:-1 group-title="24/7 PELICULAS" tvg-logo="http://mundo2.vip:8080/images/c1b75758f0afe8a3aace13411dc89229.png",24/7 | Drama
-http://p2premium.club:8080/live/RonaldSoriano/R1chardM1L3/317122.m3u8
-#EXTINF:-1 group-title="24/7 PELICULAS" tvg-logo="http://mundo2.vip:8080/images/5993f9a70bb430a436bf2362610d6910.png",24/7 | Dreamworks
-http://p2premium.club:8080/live/RonaldSoriano/R1chardM1L3/317123.m3u8
-#EXTINF:-1 group-title="24/7 PELICULAS" tvg-logo="http://mundo2.vip:8080/images/0408b31e430661859d9caf14e8fdf3ae.png",24/7 | Duro de Matar
-http://p2premium.club:8080/live/RonaldSoriano/R1chardM1L3/317124.m3u8
-#EXTINF:-1 group-title="24/7 PELICULAS" tvg-logo="http://mundo2.vip:8080/images/24589c13a7563e458f899d648ea3d4d0.png",24/7 | El planeta de los simios
-http://p2premium.club:8080/live/RonaldSoriano/R1chardM1L3/317125.m3u8
-#EXTINF:-1 group-title="24/7 PELICULAS" tvg-logo="http://mundo2.vip:8080/images/0781e4d5f818a46523aa589156fb2c07.png",24/7 | Fantasia
-http://p2premium.club:8080/live/RonaldSoriano/R1chardM1L3/317128.m3u8
-#EXTINF:-1 group-title="24/7 PELICULAS" tvg-logo="http://mundo2.vip:8080/images/50cf0fea656c9089b404acc05bf6bc8a.jpg",24/7 | Halloween
-http://p2premium.club:8080/live/RonaldSoriano/R1chardM1L3/317103.m3u8
-#EXTINF:-1 group-title="24/7 PELICULAS" tvg-logo="http://mundo2.vip:8080/images/73b703d384b0fd46c2ef733c409ef199.png",24/7 | Harry Potter
-http://p2premium.club:8080/live/RonaldSoriano/R1chardM1L3/317129.m3u8
-#EXTINF:-1 group-title="24/7 PELICULAS" tvg-logo="http://mundo2.vip:8080/images/07350e71c33c6a3fbce91a58aa0a4a9b.png",24/7 | Harry Potter Movies
-http://p2premium.club:8080/live/RonaldSoriano/R1chardM1L3/317093.m3u8
-#EXTINF:-1 group-title="24/7 PELICULAS" tvg-logo="http://mundo2.vip:8080/images/07350e71c33c6a3fbce91a58aa0a4a9b.png",24/7 | Horror Movies
-http://p2premium.club:8080/live/RonaldSoriano/R1chardM1L3/317095.m3u8
-#EXTINF:-1 group-title="24/7 PELICULAS" tvg-logo="http://mundo2.vip:8080/images/3c90a1228345919bad6bda0cc13766b4.png",24/7 | Jim Carrey
-http://p2premium.club:8080/live/RonaldSoriano/R1chardM1L3/317131.m3u8
-#EXTINF:-1 group-title="24/7 PELICULAS" tvg-logo="http://mundo2.vip:8080/images/b62c613d6ade788d6c7cd56187f353dc.png",24/7 | Jurassic Park
-http://p2premium.club:8080/live/RonaldSoriano/R1chardM1L3/317132.m3u8
-#EXTINF:-1 group-title="24/7 PELICULAS" tvg-logo="http://mundo2.vip:8080/images/9aea6b44c63981e55f8c76e9c7835764.png",24/7 | Karate Kid
-http://p2premium.club:8080/live/RonaldSoriano/R1chardM1L3/317133.m3u8
-#EXTINF:-1 group-title="24/7 PELICULAS" tvg-logo="http://mundo2.vip:8080/images/924caf606afab98501bec613c6c4783f.png",24/7 | Las leyendas de MExico
-http://p2premium.club:8080/live/RonaldSoriano/R1chardM1L3/317135.m3u8
-#EXTINF:-1 group-title="24/7 PELICULAS" tvg-logo="http://mundo2.vip:8080/images/bdd4296056f5c5e006ff0b64fed0890a.png",24/7 | Los Juegos del Hambre
-http://p2premium.club:8080/live/RonaldSoriano/R1chardM1L3/317136.m3u8
-#EXTINF:-1 group-title="24/7 PELICULAS" tvg-logo="http://mundo2.vip:8080/images/823f049878bab9934003ace647e06358.png",24/7 | Mi Pobre Angelito
-http://p2premium.club:8080/live/RonaldSoriano/R1chardM1L3/317138.m3u8
-#EXTINF:-1 group-title="24/7 PELICULAS" tvg-logo="http://mundo2.vip:8080/images/7cba402fc14273db375f42741dc55b87.png",24/7 | MI vilano favorito (MInions)
-http://p2premium.club:8080/live/RonaldSoriano/R1chardM1L3/317139.m3u8
-#EXTINF:-1 group-title="24/7 PELICULAS" tvg-logo="http://mundo2.vip:8080/images/12b995313f5b88341586f8f3c3054546.png",24/7 | Navidad
-http://p2premium.club:8080/live/RonaldSoriano/R1chardM1L3/317140.m3u8
-#EXTINF:-1 group-title="24/7 PELICULAS" tvg-logo="http://mundo2.vip:8080/images/c2d21fd22f6af29fe3a7e58b5747a9c6.png",24/7 | Pedro Infante
-http://p2premium.club:8080/live/RonaldSoriano/R1chardM1L3/317141.m3u8
-#EXTINF:-1 group-title="24/7 PELICULAS" tvg-logo="http://mundo2.vip:8080/images/4611f0f268b34ec2b767fd5844cf783f.png",24/7 | Peliculas Subtituladas
-http://p2premium.club:8080/live/RonaldSoriano/R1chardM1L3/317142.m3u8
-#EXTINF:-1 group-title="24/7 PELICULAS" tvg-logo="http://mundo2.vip:8080/images/b5329d643b5d824af5b3dca97d357220.png",24/7 | Piratas del caribe
-http://p2premium.club:8080/live/RonaldSoriano/R1chardM1L3/317144.m3u8
-#EXTINF:-1 group-title="24/7 PELICULAS" tvg-logo="http://mundo2.vip:8080/images/4386e94f1e58a09c0b0eb4bce76aacf4.png",24/7 | Pixar
-http://p2premium.club:8080/live/RonaldSoriano/R1chardM1L3/317145.m3u8
-#EXTINF:-1 group-title="24/7 PELICULAS" tvg-logo="http://mundo2.vip:8080/images/6cf083864f433ac3e734060103fd69ab.png",24/7 | Rapido y furioso
-http://p2premium.club:8080/live/RonaldSoriano/R1chardM1L3/317146.m3u8
-#EXTINF:-1 group-title="24/7 PELICULAS" tvg-logo="http://mundo2.vip:8080/images/a579b4ccfdbd90db56ddc433905ddf6e.png",24/7 | Rocky
-http://p2premium.club:8080/live/RonaldSoriano/R1chardM1L3/317147.m3u8
-#EXTINF:-1 group-title="24/7 PELICULAS" tvg-logo="http://mundo2.vip:8080/images/07350e71c33c6a3fbce91a58aa0a4a9b.png",24/7 | Romance Movies
-http://p2premium.club:8080/live/RonaldSoriano/R1chardM1L3/317100.m3u8
-#EXTINF:-1 group-title="24/7 PELICULAS" tvg-logo="http://mundo2.vip:8080/images/71ca1c1872bc1f13eb4e53acf59ae22f.png",24/7 | SAW
-http://p2premium.club:8080/live/RonaldSoriano/R1chardM1L3/317149.m3u8
-#EXTINF:-1 group-title="24/7 PELICULAS" tvg-logo="http://mundo2.vip:8080/images/66fb2f4d90c89415e5f46c69259bea83.png",24/7 | Shrek
-http://p2premium.club:8080/live/RonaldSoriano/R1chardM1L3/317150.m3u8
-#EXTINF:-1 group-title="24/7 PELICULAS" tvg-logo="http://mundo2.vip:8080/images/7282678212cb484ac805708e3abb5230.png",24/7 | Spiderman
-http://p2premium.club:8080/live/RonaldSoriano/R1chardM1L3/317151.m3u8
-#EXTINF:-1 group-title="24/7 PELICULAS" tvg-logo="http://mundo2.vip:8080/images/963d8cfbf60ec1691e60f8e0a184f494.png",24/7 | Star Wars
-http://p2premium.club:8080/live/RonaldSoriano/R1chardM1L3/317152.m3u8
-#EXTINF:-1 group-title="24/7 PELICULAS" tvg-logo="http://mundo2.vip:8080/images/e22d3bdaea5f50db418e7536845db218.png",24/7 | Superheroes
-http://p2premium.club:8080/live/RonaldSoriano/R1chardM1L3/317153.m3u8
-#EXTINF:-1 group-title="24/7 PELICULAS" tvg-logo="http://mundo2.vip:8080/images/487141148d55d9541a0a9d09bebf1eed.png",24/7 | Suspenso
-http://p2premium.club:8080/live/RonaldSoriano/R1chardM1L3/317154.m3u8
-#EXTINF:-1 group-title="24/7 PELICULAS" tvg-logo="http://mundo2.vip:8080/images/6df7e9403c937dc3195f01a1017d0bf6.png",24/7 | Terror
-http://p2premium.club:8080/live/RonaldSoriano/R1chardM1L3/317155.m3u8
-#EXTINF:-1 group-title="24/7 PELICULAS" tvg-logo="http://mundo2.vip:8080/images/0efd92e2a10db5ef9c1a869ba10fad74.png",24/7 | Tim Burton
-http://p2premium.club:8080/live/RonaldSoriano/R1chardM1L3/317156.m3u8
-#EXTINF:-1 group-title="24/7 PELICULAS" tvg-logo="http://mundo2.vip:8080/images/80fd03343279bfdf40fb21d96fd22333.png",24/7 | Volver al Futuro
-http://p2premium.club:8080/live/RonaldSoriano/R1chardM1L3/317158.m3u8
-#EXTINF:-1 group-title="24/7 PELICULAS" tvg-logo="http://mundo2.vip:8080/images/8ba43870fb4bf354f801330e6a2d0f9c.png",24/7 | X MEN
-http://p2premium.club:8080/live/RonaldSoriano/R1chardM1L3/317159.m3u8
-#EXTINF:-1 group-title="24/7 PELICULAS" tvg-logo="http://daleplaypro.com:8080/images/1101ff95c5bd5fb6a2528002ae896226.png",24/7 l RETROcine TV
-http://p2premium.club:8080/live/RonaldSoriano/R1chardM1L3/93104.m3u8
-#EXTINF:-1 group-title="24/7 PREMIUM",24 /7 L∆ RElNA D€L SÙR
-http://p2premium.club:8080/live/RonaldSoriano/R1chardM1L3/521237.m3u8
-#EXTINF:-1 group-title="24/7 PREMIUM" tvg-logo="http://mundo2.pro:80/images/5ef228da69b1e92e9c6705d9917434ae.jpg",24/7 | CANTINFLAS
-http://p2premium.club:8080/live/RonaldSoriano/R1chardM1L3/316972.m3u8
-#EXTINF:-1 group-title="24/7 PREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Chapulin_Colorado_Animado_Logo.png",24/7 | El Chapulín Colorado
-http://p2premium.club:8080/live/RonaldSoriano/R1chardM1L3/316967.m3u8
-#EXTINF:-1 group-title="24/7 PREMIUM" tvg-logo="https://www.clipartmax.com/png/middle/423-4239319_el-chavo-el-chavo.png",24/7 ll EL CHAVO DEL OCHO
-http://p2premium.club:8080/live/RonaldSoriano/R1chardM1L3/316936.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/6tb3kYR/CineAyE.jpg",A&E (HD) »1«
+http://23.153.217.158:8080/live/945527550tv/jT670E3aM/100.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/6tb3kYR/CineAyE.jpg",A&E (HD) »1«
+http://23.153.217.158:8080/live/982266366tv/5g6wjmn/100.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/6tb3kYR/CineAyE.jpg",A&E (HD) »2«
+http://23.153.217.158:8080/live/945527550tv/jT670E3aM/101.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/6tb3kYR/CineAyE.jpg",A&E (HD) »2«
+http://23.153.217.158:8080/live/982266366tv/5g6wjmn/101.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/6tb3kYR/CineAyE.jpg",A&E (HD) »3«
+http://23.153.217.158:8080/live/945527550tv/jT670E3aM/102.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/6tb3kYR/CineAyE.jpg",A&E (HD) »3«
+http://23.153.217.158:8080/live/982266366tv/5g6wjmn/102.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/6tb3kYR/CineAyE.jpg",A&E (HD) »4«
+http://23.153.217.158:8080/live/945527550tv/jT670E3aM/103.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/6tb3kYR/CineAyE.jpg",A&E (HD) »4«
+http://23.153.217.158:8080/live/982266366tv/5g6wjmn/103.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/ZLHz3t4/A3S.jpg",A3 CINE (HD) »1«
+http://23.153.217.158:8080/live/945527550tv/jT670E3aM/174.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/ZLHz3t4/A3S.jpg",A3 CINE (HD) »1«
+http://23.153.217.158:8080/live/982266366tv/5g6wjmn/174.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/ZLHz3t4/A3S.jpg",A3 CINE (HD) »1«
+http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/174.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/m8Txm1X/AMCHD.jpg",AMC (HD) »1«
+http://23.153.217.158:8080/live/945527550tv/jT670E3aM/104.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/m8Txm1X/AMCHD.jpg",AMC (HD) »1«
+http://23.153.217.158:8080/live/982266366tv/5g6wjmn/104.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/m8Txm1X/AMCHD.jpg",AMC (HD) »3«
+http://23.153.217.158:8080/live/945527550tv/jT670E3aM/106.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/m8Txm1X/AMCHD.jpg",AMC (HD) »3«
+http://23.153.217.158:8080/live/982266366tv/5g6wjmn/106.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/NZ66vJS/AXNHD.jpg",AXN (HD) »2«
+http://23.153.217.158:8080/live/945527550tv/jT670E3aM/108.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/NZ66vJS/AXNHD.jpg",AXN (HD) »2«
+http://23.153.217.158:8080/live/982266366tv/5g6wjmn/108.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/S0h94pk/CINECANAL.jpg",CINE CANAL (HD) »1«
+http://23.153.217.158:8080/live/945527550tv/jT670E3aM/112.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/S0h94pk/CINECANAL.jpg",CINE CANAL (HD) »1«
+http://23.153.217.158:8080/live/982266366tv/5g6wjmn/112.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/S0h94pk/CINECANAL.jpg",CINE CANAL (HD) »2«
+http://23.153.217.158:8080/live/945527550tv/jT670E3aM/113.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/S0h94pk/CINECANAL.jpg",CINE CANAL (HD) »2«
+http://23.153.217.158:8080/live/982266366tv/5g6wjmn/113.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/S0h94pk/CINECANAL.jpg",CINE CANAL (HD) »3«
+http://23.153.217.158:8080/live/945527550tv/jT670E3aM/114.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/S0h94pk/CINECANAL.jpg",CINE CANAL (HD) »3«
+http://23.153.217.158:8080/live/982266366tv/5g6wjmn/114.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/S0h94pk/CINECANAL.jpg",CINE CANAL (HD) »4«
+http://23.153.217.158:8080/live/945527550tv/jT670E3aM/115.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/S0h94pk/CINECANAL.jpg",CINE CANAL (HD) »4«
+http://23.153.217.158:8080/live/982266366tv/5g6wjmn/115.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/HgyMDvV/CINELATINO.jpg",CINE LATINO (HD) »1«
+http://23.153.217.158:8080/live/945527550tv/jT670E3aM/110.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/HgyMDvV/CINELATINO.jpg",CINE LATINO (HD) »1«
+http://23.153.217.158:8080/live/982266366tv/5g6wjmn/110.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/HgyMDvV/CINELATINO.jpg",CINE LATINO (HD) »2«
+http://23.153.217.158:8080/live/945527550tv/jT670E3aM/111.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/HgyMDvV/CINELATINO.jpg",CINE LATINO (HD) »2«
+http://23.153.217.158:8080/live/982266366tv/5g6wjmn/111.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/9nJLHQD/SHOWTIMEWEST.jpg",CINE: SHOWTIME WESTᴴᴰ
+http://23.153.217.158:8080/live/945527550tv/jT670E3aM/198.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/9nJLHQD/SHOWTIMEWEST.jpg",CINE: SHOWTIME WESTᴴᴰ
+http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/198.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/xjsQJ2P/CINEMAX.jpg",CINEMAX (HD) »1«
+http://23.153.217.158:8080/live/945527550tv/jT670E3aM/173.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/xjsQJ2P/CINEMAX.jpg",CINEMAX (HD) »1«
+http://23.153.217.158:8080/live/982266366tv/5g6wjmn/173.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/xjsQJ2P/CINEMAX.jpg",CINEMAX (HD) »1«
+http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/173.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/xjsQJ2P/CINEMAX.jpg",CINEMAX (HD) »2«
+http://23.153.217.158:8080/live/945527550tv/jT670E3aM/119.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/xjsQJ2P/CINEMAX.jpg",CINEMAX (HD) »2«
+http://23.153.217.158:8080/live/945527550tv/jT670E3aM/176.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/xjsQJ2P/CINEMAX.jpg",CINEMAX (HD) »2«
+http://23.153.217.158:8080/live/982266366tv/5g6wjmn/119.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/xjsQJ2P/CINEMAX.jpg",CINEMAX (HD) »2«
+http://23.153.217.158:8080/live/982266366tv/5g6wjmn/176.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/xjsQJ2P/CINEMAX.jpg",CINEMAX (HD) »2«
+http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/176.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/bz942XZ/CINEMAXHD.jpg",CINEMAX (HD) »3«
+http://23.153.217.158:8080/live/945527550tv/jT670E3aM/179.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/bz942XZ/CINEMAXHD.jpg",CINEMAX (HD) »3«
+http://23.153.217.158:8080/live/982266366tv/5g6wjmn/179.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/bz942XZ/CINEMAXHD.jpg",CINEMAX (HD) »3«
+http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/179.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/xjsQJ2P/CINEMAX.jpg",CINEMAX (HD) »4«
+http://23.153.217.158:8080/live/945527550tv/jT670E3aM/180.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/xjsQJ2P/CINEMAX.jpg",CINEMAX (HD) »4«
+http://23.153.217.158:8080/live/982266366tv/5g6wjmn/180.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/xjsQJ2P/CINEMAX.jpg",CINEMAX (HD) »4«
+http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/180.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/5nd7bZP/CINEMAXACTION.jpg",CINEMAX ACTION (HD) »1«
+http://23.153.217.158:8080/live/945527550tv/jT670E3aM/177.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/5nd7bZP/CINEMAXACTION.jpg",CINEMAX ACTION (HD) »1«
+http://23.153.217.158:8080/live/982266366tv/5g6wjmn/177.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/5nd7bZP/CINEMAXACTION.jpg",CINEMAX ACTION (HD) »1«
+http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/177.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/bz942XZ/CINEMAXHD.jpg",CINEMAX EAST (HD)
+http://23.153.217.158:8080/live/945527550tv/jT670E3aM/178.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/bz942XZ/CINEMAXHD.jpg",CINEMAX EAST (HD)
+http://23.153.217.158:8080/live/982266366tv/5g6wjmn/178.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/bz942XZ/CINEMAXHD.jpg",CINEMAX EAST (HD)
+http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/178.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/41LYG9M/COMEDY-CENTRAL.jpg",COMEDY CENTRAL (HD) »1«
+http://23.153.217.158:8080/live/945527550tv/jT670E3aM/242.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/41LYG9M/COMEDY-CENTRAL.jpg",COMEDY CENTRAL (HD) »1«
+http://23.153.217.158:8080/live/982266366tv/5g6wjmn/242.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/41LYG9M/COMEDY-CENTRAL.jpg",COMEDY CENTRAL (HD) »1«
+http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/242.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/41LYG9M/COMEDY-CENTRAL.jpg",COMEDY CENTRAL (HD) »2«
+http://23.153.217.158:8080/live/945527550tv/jT670E3aM/243.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/41LYG9M/COMEDY-CENTRAL.jpg",COMEDY CENTRAL (HD) »2«
+http://23.153.217.158:8080/live/982266366tv/5g6wjmn/243.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/41LYG9M/COMEDY-CENTRAL.jpg",COMEDY CENTRAL (HD) »2«
+http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/243.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/FW2yCV3/DHD.jpg",DHE (HD) »1«
+http://23.153.217.158:8080/live/982266366tv/5g6wjmn/121.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/FW2yCV3/DHD.jpg",DHE (HD) »2«
+http://23.153.217.158:8080/live/945527550tv/jT670E3aM/122.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/FW2yCV3/DHD.jpg",DHE (HD) »2«
+http://23.153.217.158:8080/live/982266366tv/5g6wjmn/122.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/FW2yCV3/DHD.jpg",DHE (HD) »3«
+http://23.153.217.158:8080/live/945527550tv/jT670E3aM/123.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/FW2yCV3/DHD.jpg",DHE (HD) »3«
+http://23.153.217.158:8080/live/982266366tv/5g6wjmn/123.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/cCN9PXW/EUROPAEUROPA.jpg",EUROPA EUROPA (HD) »1«
+http://23.153.217.158:8080/live/982266366tv/5g6wjmn/187.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/cCN9PXW/EUROPAEUROPA.jpg",EUROPA EUROPA (HD) »1«
+http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/187.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/cCN9PXW/EUROPAEUROPA.jpg",EUROPA EUROPA (HD) »2«
+http://23.153.217.158:8080/live/945527550tv/jT670E3aM/188.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/cCN9PXW/EUROPAEUROPA.jpg",EUROPA EUROPA (HD) »2«
+http://23.153.217.158:8080/live/982266366tv/5g6wjmn/188.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/cCN9PXW/EUROPAEUROPA.jpg",EUROPA EUROPA (HD) »2«
+http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/188.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/wwKZss5/FILM-ARTS.jpg",FILM & ARTS (HD) »1«
+http://23.153.217.158:8080/live/945527550tv/jT670E3aM/244.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/wwKZss5/FILM-ARTS.jpg",FILM & ARTS (HD) »1«
+http://23.153.217.158:8080/live/982266366tv/5g6wjmn/244.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/wwKZss5/FILM-ARTS.jpg",FILM & ARTS (HD) »1«
+http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/244.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/wwKZss5/FILM-ARTS.jpg",FILM & ARTS (HD) »2«
+http://23.153.217.158:8080/live/945527550tv/jT670E3aM/245.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/wwKZss5/FILM-ARTS.jpg",FILM & ARTS (HD) »2«
+http://23.153.217.158:8080/live/982266366tv/5g6wjmn/245.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/wwKZss5/FILM-ARTS.jpg",FILM & ARTS (HD) »2«
+http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/245.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/wwKZss5/FILM-ARTS.jpg",FILM & ARTS (HD) »3«
+http://23.153.217.158:8080/live/945527550tv/jT670E3aM/246.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/wwKZss5/FILM-ARTS.jpg",FILM & ARTS (HD) »3«
+http://23.153.217.158:8080/live/982266366tv/5g6wjmn/246.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/wwKZss5/FILM-ARTS.jpg",FILM & ARTS (HD) »3«
+http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/246.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/hs5pPQB/FXHD.jpg",FX (HD) »1«
+http://23.153.217.158:8080/live/982266366tv/5g6wjmn/124.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/hs5pPQB/FXHD.jpg",FX (HD) »2«
+http://23.153.217.158:8080/live/945527550tv/jT670E3aM/125.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/hs5pPQB/FXHD.jpg",FX (HD) »2«
+http://23.153.217.158:8080/live/982266366tv/5g6wjmn/125.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/hs5pPQB/FXHD.jpg",FX (HD) »3«
+http://23.153.217.158:8080/live/945527550tv/jT670E3aM/126.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/hs5pPQB/FXHD.jpg",FX (HD) »3«
+http://23.153.217.158:8080/live/982266366tv/5g6wjmn/126.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/TP1rVyx/GOLDEN.jpg",GOLDEN (HD) »1«
+http://23.153.217.158:8080/live/945527550tv/jT670E3aM/127.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/TP1rVyx/GOLDEN.jpg",GOLDEN (HD) »1«
+http://23.153.217.158:8080/live/982266366tv/5g6wjmn/127.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/TP1rVyx/GOLDEN.jpg",GOLDEN (HD) »2«
+http://23.153.217.158:8080/live/945527550tv/jT670E3aM/128.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/TP1rVyx/GOLDEN.jpg",GOLDEN (HD) »2«
+http://23.153.217.158:8080/live/982266366tv/5g6wjmn/128.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/TP1rVyx/GOLDEN.jpg",GOLDEN (HD) »3«
+http://23.153.217.158:8080/live/945527550tv/jT670E3aM/129.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/TP1rVyx/GOLDEN.jpg",GOLDEN (HD) »3«
+http://23.153.217.158:8080/live/982266366tv/5g6wjmn/129.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/h1QwfKd/HBO.jpg",HBO (HD) »2«
+http://23.153.217.158:8080/live/945527550tv/jT670E3aM/139.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/h1QwfKd/HBO.jpg",HBO (HD) »2«
+http://23.153.217.158:8080/live/982266366tv/5g6wjmn/139.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/h1QwfKd/HBO.jpg",HBO (HD) »3«
+http://23.153.217.158:8080/live/945527550tv/jT670E3aM/140.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/h1QwfKd/HBO.jpg",HBO (HD) »3«
+http://23.153.217.158:8080/live/982266366tv/5g6wjmn/140.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/h1QwfKd/HBO.jpg",HBO (HD) »4«
+http://23.153.217.158:8080/live/945527550tv/jT670E3aM/141.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/h1QwfKd/HBO.jpg",HBO (HD) »4«
+http://23.153.217.158:8080/live/982266366tv/5g6wjmn/141.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/0XZg6R7/HBO2.jpg",HBO 2 (HD) »1«
+http://23.153.217.158:8080/live/945527550tv/jT670E3aM/131.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/0XZg6R7/HBO2.jpg",HBO 2 (HD) »1«
+http://23.153.217.158:8080/live/982266366tv/5g6wjmn/131.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/0XZg6R7/HBO2.jpg",HBO 2 (HD) »2«
+http://23.153.217.158:8080/live/945527550tv/jT670E3aM/132.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/0XZg6R7/HBO2.jpg",HBO 2 (HD) »2«
+http://23.153.217.158:8080/live/982266366tv/5g6wjmn/132.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/0XZg6R7/HBO2.jpg",HBO 2 (HD) »3«
+http://23.153.217.158:8080/live/945527550tv/jT670E3aM/133.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/0XZg6R7/HBO2.jpg",HBO 2 (HD) »3«
+http://23.153.217.158:8080/live/982266366tv/5g6wjmn/133.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/0XZg6R7/HBO2.jpg",HBO 2 (HD) »4«
+http://23.153.217.158:8080/live/945527550tv/jT670E3aM/134.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/0XZg6R7/HBO2.jpg",HBO 2 (HD) »4«
+http://23.153.217.158:8080/live/982266366tv/5g6wjmn/134.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/88mbrNn/HBOFAMILY.jpg",HBO FAMILY (HD) »1«
+http://23.153.217.158:8080/live/945527550tv/jT670E3aM/135.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/88mbrNn/HBOFAMILY.jpg",HBO FAMILY (HD) »1«
+http://23.153.217.158:8080/live/982266366tv/5g6wjmn/135.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/88mbrNn/HBOFAMILY.jpg",HBO FAMILY (HD) »2«
+http://23.153.217.158:8080/live/945527550tv/jT670E3aM/136.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/88mbrNn/HBOFAMILY.jpg",HBO FAMILY (HD) »2«
+http://23.153.217.158:8080/live/982266366tv/5g6wjmn/136.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/88mbrNn/HBOFAMILY.jpg",HBO FAMILY (HD) »3«
+http://23.153.217.158:8080/live/945527550tv/jT670E3aM/137.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/88mbrNn/HBOFAMILY.jpg",HBO FAMILY (HD) »3«
+http://23.153.217.158:8080/live/982266366tv/5g6wjmn/137.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/88mbrNn/HBOFAMILY.jpg",HBO FAMILY (HD) »4«
+http://23.153.217.158:8080/live/945527550tv/jT670E3aM/138.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/88mbrNn/HBOFAMILY.jpg",HBO FAMILY (HD) »4«
+http://23.153.217.158:8080/live/982266366tv/5g6wjmn/138.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/Hg50ZZ4/HBOMUNDI.jpg",HBO MUNDI (HD)
+http://23.153.217.158:8080/live/945527550tv/jT670E3aM/142.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/Hg50ZZ4/HBOMUNDI.jpg",HBO MUNDI (HD)
+http://23.153.217.158:8080/live/982266366tv/5g6wjmn/142.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/42KnfJN/HBOPLUS.jpg",HBO PLUS (HD) »2«
+http://23.153.217.158:8080/live/945527550tv/jT670E3aM/144.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/42KnfJN/HBOPLUS.jpg",HBO PLUS (HD) »3«
+http://23.153.217.158:8080/live/945527550tv/jT670E3aM/145.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/42KnfJN/HBOPLUS.jpg",HBO PLUS (HD) »3«
+http://23.153.217.158:8080/live/982266366tv/5g6wjmn/145.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/42KnfJN/HBOPLUS.jpg",HBO PLUS (HD) »4«
+http://23.153.217.158:8080/live/945527550tv/jT670E3aM/146.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/42KnfJN/HBOPLUS.jpg",HBO PLUS (HD) »4«
+http://23.153.217.158:8080/live/982266366tv/5g6wjmn/146.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/VQLsWDt/HBOPOP.jpg",HBO POP (HD) »1«
+http://23.153.217.158:8080/live/945527550tv/jT670E3aM/147.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/VQLsWDt/HBOPOP.jpg",HBO POP (HD) »1«
+http://23.153.217.158:8080/live/982266366tv/5g6wjmn/147.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/VQLsWDt/HBOPOP.jpg",HBO POP (HD) »3«
+http://23.153.217.158:8080/live/982266366tv/5g6wjmn/149.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/pKfmCx8/HBOSIGNATURE.jpg",HBO SIGNATURE (HD) »1«
+http://23.153.217.158:8080/live/945527550tv/jT670E3aM/150.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/pKfmCx8/HBOSIGNATURE.jpg",HBO SIGNATURE (HD) »1«
+http://23.153.217.158:8080/live/982266366tv/5g6wjmn/150.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/pKfmCx8/HBOSIGNATURE.jpg",HBO SIGNATURE (HD) »2«
+http://23.153.217.158:8080/live/945527550tv/jT670E3aM/151.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/pKfmCx8/HBOSIGNATURE.jpg",HBO SIGNATURE (HD) »2«
+http://23.153.217.158:8080/live/982266366tv/5g6wjmn/151.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/pKfmCx8/HBOSIGNATURE.jpg",HBO SIGNATURE (HD) »3«
+http://23.153.217.158:8080/live/945527550tv/jT670E3aM/152.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/pKfmCx8/HBOSIGNATURE.jpg",HBO SIGNATURE (HD) »3«
+http://23.153.217.158:8080/live/982266366tv/5g6wjmn/152.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/pKfmCx8/HBOSIGNATURE.jpg",HBO SIGNATURE (HD) »4«
+http://23.153.217.158:8080/live/945527550tv/jT670E3aM/153.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/pKfmCx8/HBOSIGNATURE.jpg",HBO SIGNATURE (HD) »4«
+http://23.153.217.158:8080/live/982266366tv/5g6wjmn/153.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/pKfmCx8/HBOSIGNATURE.jpg",HBO SIGNATURE (HD) »4«
+http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/153.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/h1QwfKd/HBO.jpg",HBO SUBTITULADO (HD) »2«
+http://23.153.217.158:8080/live/945527550tv/jT670E3aM/155.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/h1QwfKd/HBO.jpg",HBO SUBTITULADO (HD) »2«
+http://23.153.217.158:8080/live/982266366tv/5g6wjmn/155.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/h1QwfKd/HBO.jpg",HBO SUBTITULADO (HD) »2«
+http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/155.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/K2y2KxG/HBOXTREME.jpg",HBO XTREME (HD) »1«
+http://23.153.217.158:8080/live/945527550tv/jT670E3aM/156.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/K2y2KxG/HBOXTREME.jpg",HBO XTREME (HD) »1«
+http://23.153.217.158:8080/live/982266366tv/5g6wjmn/156.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/K2y2KxG/HBOXTREME.jpg",HBO XTREME (HD) »1«
+http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/156.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/K2y2KxG/HBOXTREME.jpg",HBO XTREME (HD) »2«
+http://23.153.217.158:8080/live/945527550tv/jT670E3aM/157.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/K2y2KxG/HBOXTREME.jpg",HBO XTREME (HD) »2«
+http://23.153.217.158:8080/live/982266366tv/5g6wjmn/157.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/K2y2KxG/HBOXTREME.jpg",HBO XTREME (HD) »2«
+http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/157.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/K2y2KxG/HBOXTREME.jpg",HBO XTREME (HD) »3«
+http://23.153.217.158:8080/live/945527550tv/jT670E3aM/158.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/K2y2KxG/HBOXTREME.jpg",HBO XTREME (HD) »3«
+http://23.153.217.158:8080/live/982266366tv/5g6wjmn/158.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/K2y2KxG/HBOXTREME.jpg",HBO XTREME (HD) »3«
+http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/158.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/M9tCXd1/INDIEPLEX.jpg",INDIE PLEX (HD)
+http://23.153.217.158:8080/live/945527550tv/jT670E3aM/189.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/M9tCXd1/INDIEPLEX.jpg",INDIE PLEX (HD)
+http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/189.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/CwFwNXY/PARAMOUNT.jpg",PARAMOUNT CHANNEL (HD) »1«
+http://23.153.217.158:8080/live/945527550tv/jT670E3aM/191.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/CwFwNXY/PARAMOUNT.jpg",PARAMOUNT CHANNEL (HD) »1«
+http://23.153.217.158:8080/live/982266366tv/5g6wjmn/191.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/CwFwNXY/PARAMOUNT.jpg",PARAMOUNT CHANNEL (HD) »1«
+http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/191.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/Hnz73Y5/RETROPLEX.jpg",RETROPLEX (HD)
+http://23.153.217.158:8080/live/945527550tv/jT670E3aM/239.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/Hnz73Y5/RETROPLEX.jpg",RETROPLEX (HD)
+http://23.153.217.158:8080/live/982266366tv/5g6wjmn/239.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/Hnz73Y5/RETROPLEX.jpg",RETROPLEX (HD)
+http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/239.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/D8Kkz3d/SHOWTIMEEAST.jpg",SHOWTIME EAST (HD) »1«
+http://23.153.217.158:8080/live/945527550tv/jT670E3aM/196.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/D8Kkz3d/SHOWTIMEEAST.jpg",SHOWTIME EAST (HD) »1«
+http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/196.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/cT3Pf4w/SHOWTIME.jpg",SHOWTIME EAST (HD) »2«
+http://23.153.217.158:8080/live/945527550tv/jT670E3aM/197.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/cT3Pf4w/SHOWTIME.jpg",SHOWTIME EAST (HD) »2«
+http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/197.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/r7GXJms/SONYCHANNEL.jpg",SONY (HD) »1«
+http://23.153.217.158:8080/live/945527550tv/jT670E3aM/199.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/r7GXJms/SONYCHANNEL.jpg",SONY (HD) »1«
+http://23.153.217.158:8080/live/982266366tv/5g6wjmn/199.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/r7GXJms/SONYCHANNEL.jpg",SONY (HD) »1«
+http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/199.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/r7GXJms/SONYCHANNEL.jpg",SONY (HD) »2«
+http://23.153.217.158:8080/live/945527550tv/jT670E3aM/200.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/r7GXJms/SONYCHANNEL.jpg",SONY (HD) »2«
+http://23.153.217.158:8080/live/982266366tv/5g6wjmn/200.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/r7GXJms/SONYCHANNEL.jpg",SONY (HD) »2«
+http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/200.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/r7GXJms/SONYCHANNEL.jpg",SONY (HD) »3«
+http://23.153.217.158:8080/live/945527550tv/jT670E3aM/201.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/r7GXJms/SONYCHANNEL.jpg",SONY (HD) »3«
+http://23.153.217.158:8080/live/982266366tv/5g6wjmn/201.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/r7GXJms/SONYCHANNEL.jpg",SONY (HD) »3«
+http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/201.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/VmrGxxp/SPACE.jpg",SPACE (HD) »1«
+http://23.153.217.158:8080/live/945527550tv/jT670E3aM/202.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/VmrGxxp/SPACE.jpg",SPACE (HD) »1«
+http://23.153.217.158:8080/live/982266366tv/5g6wjmn/202.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/VmrGxxp/SPACE.jpg",SPACE (HD) »1«
+http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/202.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/VmrGxxp/SPACE.jpg",SPACE (HD) »2«
+http://23.153.217.158:8080/live/945527550tv/jT670E3aM/203.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/VmrGxxp/SPACE.jpg",SPACE (HD) »2«
+http://23.153.217.158:8080/live/982266366tv/5g6wjmn/203.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/VmrGxxp/SPACE.jpg",SPACE (HD) »2«
+http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/203.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/VmrGxxp/SPACE.jpg",SPACE (HD) »3«
+http://23.153.217.158:8080/live/945527550tv/jT670E3aM/204.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/VmrGxxp/SPACE.jpg",SPACE (HD) »3«
+http://23.153.217.158:8080/live/982266366tv/5g6wjmn/204.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/VmrGxxp/SPACE.jpg",SPACE (HD) »3«
+http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/204.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/VmrGxxp/SPACE.jpg",SPACE (HD) »4«
+http://23.153.217.158:8080/live/945527550tv/jT670E3aM/205.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/VmrGxxp/SPACE.jpg",SPACE (HD) »4«
+http://23.153.217.158:8080/live/982266366tv/5g6wjmn/205.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/VmrGxxp/SPACE.jpg",SPACE (HD) »4«
+http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/205.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/WyL4txb/STARCHANEL.jpg",STAR CHANNEL (HD) »1«
+http://23.153.217.158:8080/live/945527550tv/jT670E3aM/160.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/WyL4txb/STARCHANEL.jpg",STAR CHANNEL (HD) »1«
+http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/160.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/WyL4txb/STARCHANEL.jpg",STAR CHANNEL (HD) »2«
+http://23.153.217.158:8080/live/945527550tv/jT670E3aM/161.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/WyL4txb/STARCHANEL.jpg",STAR CHANNEL (HD) »2«
+http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/161.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/WyL4txb/STARCHANEL.jpg",STAR CHANNEL (HD) »3«
+http://23.153.217.158:8080/live/945527550tv/jT670E3aM/162.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/WyL4txb/STARCHANEL.jpg",STAR CHANNEL (HD) »3«
+http://23.153.217.158:8080/live/982266366tv/5g6wjmn/162.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/WyL4txb/STARCHANEL.jpg",STAR CHANNEL (HD) »3«
+http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/162.m3u8
+#EXTINF:-1 group-title="CINE & SERIES",STARZ (HD)
+http://23.153.217.158:8080/live/945527550tv/jT670E3aM/216.m3u8
+#EXTINF:-1 group-title="CINE & SERIES",STARZ (HD)
+http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/216.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://static.epg.best/us/StarzCinema.us.png",STARZ CINEMA (HD)
+http://23.153.217.158:8080/live/945527550tv/jT670E3aM/206.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://static.epg.best/us/StarzCinema.us.png",STARZ CINEMA (HD)
+http://23.153.217.158:8080/live/982266366tv/5g6wjmn/206.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://static.epg.best/us/StarzCinema.us.png",STARZ CINEMA (HD)
+http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/206.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://static.epg.best/us/Starz.us.png",STARZ EAST (HD)
+http://23.153.217.158:8080/live/945527550tv/jT670E3aM/208.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://static.epg.best/us/Starz.us.png",STARZ EAST (HD)
+http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/208.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://static.epg.best/us/StarzEdge.us.png",STARZ EDGE (HD)
+http://23.153.217.158:8080/live/945527550tv/jT670E3aM/209.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://static.epg.best/us/StarzEdge.us.png",STARZ EDGE (HD)
+http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/209.m3u8
+#EXTINF:-1 group-title="CINE & SERIES",STARZ ENCORE (HD)
+http://23.153.217.158:8080/live/945527550tv/jT670E3aM/213.m3u8
+#EXTINF:-1 group-title="CINE & SERIES",STARZ ENCORE (HD)
+http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/213.m3u8
+#EXTINF:-1 group-title="CINE & SERIES",STARZ ENCORE BLACK (HD)
+http://23.153.217.158:8080/live/945527550tv/jT670E3aM/210.m3u8
+#EXTINF:-1 group-title="CINE & SERIES",STARZ ENCORE BLACK (HD)
+http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/210.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://static.epg.best/us/StarzEncoreClassics.us.png",STARZ ENCORE CLASSIC (HD)
+http://23.153.217.158:8080/live/945527550tv/jT670E3aM/211.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://static.epg.best/us/StarzEncoreClassics.us.png",STARZ ENCORE CLASSIC (HD)
+http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/211.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://static.epg.best/us/StarzEncoreFamily.us.png",STARZ ENCORE FAMILY (HD)
+http://23.153.217.158:8080/live/945527550tv/jT670E3aM/212.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://static.epg.best/us/StarzEncoreFamily.us.png",STARZ ENCORE FAMILY (HD)
+http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/212.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://static.epg.best/us/StarzWest.us.png",STARZ WEST (HD)
+http://23.153.217.158:8080/live/945527550tv/jT670E3aM/217.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://static.epg.best/us/StarzWest.us.png",STARZ WEST (HD)
+http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/217.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/s1QDFQ9/STUDIOUNIVERSAL.jpg",STUDIO UNIVERSAL (HD) »1«
+http://23.153.217.158:8080/live/945527550tv/jT670E3aM/218.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/s1QDFQ9/STUDIOUNIVERSAL.jpg",STUDIO UNIVERSAL (HD) »1«
+http://23.153.217.158:8080/live/982266366tv/5g6wjmn/218.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/s1QDFQ9/STUDIOUNIVERSAL.jpg",STUDIO UNIVERSAL (HD) »1«
+http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/218.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/s1QDFQ9/STUDIOUNIVERSAL.jpg",STUDIO UNIVERSAL (HD) »2«
+http://23.153.217.158:8080/live/945527550tv/jT670E3aM/219.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/s1QDFQ9/STUDIOUNIVERSAL.jpg",STUDIO UNIVERSAL (HD) »2«
+http://23.153.217.158:8080/live/982266366tv/5g6wjmn/219.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/s1QDFQ9/STUDIOUNIVERSAL.jpg",STUDIO UNIVERSAL (HD) »2«
+http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/219.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/s1QDFQ9/STUDIOUNIVERSAL.jpg",STUDIO UNIVERSAL (HD) »3«
+http://23.153.217.158:8080/live/945527550tv/jT670E3aM/220.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/s1QDFQ9/STUDIOUNIVERSAL.jpg",STUDIO UNIVERSAL (HD) »3«
+http://23.153.217.158:8080/live/982266366tv/5g6wjmn/220.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/s1QDFQ9/STUDIOUNIVERSAL.jpg",STUDIO UNIVERSAL (HD) »3«
+http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/220.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/s1QDFQ9/STUDIOUNIVERSAL.jpg",STUDIO UNIVERSAL (HD) »4«
+http://23.153.217.158:8080/live/945527550tv/jT670E3aM/221.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/s1QDFQ9/STUDIOUNIVERSAL.jpg",STUDIO UNIVERSAL (HD) »4«
+http://23.153.217.158:8080/live/982266366tv/5g6wjmn/221.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/s1QDFQ9/STUDIOUNIVERSAL.jpg",STUDIO UNIVERSAL (HD) »4«
+http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/221.m3u8
+#EXTINF:-1 group-title="CINE & SERIES",SYFY (HD) »1«
+http://23.153.217.158:8080/live/945527550tv/jT670E3aM/222.m3u8
+#EXTINF:-1 group-title="CINE & SERIES",SYFY (HD) »1«
+http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/222.m3u8
+#EXTINF:-1 group-title="CINE & SERIES",SYFY (HD) »2«
+http://23.153.217.158:8080/live/945527550tv/jT670E3aM/223.m3u8
+#EXTINF:-1 group-title="CINE & SERIES",SYFY (HD) »2«
+http://23.153.217.158:8080/live/982266366tv/5g6wjmn/223.m3u8
+#EXTINF:-1 group-title="CINE & SERIES",SYFY (HD) »2«
+http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/223.m3u8
+#EXTINF:-1 group-title="CINE & SERIES",SYFY (HD) »3«
+http://23.153.217.158:8080/live/945527550tv/jT670E3aM/224.m3u8
+#EXTINF:-1 group-title="CINE & SERIES",SYFY (HD) »3«
+http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/224.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/71Ltk90/TCM.jpg",TCM (HD) »1«
+http://23.153.217.158:8080/live/945527550tv/jT670E3aM/229.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/71Ltk90/TCM.jpg",TCM (HD) »1«
+http://23.153.217.158:8080/live/982266366tv/5g6wjmn/229.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/71Ltk90/TCM.jpg",TCM (HD) »1«
+http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/229.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/71Ltk90/TCM.jpg",TCM (HD) »2«
+http://23.153.217.158:8080/live/945527550tv/jT670E3aM/230.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/71Ltk90/TCM.jpg",TCM (HD) »2«
+http://23.153.217.158:8080/live/982266366tv/5g6wjmn/230.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/71Ltk90/TCM.jpg",TCM (HD) »2«
+http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/230.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/71Ltk90/TCM.jpg",TCM (HD) »3«
+http://23.153.217.158:8080/live/945527550tv/jT670E3aM/231.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/71Ltk90/TCM.jpg",TCM (HD) »3«
+http://23.153.217.158:8080/live/982266366tv/5g6wjmn/231.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/0q21c8Q/TNT.jpg",TNT (HD) »2«
+http://23.153.217.158:8080/live/945527550tv/jT670E3aM/167.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/0q21c8Q/TNT.jpg",TNT (HD) »2«
+http://23.153.217.158:8080/live/982266366tv/5g6wjmn/167.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/0q21c8Q/TNT.jpg",TNT (HD) »2«
+http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/167.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/0q21c8Q/TNT.jpg",TNT (HD) »3«
+http://23.153.217.158:8080/live/945527550tv/jT670E3aM/168.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/0q21c8Q/TNT.jpg",TNT (HD) »3«
+http://23.153.217.158:8080/live/982266366tv/5g6wjmn/168.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/0q21c8Q/TNT.jpg",TNT (HD) »3«
+http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/168.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/0q21c8Q/TNT.jpg",TNT (HD) »4«
+http://23.153.217.158:8080/live/945527550tv/jT670E3aM/169.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/0q21c8Q/TNT.jpg",TNT (HD) »4«
+http://23.153.217.158:8080/live/982266366tv/5g6wjmn/169.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/0q21c8Q/TNT.jpg",TNT (HD) »4«
+http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/169.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/kHp2Q54/Logo-TNT-Novelas.png",TNT NOVELAS (HD) »2«
+http://23.153.217.158:8080/live/945527550tv/jT670E3aM/227.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/kHp2Q54/Logo-TNT-Novelas.png",TNT NOVELAS (HD) »2«
+http://23.153.217.158:8080/live/982266366tv/5g6wjmn/227.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/kHp2Q54/Logo-TNT-Novelas.png",TNT NOVELAS (HD) »2«
+http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/227.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/kHp2Q54/Logo-TNT-Novelas.png",TNT NOVELAS (HD) »3«
+http://23.153.217.158:8080/live/945527550tv/jT670E3aM/228.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/kHp2Q54/Logo-TNT-Novelas.png",TNT NOVELAS (HD) »3«
+http://23.153.217.158:8080/live/982266366tv/5g6wjmn/228.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/kHp2Q54/Logo-TNT-Novelas.png",TNT NOVELAS (HD) »3«
+http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/228.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/KqtK9ZQ/TNTSERIES.jpg",TNT SERIES (HD) »1«
+http://23.153.217.158:8080/live/945527550tv/jT670E3aM/170.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/KqtK9ZQ/TNTSERIES.jpg",TNT SERIES (HD) »1«
+http://23.153.217.158:8080/live/982266366tv/5g6wjmn/170.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/KqtK9ZQ/TNTSERIES.jpg",TNT SERIES (HD) »1«
+http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/170.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/KqtK9ZQ/TNTSERIES.jpg",TNT SERIES (HD) »2«
+http://23.153.217.158:8080/live/945527550tv/jT670E3aM/171.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/KqtK9ZQ/TNTSERIES.jpg",TNT SERIES (HD) »2«
+http://23.153.217.158:8080/live/982266366tv/5g6wjmn/171.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/KqtK9ZQ/TNTSERIES.jpg",TNT SERIES (HD) »2«
+http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/171.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/KqtK9ZQ/TNTSERIES.jpg",TNT SERIES (HD) »3«
+http://23.153.217.158:8080/live/945527550tv/jT670E3aM/172.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/kqgm3p7/UNIVERSALCHANNEL.jpg",UNIVERSAL CHANNEL (HD) »1«
+http://23.153.217.158:8080/live/945527550tv/jT670E3aM/232.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/kqgm3p7/UNIVERSALCHANNEL.jpg",UNIVERSAL CHANNEL (HD) »1«
+http://23.153.217.158:8080/live/982266366tv/5g6wjmn/232.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/kqgm3p7/UNIVERSALCHANNEL.jpg",UNIVERSAL CHANNEL (HD) »2«
+http://23.153.217.158:8080/live/945527550tv/jT670E3aM/233.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/kqgm3p7/UNIVERSALCHANNEL.jpg",UNIVERSAL CHANNEL (HD) »2«
+http://23.153.217.158:8080/live/982266366tv/5g6wjmn/233.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/kqgm3p7/UNIVERSALCHANNEL.jpg",UNIVERSAL CHANNEL (HD) »3«
+http://23.153.217.158:8080/live/945527550tv/jT670E3aM/234.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/kqgm3p7/UNIVERSALCHANNEL.jpg",UNIVERSAL CHANNEL (HD) »3«
+http://23.153.217.158:8080/live/982266366tv/5g6wjmn/234.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/vJrZD2P/WARNERTV.jpg",WARNER CHANNEL (HD) »2«
+http://23.153.217.158:8080/live/945527550tv/jT670E3aM/236.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/vJrZD2P/WARNERTV.jpg",WARNER CHANNEL (HD) »3«
+http://23.153.217.158:8080/live/945527550tv/jT670E3aM/237.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/vJrZD2P/WARNERTV.jpg",WARNER CHANNEL (HD) »3«
+http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/237.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/vJrZD2P/WARNERTV.jpg",WARNER CHANNEL (HD) »4«
+http://23.153.217.158:8080/live/945527550tv/jT670E3aM/238.m3u8
+#EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/vJrZD2P/WARNERTV.jpg",WARNER CHANNEL (HD) »4«
+http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/238.m3u8
