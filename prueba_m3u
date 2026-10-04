@@ -517,3 +517,211 @@ http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/237.m3u8
 http://23.153.217.158:8080/live/945527550tv/jT670E3aM/238.m3u8
 #EXTINF:-1 group-title="CINE & SERIES" tvg-logo="https://i.ibb.co/vJrZD2P/WARNERTV.jpg",WARNER CHANNEL (HD) »4«
 http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/238.m3u8
+#EXTINF:-1 group-title="CULTURA" tvg-logo="https://i.postimg.cc/6prPLFR4/2018-Animal-Planet-logo.png",ANIMAL PLANET (HD) »1«
+http://23.153.217.158:8080/live/945527550tv/jT670E3aM/402.m3u8
+#EXTINF:-1 group-title="CULTURA" tvg-logo="https://i.postimg.cc/6prPLFR4/2018-Animal-Planet-logo.png",ANIMAL PLANET (HD) »1«
+http://23.153.217.158:8080/live/982266366tv/5g6wjmn/402.m3u8
+#EXTINF:-1 group-title="CULTURA" tvg-logo="https://i.postimg.cc/6prPLFR4/2018-Animal-Planet-logo.png",ANIMAL PLANET (HD) »1«
+http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/402.m3u8
+#EXTINF:-1 group-title="CULTURA" tvg-logo="https://i.postimg.cc/6prPLFR4/2018-Animal-Planet-logo.png",ANIMAL PLANET (HD) »2«
+http://23.153.217.158:8080/live/945527550tv/jT670E3aM/403.m3u8
+#EXTINF:-1 group-title="CULTURA" tvg-logo="https://i.postimg.cc/6prPLFR4/2018-Animal-Planet-logo.png",ANIMAL PLANET (HD) »2«
+http://23.153.217.158:8080/live/982266366tv/5g6wjmn/403.m3u8
+#EXTINF:-1 group-title="CULTURA" tvg-logo="https://i.postimg.cc/6prPLFR4/2018-Animal-Planet-logo.png",ANIMAL PLANET (HD) »2«
+http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/403.m3u8
+#EXTINF:-1 group-title="CULTURA" tvg-logo="https://i.postimg.cc/6prPLFR4/2018-Animal-Planet-logo.png",ANIMAL PLANET (HD) »3«
+http://23.153.217.158:8080/live/945527550tv/jT670E3aM/404.m3u8
+#EXTINF:-1 group-title="CULTURA" tvg-logo="https://i.postimg.cc/6prPLFR4/2018-Animal-Planet-logo.png",ANIMAL PLANET (HD) »3«
+http://23.153.217.158:8080/live/982266366tv/5g6wjmn/404.m3u8
+#EXTINF:-1 group-title="CULTURA" tvg-logo="https://i.postimg.cc/6prPLFR4/2018-Animal-Planet-logo.png",ANIMAL PLANET (HD) »3«
+http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/404.m3u8
+#EXTINF:-1 group-title="CULTURA" tvg-logo="https://i.postimg.cc/6prPLFR4/2018-Animal-Planet-logo.png",ANIMAL PLANET (HD) »4«
+http://23.153.217.158:8080/live/945527550tv/jT670E3aM/405.m3u8
+#EXTINF:-1 group-title="CULTURA" tvg-logo="https://i.postimg.cc/6prPLFR4/2018-Animal-Planet-logo.png",ANIMAL PLANET (HD) »4«
+http://23.153.217.158:8080/live/982266366tv/5g6wjmn/405.m3u8
+#EXTINF:-1 group-title="CULTURA" tvg-logo="https://i.postimg.cc/6prPLFR4/2018-Animal-Planet-logo.png",ANIMAL PLANET (HD) »4«
+http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/405.m3u8
+#EXTINF:-1 group-title="CULTURA" tvg-logo="https://i.postimg.cc/kMWhdk11/discovery-channel-logo-0.png",DISCOVERY CHANNEL (HD) »1«
+http://23.153.217.158:8080/live/945527550tv/jT670E3aM/406.m3u8
+#EXTINF:-1 group-title="CULTURA" tvg-logo="https://i.postimg.cc/kMWhdk11/discovery-channel-logo-0.png",DISCOVERY CHANNEL (HD) »1«
+http://23.153.217.158:8080/live/982266366tv/5g6wjmn/406.m3u8
+#EXTINF:-1 group-title="CULTURA" tvg-logo="https://i.postimg.cc/kMWhdk11/discovery-channel-logo-0.png",DISCOVERY CHANNEL (HD) »1«
+http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/406.m3u8
+#EXTINF:-1 group-title="CULTURA" tvg-logo="https://i.postimg.cc/kMWhdk11/discovery-channel-logo-0.png",DISCOVERY CHANNEL (HD) »3«
+http://23.153.217.158:8080/live/945527550tv/jT670E3aM/408.m3u8
+#EXTINF:-1 group-title="CULTURA" tvg-logo="https://i.postimg.cc/kMWhdk11/discovery-channel-logo-0.png",DISCOVERY CHANNEL (HD) »3«
+http://23.153.217.158:8080/live/982266366tv/5g6wjmn/408.m3u8
+#EXTINF:-1 group-title="CULTURA" tvg-logo="https://i.postimg.cc/kMWhdk11/discovery-channel-logo-0.png",DISCOVERY CHANNEL (HD) »3«
+http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/408.m3u8
+#EXTINF:-1 group-title="CULTURA" tvg-logo="https://i.postimg.cc/mrQFrNvs/discovery-home-and-health-logo.png",DISCOVERY H&H (HD) »1«
+http://23.153.217.158:8080/live/945527550tv/jT670E3aM/410.m3u8
+#EXTINF:-1 group-title="CULTURA" tvg-logo="https://i.postimg.cc/mrQFrNvs/discovery-home-and-health-logo.png",DISCOVERY H&H (HD) »1«
+http://23.153.217.158:8080/live/982266366tv/5g6wjmn/410.m3u8
+#EXTINF:-1 group-title="CULTURA" tvg-logo="https://i.postimg.cc/mrQFrNvs/discovery-home-and-health-logo.png",DISCOVERY H&H (HD) »1«
+http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/410.m3u8
+#EXTINF:-1 group-title="CULTURA" tvg-logo="https://i.postimg.cc/mrQFrNvs/discovery-home-and-health-logo.png",DISCOVERY H&H (HD) »2«
+http://23.153.217.158:8080/live/945527550tv/jT670E3aM/411.m3u8
+#EXTINF:-1 group-title="CULTURA" tvg-logo="https://i.postimg.cc/mrQFrNvs/discovery-home-and-health-logo.png",DISCOVERY H&H (HD) »2«
+http://23.153.217.158:8080/live/982266366tv/5g6wjmn/411.m3u8
+#EXTINF:-1 group-title="CULTURA" tvg-logo="https://i.postimg.cc/mrQFrNvs/discovery-home-and-health-logo.png",DISCOVERY H&H (HD) »2«
+http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/411.m3u8
+#EXTINF:-1 group-title="CULTURA" tvg-logo="https://i.postimg.cc/mrQFrNvs/discovery-home-and-health-logo.png",DISCOVERY H&H (HD) »3«
+http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/412.m3u8
+#EXTINF:-1 group-title="CULTURA" tvg-logo="https://i.postimg.cc/mrQFrNvs/discovery-home-and-health-logo.png",DISCOVERY H&H (HD) »4«
+http://23.153.217.158:8080/live/945527550tv/jT670E3aM/413.m3u8
+#EXTINF:-1 group-title="CULTURA" tvg-logo="https://i.postimg.cc/mrQFrNvs/discovery-home-and-health-logo.png",DISCOVERY H&H (HD) »4«
+http://23.153.217.158:8080/live/982266366tv/5g6wjmn/413.m3u8
+#EXTINF:-1 group-title="CULTURA" tvg-logo="https://i.postimg.cc/mrQFrNvs/discovery-home-and-health-logo.png",DISCOVERY H&H (HD) »4«
+http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/413.m3u8
+#EXTINF:-1 group-title="CULTURA" tvg-logo="https://i.postimg.cc/y898s6Rg/ID-Investiga-o-Discovery.png",DISCOVERY INVESTIGATION (HD) »1«
+http://23.153.217.158:8080/live/945527550tv/jT670E3aM/437.m3u8
+#EXTINF:-1 group-title="CULTURA" tvg-logo="https://i.postimg.cc/y898s6Rg/ID-Investiga-o-Discovery.png",DISCOVERY INVESTIGATION (HD) »1«
+http://23.153.217.158:8080/live/982266366tv/5g6wjmn/437.m3u8
+#EXTINF:-1 group-title="CULTURA" tvg-logo="https://i.postimg.cc/y898s6Rg/ID-Investiga-o-Discovery.png",DISCOVERY INVESTIGATION (HD) »1«
+http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/437.m3u8
+#EXTINF:-1 group-title="CULTURA" tvg-logo="https://i.postimg.cc/y898s6Rg/ID-Investiga-o-Discovery.png",DISCOVERY INVESTIGATION (HD) »2«
+http://23.153.217.158:8080/live/945527550tv/jT670E3aM/438.m3u8
+#EXTINF:-1 group-title="CULTURA" tvg-logo="https://i.postimg.cc/y898s6Rg/ID-Investiga-o-Discovery.png",DISCOVERY INVESTIGATION (HD) »2«
+http://23.153.217.158:8080/live/982266366tv/5g6wjmn/438.m3u8
+#EXTINF:-1 group-title="CULTURA" tvg-logo="https://i.postimg.cc/y898s6Rg/ID-Investiga-o-Discovery.png",DISCOVERY INVESTIGATION (HD) »2«
+http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/438.m3u8
+#EXTINF:-1 group-title="CULTURA" tvg-logo="https://i.postimg.cc/y898s6Rg/ID-Investiga-o-Discovery.png",DISCOVERY INVESTIGATION (HD) »3«
+http://23.153.217.158:8080/live/945527550tv/jT670E3aM/439.m3u8
+#EXTINF:-1 group-title="CULTURA" tvg-logo="https://i.postimg.cc/y898s6Rg/ID-Investiga-o-Discovery.png",DISCOVERY INVESTIGATION (HD) »3«
+http://23.153.217.158:8080/live/982266366tv/5g6wjmn/439.m3u8
+#EXTINF:-1 group-title="CULTURA" tvg-logo="https://i.postimg.cc/y898s6Rg/ID-Investiga-o-Discovery.png",DISCOVERY INVESTIGATION (HD) »3«
+http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/439.m3u8
+#EXTINF:-1 group-title="CULTURA" tvg-logo="https://i.postimg.cc/52mXdNL4/20171215033423-2015-Discovery-theater-HD-logo.png",DISCOVERY THEATER (HD) »1«
+http://23.153.217.158:8080/live/945527550tv/jT670E3aM/418.m3u8
+#EXTINF:-1 group-title="CULTURA" tvg-logo="https://i.postimg.cc/52mXdNL4/20171215033423-2015-Discovery-theater-HD-logo.png",DISCOVERY THEATER (HD) »1«
+http://23.153.217.158:8080/live/982266366tv/5g6wjmn/418.m3u8
+#EXTINF:-1 group-title="CULTURA" tvg-logo="https://i.postimg.cc/52mXdNL4/20171215033423-2015-Discovery-theater-HD-logo.png",DISCOVERY THEATER (HD) »1«
+http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/418.m3u8
+#EXTINF:-1 group-title="CULTURA" tvg-logo="https://i.postimg.cc/52mXdNL4/20171215033423-2015-Discovery-theater-HD-logo.png",DISCOVERY THEATER (HD) »2«
+http://23.153.217.158:8080/live/945527550tv/jT670E3aM/419.m3u8
+#EXTINF:-1 group-title="CULTURA" tvg-logo="https://i.postimg.cc/52mXdNL4/20171215033423-2015-Discovery-theater-HD-logo.png",DISCOVERY THEATER (HD) »2«
+http://23.153.217.158:8080/live/982266366tv/5g6wjmn/419.m3u8
+#EXTINF:-1 group-title="CULTURA" tvg-logo="https://i.postimg.cc/52mXdNL4/20171215033423-2015-Discovery-theater-HD-logo.png",DISCOVERY THEATER (HD) »2«
+http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/419.m3u8
+#EXTINF:-1 group-title="CULTURA" tvg-logo="https://i.postimg.cc/rpQgmTXc/kisspng-discovery-turbo-television-channel-discovery-chann-5ae242c2a7be57-7776958815247776666871.png",DISCOVERY TURBO (HD) »1«
+http://23.153.217.158:8080/live/945527550tv/jT670E3aM/420.m3u8
+#EXTINF:-1 group-title="CULTURA" tvg-logo="https://i.postimg.cc/rpQgmTXc/kisspng-discovery-turbo-television-channel-discovery-chann-5ae242c2a7be57-7776958815247776666871.png",DISCOVERY TURBO (HD) »1«
+http://23.153.217.158:8080/live/982266366tv/5g6wjmn/420.m3u8
+#EXTINF:-1 group-title="CULTURA" tvg-logo="https://i.postimg.cc/rpQgmTXc/kisspng-discovery-turbo-television-channel-discovery-chann-5ae242c2a7be57-7776958815247776666871.png",DISCOVERY TURBO (HD) »1«
+http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/420.m3u8
+#EXTINF:-1 group-title="CULTURA" tvg-logo="https://i.postimg.cc/rpQgmTXc/kisspng-discovery-turbo-television-channel-discovery-chann-5ae242c2a7be57-7776958815247776666871.png",DISCOVERY TURBO (HD) »2«
+http://23.153.217.158:8080/live/945527550tv/jT670E3aM/421.m3u8
+#EXTINF:-1 group-title="CULTURA" tvg-logo="https://i.postimg.cc/rpQgmTXc/kisspng-discovery-turbo-television-channel-discovery-chann-5ae242c2a7be57-7776958815247776666871.png",DISCOVERY TURBO (HD) »2«
+http://23.153.217.158:8080/live/982266366tv/5g6wjmn/421.m3u8
+#EXTINF:-1 group-title="CULTURA" tvg-logo="https://i.postimg.cc/rpQgmTXc/kisspng-discovery-turbo-television-channel-discovery-chann-5ae242c2a7be57-7776958815247776666871.png",DISCOVERY TURBO (HD) »2«
+http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/421.m3u8
+#EXTINF:-1 group-title="CULTURA" tvg-logo="https://i.postimg.cc/rpQgmTXc/kisspng-discovery-turbo-television-channel-discovery-chann-5ae242c2a7be57-7776958815247776666871.png",DISCOVERY TURBO (HD) »3«
+http://23.153.217.158:8080/live/945527550tv/jT670E3aM/422.m3u8
+#EXTINF:-1 group-title="CULTURA" tvg-logo="https://i.postimg.cc/rpQgmTXc/kisspng-discovery-turbo-television-channel-discovery-chann-5ae242c2a7be57-7776958815247776666871.png",DISCOVERY TURBO (HD) »3«
+http://23.153.217.158:8080/live/982266366tv/5g6wjmn/422.m3u8
+#EXTINF:-1 group-title="CULTURA" tvg-logo="https://i.postimg.cc/rpQgmTXc/kisspng-discovery-turbo-television-channel-discovery-chann-5ae242c2a7be57-7776958815247776666871.png",DISCOVERY TURBO (HD) »3«
+http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/422.m3u8
+#EXTINF:-1 group-title="CULTURA" tvg-logo="https://i.postimg.cc/bNc54zqF/World-Discovery-HD-logo.png",DISCOVERY WORLD (HD) »3«
+http://23.153.217.158:8080/live/945527550tv/jT670E3aM/425.m3u8
+#EXTINF:-1 group-title="CULTURA" tvg-logo="https://i.postimg.cc/bNc54zqF/World-Discovery-HD-logo.png",DISCOVERY WORLD (HD) »3«
+http://23.153.217.158:8080/live/982266366tv/5g6wjmn/425.m3u8
+#EXTINF:-1 group-title="CULTURA" tvg-logo="https://i.postimg.cc/bNc54zqF/World-Discovery-HD-logo.png",DISCOVERY WORLD (HD) »3«
+http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/425.m3u8
+#EXTINF:-1 group-title="CULTURA" tvg-logo="https://i.postimg.cc/JnjNXCSG/Elgourmet-logonuevo.png",EL GOURMET (HD) »1«
+http://23.153.217.158:8080/live/945527550tv/jT670E3aM/427.m3u8
+#EXTINF:-1 group-title="CULTURA" tvg-logo="https://i.postimg.cc/JnjNXCSG/Elgourmet-logonuevo.png",EL GOURMET (HD) »1«
+http://23.153.217.158:8080/live/982266366tv/5g6wjmn/427.m3u8
+#EXTINF:-1 group-title="CULTURA" tvg-logo="https://i.postimg.cc/JnjNXCSG/Elgourmet-logonuevo.png",EL GOURMET (HD) »1«
+http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/427.m3u8
+#EXTINF:-1 group-title="CULTURA" tvg-logo="https://i.postimg.cc/JnjNXCSG/Elgourmet-logonuevo.png",EL GOURMET (HD) »2«
+http://23.153.217.158:8080/live/945527550tv/jT670E3aM/428.m3u8
+#EXTINF:-1 group-title="CULTURA" tvg-logo="https://i.postimg.cc/JnjNXCSG/Elgourmet-logonuevo.png",EL GOURMET (HD) »2«
+http://23.153.217.158:8080/live/982266366tv/5g6wjmn/428.m3u8
+#EXTINF:-1 group-title="CULTURA" tvg-logo="https://i.postimg.cc/JnjNXCSG/Elgourmet-logonuevo.png",EL GOURMET (HD) »2«
+http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/428.m3u8
+#EXTINF:-1 group-title="CULTURA" tvg-logo="https://i.postimg.cc/3RhyP4bx/pngwing-com.png",H2 (HD) »1«
+http://23.153.217.158:8080/live/945527550tv/jT670E3aM/429.m3u8
+#EXTINF:-1 group-title="CULTURA" tvg-logo="https://i.postimg.cc/3RhyP4bx/pngwing-com.png",H2 (HD) »1«
+http://23.153.217.158:8080/live/982266366tv/5g6wjmn/429.m3u8
+#EXTINF:-1 group-title="CULTURA" tvg-logo="https://i.postimg.cc/3RhyP4bx/pngwing-com.png",H2 (HD) »1«
+http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/429.m3u8
+#EXTINF:-1 group-title="CULTURA" tvg-logo="https://i.postimg.cc/3RhyP4bx/pngwing-com.png",H2 (HD) »2«
+http://23.153.217.158:8080/live/945527550tv/jT670E3aM/430.m3u8
+#EXTINF:-1 group-title="CULTURA" tvg-logo="https://i.postimg.cc/3RhyP4bx/pngwing-com.png",H2 (HD) »2«
+http://23.153.217.158:8080/live/982266366tv/5g6wjmn/430.m3u8
+#EXTINF:-1 group-title="CULTURA" tvg-logo="https://i.postimg.cc/3RhyP4bx/pngwing-com.png",H2 (HD) »2«
+http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/430.m3u8
+#EXTINF:-1 group-title="CULTURA" tvg-logo="https://i.postimg.cc/wB83mRzQ/toppng-com-svg-history-channel-logo-835x768.png",HISTORY CHANNEL (HD) »1«
+http://23.153.217.158:8080/live/945527550tv/jT670E3aM/431.m3u8
+#EXTINF:-1 group-title="CULTURA" tvg-logo="https://i.postimg.cc/wB83mRzQ/toppng-com-svg-history-channel-logo-835x768.png",HISTORY CHANNEL (HD) »1«
+http://23.153.217.158:8080/live/982266366tv/5g6wjmn/431.m3u8
+#EXTINF:-1 group-title="CULTURA" tvg-logo="https://i.postimg.cc/wB83mRzQ/toppng-com-svg-history-channel-logo-835x768.png",HISTORY CHANNEL (HD) »1«
+http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/431.m3u8
+#EXTINF:-1 group-title="CULTURA" tvg-logo="https://i.postimg.cc/wB83mRzQ/toppng-com-svg-history-channel-logo-835x768.png",HISTORY CHANNEL (HD) »2«
+http://23.153.217.158:8080/live/945527550tv/jT670E3aM/432.m3u8
+#EXTINF:-1 group-title="CULTURA" tvg-logo="https://i.postimg.cc/wB83mRzQ/toppng-com-svg-history-channel-logo-835x768.png",HISTORY CHANNEL (HD) »2«
+http://23.153.217.158:8080/live/982266366tv/5g6wjmn/432.m3u8
+#EXTINF:-1 group-title="CULTURA" tvg-logo="https://i.postimg.cc/wB83mRzQ/toppng-com-svg-history-channel-logo-835x768.png",HISTORY CHANNEL (HD) »2«
+http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/432.m3u8
+#EXTINF:-1 group-title="CULTURA" tvg-logo="https://i.postimg.cc/wB83mRzQ/toppng-com-svg-history-channel-logo-835x768.png",HISTORY CHANNEL (HD) »3«
+http://23.153.217.158:8080/live/945527550tv/jT670E3aM/433.m3u8
+#EXTINF:-1 group-title="CULTURA" tvg-logo="https://i.postimg.cc/wB83mRzQ/toppng-com-svg-history-channel-logo-835x768.png",HISTORY CHANNEL (HD) »3«
+http://23.153.217.158:8080/live/982266366tv/5g6wjmn/433.m3u8
+#EXTINF:-1 group-title="CULTURA" tvg-logo="https://i.postimg.cc/wB83mRzQ/toppng-com-svg-history-channel-logo-835x768.png",HISTORY CHANNEL (HD) »3«
+http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/433.m3u8
+#EXTINF:-1 group-title="CULTURA" tvg-logo="https://i.postimg.cc/wB83mRzQ/toppng-com-svg-history-channel-logo-835x768.png",HISTORY CHANNEL (HD) »4«
+http://23.153.217.158:8080/live/982266366tv/5g6wjmn/434.m3u8
+#EXTINF:-1 group-title="CULTURA" tvg-logo="https://i.postimg.cc/wB83mRzQ/toppng-com-svg-history-channel-logo-835x768.png",HISTORY CHANNEL (HD) »4«
+http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/434.m3u8
+#EXTINF:-1 group-title="CULTURA" tvg-logo="https://i.postimg.cc/wB83mRzQ/toppng-com-svg-history-channel-logo-835x768.png",HISTORY CHANNEL (HD) »5«
+http://23.153.217.158:8080/live/982266366tv/5g6wjmn/435.m3u8
+#EXTINF:-1 group-title="CULTURA" tvg-logo="https://i.postimg.cc/wB83mRzQ/toppng-com-svg-history-channel-logo-835x768.png",HISTORY CHANNEL (HD) »5«
+http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/435.m3u8
+#EXTINF:-1 group-title="CULTURA" tvg-logo="https://i.postimg.cc/66LSskTW/Love-Nature-TV.png",LOVE NATURE (HD)
+http://23.153.217.158:8080/live/945527550tv/jT670E3aM/451.m3u8
+#EXTINF:-1 group-title="CULTURA" tvg-logo="https://i.postimg.cc/66LSskTW/Love-Nature-TV.png",LOVE NATURE (HD)
+http://23.153.217.158:8080/live/982266366tv/5g6wjmn/451.m3u8
+#EXTINF:-1 group-title="CULTURA" tvg-logo="https://i.postimg.cc/66LSskTW/Love-Nature-TV.png",LOVE NATURE (HD)
+http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/451.m3u8
+#EXTINF:-1 group-title="CULTURA" tvg-logo="https://i.postimg.cc/mkF0CkB7/kisspng-logo-national-geographic-society-television-channe-morgan-freeman-revelations-entertainment.png",NAT GEO (HD) »1«
+http://23.153.217.158:8080/live/945527550tv/jT670E3aM/440.m3u8
+#EXTINF:-1 group-title="CULTURA" tvg-logo="https://i.postimg.cc/mkF0CkB7/kisspng-logo-national-geographic-society-television-channe-morgan-freeman-revelations-entertainment.png",NAT GEO (HD) »1«
+http://23.153.217.158:8080/live/982266366tv/5g6wjmn/440.m3u8
+#EXTINF:-1 group-title="CULTURA" tvg-logo="https://i.postimg.cc/mkF0CkB7/kisspng-logo-national-geographic-society-television-channe-morgan-freeman-revelations-entertainment.png",NAT GEO (HD) »1«
+http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/440.m3u8
+#EXTINF:-1 group-title="CULTURA" tvg-logo="https://i.postimg.cc/mkF0CkB7/kisspng-logo-national-geographic-society-television-channe-morgan-freeman-revelations-entertainment.png",NAT GEO (HD) »4«
+http://23.153.217.158:8080/live/945527550tv/jT670E3aM/445.m3u8
+#EXTINF:-1 group-title="CULTURA" tvg-logo="https://i.postimg.cc/mkF0CkB7/kisspng-logo-national-geographic-society-television-channe-morgan-freeman-revelations-entertainment.png",NAT GEO (HD) »4«
+http://23.153.217.158:8080/live/982266366tv/5g6wjmn/445.m3u8
+#EXTINF:-1 group-title="CULTURA" tvg-logo="https://i.postimg.cc/mkF0CkB7/kisspng-logo-national-geographic-society-television-channe-morgan-freeman-revelations-entertainment.png",NAT GEO (HD) »4«
+http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/445.m3u8
+#EXTINF:-1 group-title="CULTURA" tvg-logo="https://i.postimg.cc/wvt6469j/Nat-Geo-Wild-logo.png",NAT GEO WILD (HD) »1«
+http://23.153.217.158:8080/live/945527550tv/jT670E3aM/442.m3u8
+#EXTINF:-1 group-title="CULTURA" tvg-logo="https://i.postimg.cc/wvt6469j/Nat-Geo-Wild-logo.png",NAT GEO WILD (HD) »1«
+http://23.153.217.158:8080/live/982266366tv/5g6wjmn/442.m3u8
+#EXTINF:-1 group-title="CULTURA" tvg-logo="https://i.postimg.cc/wvt6469j/Nat-Geo-Wild-logo.png",NAT GEO WILD (HD) »1«
+http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/442.m3u8
+#EXTINF:-1 group-title="CULTURA" tvg-logo="https://i.postimg.cc/wvt6469j/Nat-Geo-Wild-logo.png",NAT GEO WILD (HD) »2«
+http://23.153.217.158:8080/live/945527550tv/jT670E3aM/443.m3u8
+#EXTINF:-1 group-title="CULTURA" tvg-logo="https://i.postimg.cc/wvt6469j/Nat-Geo-Wild-logo.png",NAT GEO WILD (HD) »2«
+http://23.153.217.158:8080/live/982266366tv/5g6wjmn/443.m3u8
+#EXTINF:-1 group-title="CULTURA" tvg-logo="https://i.postimg.cc/wvt6469j/Nat-Geo-Wild-logo.png",NAT GEO WILD (HD) »2«
+http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/443.m3u8
+#EXTINF:-1 group-title="CULTURA" tvg-logo="https://i.postimg.cc/05wkp2tt/622f4615ae7f8f3715381b48.png",TLC (HD) »2«
+http://23.153.217.158:8080/live/945527550tv/jT670E3aM/448.m3u8
+#EXTINF:-1 group-title="CULTURA" tvg-logo="https://i.postimg.cc/05wkp2tt/622f4615ae7f8f3715381b48.png",TLC (HD) »2«
+http://23.153.217.158:8080/live/982266366tv/5g6wjmn/448.m3u8
+#EXTINF:-1 group-title="CULTURA" tvg-logo="https://i.postimg.cc/05wkp2tt/622f4615ae7f8f3715381b48.png",TLC (HD) »2«
+http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/448.m3u8
+#EXTINF:-1 group-title="CULTURA" tvg-logo="https://i.postimg.cc/05wkp2tt/622f4615ae7f8f3715381b48.png",TLC (HD) »3«
+http://23.153.217.158:8080/live/945527550tv/jT670E3aM/449.m3u8
+#EXTINF:-1 group-title="CULTURA" tvg-logo="https://i.postimg.cc/05wkp2tt/622f4615ae7f8f3715381b48.png",TLC (HD) »3«
+http://23.153.217.158:8080/live/982266366tv/5g6wjmn/449.m3u8
+#EXTINF:-1 group-title="CULTURA" tvg-logo="https://i.postimg.cc/05wkp2tt/622f4615ae7f8f3715381b48.png",TLC (HD) »3«
+http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/449.m3u8
+#EXTINF:-1 group-title="CULTURA" tvg-logo="https://i.postimg.cc/7LFcDDg6/358bb76c4f07e3b71dcd83b200a56377.png",TRU TV (HD)
+http://23.153.217.158:8080/live/945527550tv/jT670E3aM/450.m3u8
+#EXTINF:-1 group-title="CULTURA" tvg-logo="https://i.postimg.cc/7LFcDDg6/358bb76c4f07e3b71dcd83b200a56377.png",TRU TV (HD)
+http://23.153.217.158:8080/live/982266366tv/5g6wjmn/450.m3u8
+#EXTINF:-1 group-title="CULTURA" tvg-logo="https://i.postimg.cc/7LFcDDg6/358bb76c4f07e3b71dcd83b200a56377.png",TRU TV (HD)
+http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/450.m3u8
