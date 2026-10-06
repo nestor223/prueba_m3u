@@ -1,213 +1,227 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="CINE  | A&E HD" tvg-logo="https://i.ibb.co/MVkp7T8/AE.png" group-title="🎬 | CINE PREMIUM HD - SD",CINE  | A&E HD
-http://velive.lat:8080/d1FEeXNjMm5UT0txdmNFY0dlaW9jaTNGRTBrVjI5QzhPMXBrT2JDZXo2bz0
-#EXTINF:-1 tvg-id="" tvg-name="CINE  | A&E SD" tvg-logo="https://i.ibb.co/MVkp7T8/AE.png" group-title="🎬 | CINE PREMIUM HD - SD",CINE  | A&E SD
-http://velive.lat:8080/d1FEeXNjMm5UT0txdmNFY0dlaW9jc282K0RRZjI2dVgyT0NxM2hzY0x3RT0
-#EXTINF:-1 tvg-id="" tvg-name="CINE  | CINEMAX HD" tvg-logo="https://i.ibb.co/gJDJRtX/CINEMAX.png" group-title="🎬 | CINE PREMIUM HD - SD",CINE  | CINEMAX HD
-http://velive.lat:8080/d1FEeXNjMm5UT0txdmNFY0dlaW9jclZmSFNWTXdZQUtnSzVNNG5jTVNoUT0
-#EXTINF:-1 tvg-id="" tvg-name="CINE  | CINEMAX  SD" tvg-logo="https://i.ibb.co/gJDJRtX/CINEMAX.png" group-title="🎬 | CINE PREMIUM HD - SD",CINE  | CINEMAX  SD
-http://velive.lat:8080/d1FEeXNjMm5UT0txdmNFY0dlaW9jdjVpY0NrZE9zMUlTeFhMTEFOQWVUND0
-#EXTINF:-1 tvg-id="" tvg-name="CINE | STAR CHANNEL  HD" tvg-logo="https://i.ibb.co/Bwrwbc1/starchan.png" group-title="🎬 | CINE PREMIUM HD - SD",CINE | STAR CHANNEL  HD
-http://velive.lat:8080/d1FEeXNjMm5UT0txdmNFY0dlaW9jbXFzUHJvMW05ZEZGQ3ZBMjlQTHdCOD0
-#EXTINF:-1 tvg-id="" tvg-name="CINE | STAR CHANNEL  SD" tvg-logo="https://i.ibb.co/Bwrwbc1/starchan.png" group-title="🎬 | CINE PREMIUM HD - SD",CINE | STAR CHANNEL  SD
-http://velive.lat:8080/d1FEeXNjMm5UT0txdmNFY0dlaW9jbXRHL0JKNjRpdmdpYjFOT2NEaHVmND0
-#EXTINF:-1 tvg-id="" tvg-name="CINE | HBO  HD" tvg-logo="https://i.ibb.co/BnfqKyQ/HBOORIGINAL.png" group-title="🎬 | CINE PREMIUM HD - SD",CINE | HBO  HD
-http://velive.lat:8080/d1FEeXNjMm5UT0txdmNFY0dlaW9jb2ZMOFNyRWswYXRkQ3RvR2E5K3lsQT0
-#EXTINF:-1 tvg-id="" tvg-name="CINE  | HBO  SD" tvg-logo="https://i.ibb.co/KW4s754/HBOORIGINALSD.png" group-title="🎬 | CINE PREMIUM HD - SD",CINE  | HBO  SD
-http://velive.lat:8080/d1FEeXNjMm5UT0txdmNFY0dlaW9jdWlTb1NEczhJbzlraGNrRG9xRUNkdz0
-#EXTINF:-1 tvg-id="" tvg-name="CINE  | HBO 2  HD" tvg-logo="https://i.ibb.co/j3Qh4Vj/HBO2.png" group-title="🎬 | CINE PREMIUM HD - SD",CINE  | HBO 2  HD
-http://velive.lat:8080/d1FEeXNjMm5UT0txdmNFY0dlaW9jdmlEUlRnd1BJanlkYXFlbTF2dDBQMD0
-#EXTINF:-1 tvg-id="" tvg-name="CINE | HBO 2  SD" tvg-logo="https://i.ibb.co/85D56mT/HBO2SD.png" group-title="🎬 | CINE PREMIUM HD - SD",CINE | HBO 2  SD
-http://velive.lat:8080/d1FEeXNjMm5UT0txdmNFY0dlaW9jbzZXVHZROUJYMjROKytqMjEvTU9BZz0
-#EXTINF:-1 tvg-id="" tvg-name="CINE  | HBO PLUS  HD" tvg-logo="https://i.ibb.co/8sQ0FS1/HBOPLU.png" group-title="🎬 | CINE PREMIUM HD - SD",CINE  | HBO PLUS  HD
-http://velive.lat:8080/d1FEeXNjMm5UT0txdmNFY0dlaW9jbHBoMUlsOHRreFBCY0NFYVFyZ3Fqdz0
-#EXTINF:-1 tvg-id="" tvg-name="CINE  | HBO PLUS  SD" tvg-logo="https://i.ibb.co/xCkzbpr/HBOPLUSSD.png" group-title="🎬 | CINE PREMIUM HD - SD",CINE  | HBO PLUS  SD
-http://velive.lat:8080/d1FEeXNjMm5UT0txdmNFY0dlaW9jZ0haT2dodlR3YVF6c3NkYjE0bmd0dz0
-#EXTINF:-1 tvg-id="" tvg-name="CINE | HBO FAMILY  HD" tvg-logo="https://i.ibb.co/C8swFDC/HBOFAMILY.png" group-title="🎬 | CINE PREMIUM HD - SD",CINE | HBO FAMILY  HD
-http://velive.lat:8080/d1FEeXNjMm5UT0txdmNFY0dlaW9jbmt4ZEsya2c4Rjd5UnFUS0hvRmlITT0
-#EXTINF:-1 tvg-id="" tvg-name="CINE | HBO FAMILY  SD" tvg-logo="https://i.ibb.co/BGY8ZRH/HBOFAMILYSD.png" group-title="🎬 | CINE PREMIUM HD - SD",CINE | HBO FAMILY  SD
-http://velive.lat:8080/d1FEeXNjMm5UT0txdmNFY0dlaW9jakVhU1hHQWFCZG8ydDFGRkltQ3NxND0
-#EXTINF:-1 tvg-id="" tvg-name="CINE  | HBO POP  HD" tvg-logo="https://i.ibb.co/3F06QYH/HBOPOP.png" group-title="🎬 | CINE PREMIUM HD - SD",CINE  | HBO POP  HD
-http://velive.lat:8080/d1FEeXNjMm5UT0txdmNFY0dlaW9jakJUNTVmWVg5VU8xVmphK3h6akVMST0
-#EXTINF:-1 tvg-id="" tvg-name="CINE  | HBO POP  SD" tvg-logo="https://i.ibb.co/Cs7PBsp/HBOPOPSD.png" group-title="🎬 | CINE PREMIUM HD - SD",CINE  | HBO POP  SD
-http://velive.lat:8080/d1FEeXNjMm5UT0txdmNFY0dlaW9jZ2RIZEoyd2RRNW9LemtVOXZLek4zYz0
-#EXTINF:-1 tvg-id="" tvg-name="HBO SIGNATURE" tvg-logo="https://i.ibb.co/DbrQjXC/HBOSIGNATURA.png" group-title="🎬 | CINE PREMIUM HD - SD",HBO SIGNATURE
-http://velive.lat:8080/d1FEeXNjMm5UT0txdmNFY0dlaW9jay9PWG5qZ2tqK2VSRlFnaE9Oakt2WT0
-#EXTINF:-1 tvg-id="" tvg-name="HBO SIGNATURE SD" tvg-logo="https://i.ibb.co/85zVm5w/HBOSIGNATURESD.png" group-title="🎬 | CINE PREMIUM HD - SD",HBO SIGNATURE SD
-http://velive.lat:8080/d1FEeXNjMm5UT0txdmNFY0dlaW9jbVp1WS91R1htUDZ0L0VSdWxCbitEWT0
-#EXTINF:-1 tvg-id="" tvg-name="HBO MUNDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="🎬 | CINE PREMIUM HD - SD",HBO MUNDI
-http://velive.lat:8080/d1FEeXNjMm5UT0txdmNFY0dlaW9ja2Rzd0t3ZlJkM3BSUmFmSUlYZG1Maz0
-#EXTINF:-1 tvg-id="" tvg-name="HBO XTREME MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="🎬 | CINE PREMIUM HD - SD",HBO XTREME MX
-http://velive.lat:8080/d1FEeXNjMm5UT0txdmNFY0dlaW9jdHNtVVZQMFIrVVIzaG0zeEVTT1haST0
-#EXTINF:-1 tvg-id="" tvg-name="CINE  | TNT  HD" tvg-logo="https://i.ibb.co/Wg3202K/TNT.png" group-title="🎬 | CINE PREMIUM HD - SD",CINE  | TNT  HD
-http://velive.lat:8080/d1FEeXNjMm5UT0txdmNFY0dlaW9jbG5TekdZSWcwTExmWmpEb0lYWXp5OD0
-#EXTINF:-1 tvg-id="" tvg-name="CINE  | TNT  SD" tvg-logo="https://i.ibb.co/CH1qxtt/TNTSD.png" group-title="🎬 | CINE PREMIUM HD - SD",CINE  | TNT  SD
-http://velive.lat:8080/d1FEeXNjMm5UT0txdmNFY0dlaW9jdXF3ZG9kbm1Tb2tWdzBHWFJxa0xqQT0
-#EXTINF:-1 tvg-id="" tvg-name="CINE | TNT SERIES  HD" tvg-logo="https://i.ibb.co/ygyN5Z6/TNTSERIES.png" group-title="🎬 | CINE PREMIUM HD - SD",CINE | TNT SERIES  HD
-http://velive.lat:8080/d1FEeXNjMm5UT0txdmNFY0dlaW9jZzh3dStCcHdiQ2g2TkxKL1VZMXhRRT0
-#EXTINF:-1 tvg-id="" tvg-name="CINE |  TNT SERIES  SD" tvg-logo="https://i.ibb.co/ZJWrSSs/TNTSERIESSD.png" group-title="🎬 | CINE PREMIUM HD - SD",CINE |  TNT SERIES  SD
-http://velive.lat:8080/d1FEeXNjMm5UT0txdmNFY0dlaW9jdTliT2x3czQ3ZURTUWU1TjhKQkhDbz0
-#EXTINF:-1 tvg-id="" tvg-name="CINE | CINECANAL  HD" tvg-logo="https://i.ibb.co/mFv795Y/cinecanal.png" group-title="🎬 | CINE PREMIUM HD - SD",CINE | CINECANAL  HD
-http://velive.lat:8080/d1FEeXNjMm5UT0txdmNFY0dlaW9jaTZSL1gyUm1jbjJ4cklqbWd0SndtST0
-#EXTINF:-1 tvg-id="" tvg-name="CINE | CINECANAL  SD" tvg-logo="https://i.ibb.co/XD2cK24/cinecanalsd.png" group-title="🎬 | CINE PREMIUM HD - SD",CINE | CINECANAL  SD
-http://velive.lat:8080/d1FEeXNjMm5UT0txdmNFY0dlaW9jdUNkclMvaXFYS3huWWhzY0hkaXhzND0
-#EXTINF:-1 tvg-id="" tvg-name="CINE | AXN  HD" tvg-logo="https://i.ibb.co/n7VyVnR/AXN.png" group-title="🎬 | CINE PREMIUM HD - SD",CINE | AXN  HD
-http://velive.lat:8080/d1FEeXNjMm5UT0txdmNFY0dlaW9jdUpmRXlwV2luclVPSW5SU0VQME9hOD0
-#EXTINF:-1 tvg-id="" tvg-name="CINE | AXN  SD" tvg-logo="https://i.ibb.co/q0vvDfG/AXNSD.png" group-title="🎬 | CINE PREMIUM HD - SD",CINE | AXN  SD
-http://velive.lat:8080/d1FEeXNjMm5UT0txdmNFY0dlaW9jZy9oZ2RNTjdsY0F3LzQ0OGpYSzFGWT0
-#EXTINF:-1 tvg-id="" tvg-name="WARNER CHANNEL" tvg-logo="https://i.ibb.co/wJdSMPy/WARNER.png" group-title="🎬 | CINE PREMIUM HD - SD",WARNER CHANNEL
-http://velive.lat:8080/d1FEeXNjMm5UT0txdmNFY0dlaW9jcDBGVHl4c0hCMGZRODduT2djUkhRZz0
-#EXTINF:-1 tvg-id="" tvg-name="WARNER CHANNEL" tvg-logo="https://i.ibb.co/rZ8nSy0/WARNERSD.png" group-title="🎬 | CINE PREMIUM HD - SD",WARNER CHANNEL
-http://velive.lat:8080/d1FEeXNjMm5UT0txdmNFY0dlaW9jcFpRZGFRUFJhd1dUditEZk12OHROTT0
-#EXTINF:-1 tvg-id="" tvg-name="SONY" tvg-logo="https://i.ibb.co/Rc1gzn0/SONY.png" group-title="🎬 | CINE PREMIUM HD - SD",SONY
-http://velive.lat:8080/d1FEeXNjMm5UT0txdmNFY0dlaW9jaGFOcjVIbHNoTUdWVUdkaC9Gbk9Xaz0
-#EXTINF:-1 tvg-id="" tvg-name="CINE | SONY  SD" tvg-logo="https://i.ibb.co/Zcp7cZ7/SONYSD.png" group-title="🎬 | CINE PREMIUM HD - SD",CINE | SONY  SD
-http://velive.lat:8080/d1FEeXNjMm5UT0txdmNFY0dlaW9jbFFqNk41c3hqV28vWHVBZWc3WkhPST0
-#EXTINF:-1 tvg-id="" tvg-name="TCM" tvg-logo="https://i.ibb.co/cDH88qg/TCM.png" group-title="🎬 | CINE PREMIUM HD - SD",TCM
-http://velive.lat:8080/d1FEeXNjMm5UT0txdmNFY0dlaW9jcW56ZzY1OFVZaXhlTTMxc29aWk5TMD0
-#EXTINF:-1 tvg-id="" tvg-name="TCM" tvg-logo="https://i.ibb.co/rf4cfm8/TCMSD.png" group-title="🎬 | CINE PREMIUM HD - SD",TCM
-http://velive.lat:8080/d1FEeXNjMm5UT0txdmNFY0dlaW9jdHY0SlladnllcHdrekdDdmJMMXA0WT0
-#EXTINF:-1 tvg-id="" tvg-name="CINE | FX  HD" tvg-logo="https://i.ibb.co/Hn9YLb3/FX.png" group-title="🎬 | CINE PREMIUM HD - SD",CINE | FX  HD
-http://velive.lat:8080/d1FEeXNjMm5UT0txdmNFY0dlaW9jcEJram5uK3NHRHB4U0ZQS0dmZ2hsVT0
-#EXTINF:-1 tvg-id="" tvg-name="CINE | FX  SD" tvg-logo="https://i.ibb.co/7Qf6s45/FXSD.png" group-title="🎬 | CINE PREMIUM HD - SD",CINE | FX  SD
-http://velive.lat:8080/d1FEeXNjMm5UT0txdmNFY0dlaW9jcFpFYzA0VENoeWV6bjFjaFFYc0c2WT0
-#EXTINF:-1 tvg-id="" tvg-name="CINE | SPACE CHANEL  HD" tvg-logo="https://i.ibb.co/YLQKjWw/SPACE.png" group-title="🎬 | CINE PREMIUM HD - SD",CINE | SPACE CHANEL  HD
-http://velive.lat:8080/d1FEeXNjMm5UT0txdmNFY0dlaW9jdks5WTMrWUpqUTNzK0g0L1VSUlQ2ST0
-#EXTINF:-1 tvg-id="" tvg-name="CINE | SPACE CHANEL  SD" tvg-logo="https://i.ibb.co/b50PnkZ/SPACESD.png" group-title="🎬 | CINE PREMIUM HD - SD",CINE | SPACE CHANEL  SD
-http://velive.lat:8080/d1FEeXNjMm5UT0txdmNFY0dlaW9jcVM5cktqL1QvSHFKNSt1NVlQMWpJWT0
-#EXTINF:-1 tvg-id="" tvg-name="CINE | AMC HD" tvg-logo="https://i.ibb.co/zNx6Jtc/amc.png" group-title="🎬 | CINE PREMIUM HD - SD",CINE | AMC HD
-http://velive.lat:8080/d1FEeXNjMm5UT0txdmNFY0dlaW9jcEdQOTFkb0EwWlBUOGFrZlliODBkST0
-#EXTINF:-1 tvg-id="" tvg-name="CINE | AMC  SD" tvg-logo="https://i.ibb.co/x2kcFzf/amcsd.png" group-title="🎬 | CINE PREMIUM HD - SD",CINE | AMC  SD
-http://velive.lat:8080/d1FEeXNjMm5UT0txdmNFY0dlaW9jcHMzbEZhSHpoMDMyTEhUeFMydWdCbz0
-#EXTINF:-1 tvg-id="" tvg-name="CINE | GOLDEN  HD" tvg-logo="https://i.ibb.co/2t8jFkF/GOLDN.png" group-title="🎬 | CINE PREMIUM HD - SD",CINE | GOLDEN  HD
-http://velive.lat:8080/d1FEeXNjMm5UT0txdmNFY0dlaW9jdFpPd2ZlYTQ4cDRDckNLMFY1dDBwWT0
-#EXTINF:-1 tvg-id="" tvg-name="CINE | GOLDEN  SD" tvg-logo="https://i.ibb.co/6YDBt4J/GOLDENSD.png" group-title="🎬 | CINE PREMIUM HD - SD",CINE | GOLDEN  SD
-http://velive.lat:8080/d1FEeXNjMm5UT0txdmNFY0dlaW9jak0wZGlhbWx1NXVoSDh5aHB5cnNPST0
-#EXTINF:-1 tvg-id="" tvg-name="CINE | GOLDEN EDG  HD" tvg-logo="https://i.ibb.co/sFscTZz/EDGE.png" group-title="🎬 | CINE PREMIUM HD - SD",CINE | GOLDEN EDG  HD
-http://velive.lat:8080/d1FEeXNjMm5UT0txdmNFY0dlaW9jbVdNTkZibm1oS2Y1NEJCWkkyRnd6Yz0
-#EXTINF:-1 tvg-id="" tvg-name="CINE | GOLDEN EDG  SD" tvg-logo="https://i.ibb.co/b3Mjdcz/EDGESD.png" group-title="🎬 | CINE PREMIUM HD - SD",CINE | GOLDEN EDG  SD
-http://velive.lat:8080/d1FEeXNjMm5UT0txdmNFY0dlaW9jbzdIMFcrUENuMWYxL1ErWUZYYVNVdz0
-#EXTINF:-1 tvg-id="" tvg-name="CINE | GOLDEN PREMIER  HD" tvg-logo="https://i.ibb.co/nrrvNBf/PREMIEER.png" group-title="🎬 | CINE PREMIUM HD - SD",CINE | GOLDEN PREMIER  HD
-http://velive.lat:8080/d1FEeXNjMm5UT0txdmNFY0dlaW9jcXE1Q1RSM1o4UU1IZUNNSEhOblBaYz0
-#EXTINF:-1 tvg-id="" tvg-name="CINE | GOLDEN PREMIER  SD" tvg-logo="https://i.ibb.co/hRRXsQ3/PREMIERSD.png" group-title="🎬 | CINE PREMIUM HD - SD",CINE | GOLDEN PREMIER  SD
-http://velive.lat:8080/d1FEeXNjMm5UT0txdmNFY0dlaW9jaWxWeVRjK3ozSXZreTR3OXV1Y2FIcz0
-#EXTINF:-1 tvg-id="" tvg-name="CINE | PARAMOUNT CHANEL HD" tvg-logo="https://i.ibb.co/V9mMWpC/paramount.png" group-title="🎬 | CINE PREMIUM HD - SD",CINE | PARAMOUNT CHANEL HD
-http://velive.lat:8080/d1FEeXNjMm5UT0txdmNFY0dlaW9jbGJhanlFRm1kZGNwTytVYjdWd3hsST0
-#EXTINF:-1 tvg-id="" tvg-name="CINE | PARAMOUNT CHANEL SD" tvg-logo="https://i.ibb.co/64P8bHR/paramountsd.png" group-title="🎬 | CINE PREMIUM HD - SD",CINE | PARAMOUNT CHANEL SD
-http://velive.lat:8080/d1FEeXNjMm5UT0txdmNFY0dlaW9jdXYvS2NwR0xhUmlNam5TaXZLZ1BrTT0
-#EXTINF:-1 tvg-id="" tvg-name="CINE | GOLDEN PLUS HD" tvg-logo="https://i.ibb.co/ZcknySp/GPLUS.png" group-title="🎬 | CINE PREMIUM HD - SD",CINE | GOLDEN PLUS HD
-http://velive.lat:8080/d1FEeXNjMm5UT0txdmNFY0dlaW9jZzQrSVlucnpPa09seEEwcGppUTdiMD0
-#EXTINF:-1 tvg-id="" tvg-name="CINE | GOLDEN PLUS SD" tvg-logo="https://i.ibb.co/hMq5PmQ/GPLUSSD.png" group-title="🎬 | CINE PREMIUM HD - SD",CINE | GOLDEN PLUS SD
-http://velive.lat:8080/d1FEeXNjMm5UT0txdmNFY0dlaW9ja0xuTVdNQzI1aFl5cWRqaWZFak1Ocz0
-#EXTINF:-1 tvg-id="" tvg-name="CINE | CINE LATINO" tvg-logo="https://i.ibb.co/bRgXjbs/CINELATINO.png" group-title="🎬 | CINE PREMIUM HD - SD",CINE | CINE LATINO
-http://velive.lat:8080/d1FEeXNjMm5UT0txdmNFY0dlaW9jbHdZeWZoRlFjNUNVYzR4WmtpOW1Ucz0
-#EXTINF:-1 tvg-id="" tvg-name="CINE | DE PELICULA + ᴴᴰ" tvg-logo="https://i.ibb.co/bsvZT3B/DPELICULA-HD.png" group-title="🎬 | CINE PREMIUM HD - SD",CINE | DE PELICULA + ᴴᴰ
-http://velive.lat:8080/d1FEeXNjMm5UT0txdmNFY0dlaW9jaW5EVmdKYUZTdVBlRHN4b003Qk1EWT0
-#EXTINF:-1 tvg-id="" tvg-name="CINE | DE PELICULA CLASSIC" tvg-logo="https://i.ibb.co/xq4ZSYQ/DPELICULACLASSI.png" group-title="🎬 | CINE PREMIUM HD - SD",CINE | DE PELICULA CLASSIC
-http://velive.lat:8080/d1FEeXNjMm5UT0txdmNFY0dlaW9jb0ZWQXR4MmxvZEtuUDJ2aUI3VExGVT0
-#EXTINF:-1 tvg-id="" tvg-name="CINE | DE PELICULA" tvg-logo="https://i.ibb.co/v4nxB4J/DPELICULA.png" group-title="🎬 | CINE PREMIUM HD - SD",CINE | DE PELICULA
-http://velive.lat:8080/d1FEeXNjMm5UT0txdmNFY0dlaW9jcE5STWpFZ04vSkdqeDk1M21wZWYvbz0
-#EXTINF:-1 tvg-id="" tvg-name="CINE | De Pelicula plus" tvg-logo="https://i.ibb.co/CtGnBZb/DPELICULASD.png" group-title="🎬 | CINE PREMIUM HD - SD",CINE | De Pelicula plus
-http://velive.lat:8080/d1FEeXNjMm5UT0txdmNFY0dlaW9jaGhiUEtQb3BNcStJbWhOc2V2dDQxOD0
-#EXTINF:-1 tvg-id="" tvg-name="CINE | UNIVERSAL CHANEL  HD" tvg-logo="https://i.ibb.co/yhn1VjD/UNIVERSALCHA.png" group-title="🎬 | CINE PREMIUM HD - SD",CINE | UNIVERSAL CHANEL  HD
-http://velive.lat:8080/d1FEeXNjMm5UT0txdmNFY0dlaW9jbE1NYVo3eUJFZkt5VndEL3o2VTdCaz0
-#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL TV" tvg-logo="https://i.ibb.co/LSF9qF4/UNIVERSALCHANSD.png" group-title="🎬 | CINE PREMIUM HD - SD",UNIVERSAL TV
-http://velive.lat:8080/d1FEeXNjMm5UT0txdmNFY0dlaW9jdmU4eU5ReWlCK0lsUlFMZVd3WVIwMD0
-#EXTINF:-1 tvg-id="" tvg-name="P | UNIVERSAL COMEDY HD" tvg-logo="https://i.ibb.co/Jqq0ZVj/UCOMEDY.png" group-title="🎬 | CINE PREMIUM HD - SD",P | UNIVERSAL COMEDY HD
-http://velive.lat:8080/d1FEeXNjMm5UT0txdmNFY0dlaW9jcGJDQWovdHNyNm5ZcEJPZkw0VG5Faz0
-#EXTINF:-1 tvg-id="" tvg-name="P | UNIVERSAL REALITY HD" tvg-logo="https://i.ibb.co/Y30rtLY/UREALITY.png" group-title="🎬 | CINE PREMIUM HD - SD",P | UNIVERSAL REALITY HD
-http://velive.lat:8080/d1FEeXNjMm5UT0txdmNFY0dlaW9jcVE2MVdCeElWYVhQanY4ZCtFcW5xWT0
-#EXTINF:-1 tvg-id="" tvg-name="P | UNIVERSAL CINEMA HD" tvg-logo="https://i.ibb.co/SVRG0fM/UCINEMA.png" group-title="🎬 | CINE PREMIUM HD - SD",P | UNIVERSAL CINEMA HD
-http://velive.lat:8080/d1FEeXNjMm5UT0txdmNFY0dlaW9jbFYxODhCVmVuSGtuZ3hmazUzVFd4Zz0
-#EXTINF:-1 tvg-id="" tvg-name="P | UNIVERSAL CRIMEN HD" tvg-logo="https://i.ibb.co/wz04dvk/UCRIME.png" group-title="🎬 | CINE PREMIUM HD - SD",P | UNIVERSAL CRIMEN HD
-http://velive.lat:8080/d1FEeXNjMm5UT0txdmNFY0dlaW9jcVY0Sk1IMGR6cVk2TXpZOXNpUzA5bz0
-#EXTINF:-1 tvg-id="" tvg-name="CINE | UNIVERSAL PREMIER HD" tvg-logo="" group-title="🎬 | CINE PREMIUM HD - SD",CINE | UNIVERSAL PREMIER HD
-http://velive.lat:8080/d1FEeXNjMm5UT0txdmNFY0dlaW9jcU9jNGx6S3FxQ25MSmlWdVVoamRLcz0
-#EXTINF:-1 tvg-id="" tvg-name="STUDIO UNIVERSAL" tvg-logo="https://i.ibb.co/2KBdf0R/STUDIOFHD.png" group-title="🎬 | CINE PREMIUM HD - SD",STUDIO UNIVERSAL
-http://velive.lat:8080/d1FEeXNjMm5UT0txdmNFY0dlaW9jbmU2K1pvYlNWYjlDeW11bnJ3cmVCND0
-#EXTINF:-1 tvg-id="" tvg-name="STUDIO UNIVERSAL HD" tvg-logo="https://i.ibb.co/CW4Zmm4/STUDIOHD.png" group-title="🎬 | CINE PREMIUM HD - SD",STUDIO UNIVERSAL HD
-http://velive.lat:8080/d1FEeXNjMm5UT0txdmNFY0dlaW9jazcwRklxWmFoY3dmaDAvbFZOZ3RuRT0
-#EXTINF:-1 tvg-id="" tvg-name="STUDIO UNIVERSAL" tvg-logo="https://i.ibb.co/YyLV8wZ/STUDIOSD.png" group-title="🎬 | CINE PREMIUM HD - SD",STUDIO UNIVERSAL
-http://velive.lat:8080/d1FEeXNjMm5UT0txdmNFY0dlaW9jdmwzVE5HY2kyNzZYV01acXg5aXhWVT0
-#EXTINF:-1 tvg-id="" tvg-name="TRU TV" tvg-logo="https://i.ibb.co/HgRjvgk/TRUTV.png" group-title="🎬 | CINE PREMIUM HD - SD",TRU TV
-http://velive.lat:8080/d1FEeXNjMm5UT0txdmNFY0dlaW9jbHl2TEtmNmhTN3FUL2NJRXpVWmF5WT0
-#EXTINF:-1 tvg-id="" tvg-name="FILM & ARTS" tvg-logo="" group-title="🎬 | CINE PREMIUM HD - SD",FILM & ARTS
-http://velive.lat:8080/d1FEeXNjMm5UT0txdmNFY0dlaW9jaFpPSHhFQzNmZDNBKzBhZHZjZTZlQT0
-#EXTINF:-1 tvg-id="" tvg-name="DHE" tvg-logo="https://i.ibb.co/dpzM7v2/DHE.png" group-title="🎬 | CINE PREMIUM HD - SD",DHE
-http://velive.lat:8080/d1FEeXNjMm5UT0txdmNFY0dlaW9janR5UEx5Q09wWkNFeElSb0Ryc29uQT0
-#EXTINF:-1 tvg-id="" tvg-name="Europa europa" tvg-logo="https://i.ibb.co/Ybwcc69/EUROPAEUROPA.png" group-title="🎬 | CINE PREMIUM HD - SD",Europa europa
-http://velive.lat:8080/d1FEeXNjMm5UT0txdmNFY0dlaW9jdGNXSHI3MEtIK0oxNEtReXdzZy9NQT0
-#EXTINF:-1 tvg-id="" tvg-name="CSI en Español" tvg-logo="https://i.imgur.com/ifarQil.png" group-title="🎬 | CINE PREMIUM HD - SD",CSI en Español
-http://velive.lat:8080/d1FEeXNjMm5UT0txdmNFY0dlaW9jcDN6RUtCUFlPRTJjRWNHbThtZkcvST0
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami en español" tvg-logo="http://127.0.0.1/" group-title="🎬 | CINE PREMIUM HD - SD",CSI: Miami en español
-http://velive.lat:8080/d1FEeXNjMm5UT0txdmNFY0dlaW9jZ1FyUVBZNTUyYk9ya1JLUGpzS2VmUT0
-#EXTINF:-1 tvg-id="" tvg-name="CSI: NY en español" tvg-logo="http://127.0.0.1/" group-title="🎬 | CINE PREMIUM HD - SD",CSI: NY en español
-http://velive.lat:8080/d1FEeXNjMm5UT0txdmNFY0dlaW9jdWpLRU9MNjJsOVE2QmlKKzJEU1ZDRT0
-#EXTINF:-1 tvg-id="" tvg-name="ANIMAL Planet HD." tvg-logo="https://i.imgur.com/7MbapXB.png" group-title="🎬 |  CULTURA PREMIUM HD",ANIMAL Planet HD.
-http://velive.lat:8080/d1FEeXNjMm5UT0txdmNFY0dlaW9jaDN1SGlGR00rWlpWbEJzcTZKNmhYTT0
-#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET SD" tvg-logo="https://i.imgur.com/7MbapXB.png" group-title="🎬 |  CULTURA PREMIUM HD",ANIMAL PLANET SD
-http://velive.lat:8080/d1FEeXNjMm5UT0txdmNFY0dlaW9jaDRSZ3RJdkJ4anJINmhxV1ZuV0JWcz0
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel HD" tvg-logo="https://i.imgur.com/rH5dQg7.png" group-title="🎬 |  CULTURA PREMIUM HD",Discovery Channel HD
-http://velive.lat:8080/d1FEeXNjMm5UT0txdmNFY0dlaW9jdE1JQkRsWklCNFJhVDJ5ZVRJNjBXND0
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel SD" tvg-logo="https://i.imgur.com/rH5dQg7.png" group-title="🎬 |  CULTURA PREMIUM HD",Discovery Channel SD
-http://velive.lat:8080/d1FEeXNjMm5UT0txdmNFY0dlaW9jbk56OUhlSW9XRWJwdVJrWkdDS1RzTT0
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Home & Health HD" tvg-logo="https://i.imgur.com/1WnRxe1.png" group-title="🎬 |  CULTURA PREMIUM HD",Discovery Home & Health HD
-http://velive.lat:8080/d1FEeXNjMm5UT0txdmNFY0dlaW9jck1jVkxteHk0SFFGMmVYNmtLNnI5VT0
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Investigation HD" tvg-logo="https://i.imgur.com/sT49r2R.png" group-title="🎬 |  CULTURA PREMIUM HD",Discovery Investigation HD
-http://velive.lat:8080/d1FEeXNjMm5UT0txdmNFY0dlaW9jcUNTaE9oMkN4YXJXeVlha2VseFpMST0
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Home & Health SD" tvg-logo="https://i.imgur.com/1WnRxe1.png" group-title="🎬 |  CULTURA PREMIUM HD",Discovery Home & Health SD
-http://velive.lat:8080/d1FEeXNjMm5UT0txdmNFY0dlaW9ja0tGd0lVYUpaUmN2NUl4U1hvZWVBND0
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Investigation sd" tvg-logo="https://i.imgur.com/sT49r2R.png" group-title="🎬 |  CULTURA PREMIUM HD",Discovery Investigation sd
-http://velive.lat:8080/d1FEeXNjMm5UT0txdmNFY0dlaW9jdEEzTHF5NVhFQ2xsajhESFRGMEJNVT0
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY Science HD" tvg-logo="https://i.imgur.com/wLGyQju.png" group-title="🎬 |  CULTURA PREMIUM HD",DISCOVERY Science HD
-http://velive.lat:8080/d1FEeXNjMm5UT0txdmNFY0dlaW9jbXAra3BycTM3Y1dPU0Q5YXQxektEZz0
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY Theater HD" tvg-logo="https://i.imgur.com/2VvNlps.png" group-title="🎬 |  CULTURA PREMIUM HD",DISCOVERY Theater HD
-http://velive.lat:8080/d1FEeXNjMm5UT0txdmNFY0dlaW9jcXJVbUVrdGR3WDlrMVJRbUVZdThvST0
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY Theater sd" tvg-logo="https://i.imgur.com/2VvNlps.png" group-title="🎬 |  CULTURA PREMIUM HD",DISCOVERY Theater sd
-http://velive.lat:8080/d1FEeXNjMm5UT0txdmNFY0dlaW9jc3dRc3pJY3NHZ0RpaFB6RVlCRTYyQT0
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY Turbo HD" tvg-logo="https://i.imgur.com/pl9uO0a.png" group-title="🎬 |  CULTURA PREMIUM HD",DISCOVERY Turbo HD
-http://velive.lat:8080/d1FEeXNjMm5UT0txdmNFY0dlaW9ja1NIZVNLeGZTMVQ2YWpTYTlVS2ZxQT0
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY World HD" tvg-logo="https://i.imgur.com/0Qb1hxa.png" group-title="🎬 |  CULTURA PREMIUM HD",DISCOVERY World HD
-http://velive.lat:8080/d1FEeXNjMm5UT0txdmNFY0dlaW9jakpIM3pBUGNHVDYwZGlLMFREcDJObz0
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY Turbo SD" tvg-logo="https://i.imgur.com/pl9uO0a.png" group-title="🎬 |  CULTURA PREMIUM HD",DISCOVERY Turbo SD
-http://velive.lat:8080/d1FEeXNjMm5UT0txdmNFY0dlaW9jaEZXb25zcEE0ZmFUSHpzSms0MFlkVT0
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY World SD" tvg-logo="https://i.imgur.com/0Qb1hxa.png" group-title="🎬 |  CULTURA PREMIUM HD",DISCOVERY World SD
-http://velive.lat:8080/d1FEeXNjMm5UT0txdmNFY0dlaW9jaWhFNHl5cnhlcGxOVGIrZDBLS25BOD0
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Familia HD" tvg-logo="https://i.imgur.com/b0iHbhA.png" group-title="🎬 |  CULTURA PREMIUM HD",Discovery Familia HD
-http://velive.lat:8080/d1FEeXNjMm5UT0txdmNFY0dlaW9jdmRENlNkV0VKQXcxa0o0S3F6SWMxUT0
-#EXTINF:-1 tvg-id="" tvg-name="TLC MEXICO HD" tvg-logo="https://i.imgur.com/2zsspXj.png" group-title="🎬 |  CULTURA PREMIUM HD",TLC MEXICO HD
-http://velive.lat:8080/d1FEeXNjMm5UT0txdmNFY0dlaW9jbDRmVWp1eUxxSlVPbXEyNm1WVE5xcz0
-#EXTINF:-1 tvg-id="" tvg-name="TLC SD" tvg-logo="https://i.imgur.com/2zsspXj.png" group-title="🎬 |  CULTURA PREMIUM HD",TLC SD
-http://velive.lat:8080/d1FEeXNjMm5UT0txdmNFY0dlaW9jc1NYRTJnTVFRUzNIdXo3S0xwNjNHND0
-#EXTINF:-1 tvg-id="" tvg-name="E! Entretainment FHD" tvg-logo="https://i.imgur.com/rwcjjhs.png" group-title="🎬 |  CULTURA PREMIUM HD",E! Entretainment FHD
-http://velive.lat:8080/d1FEeXNjMm5UT0txdmNFY0dlaW9jbzlubXJVeGhTcjJ3VmJWTE4raUtmTT0
-#EXTINF:-1 tvg-id="" tvg-name="E! Entretainment HD" tvg-logo="https://i.imgur.com/rwcjjhs.png" group-title="🎬 |  CULTURA PREMIUM HD",E! Entretainment HD
-http://velive.lat:8080/d1FEeXNjMm5UT0txdmNFY0dlaW9jckVVYVpnYXUyK3JrUXZWYXBsR3Bmcz0
-#EXTINF:-1 tvg-id="" tvg-name="HISTORY HD" tvg-logo="https://i.imgur.com/Tfw7oaU.png" group-title="🎬 |  CULTURA PREMIUM HD",HISTORY HD
-http://velive.lat:8080/d1FEeXNjMm5UT0txdmNFY0dlaW9jaDRWeHVOVXRWM09LV0x6SXF5R1pRZz0
-#EXTINF:-1 tvg-id="" tvg-name="HISTORY SD" tvg-logo="https://i.imgur.com/Tfw7oaU.png" group-title="🎬 |  CULTURA PREMIUM HD",HISTORY SD
-http://velive.lat:8080/d1FEeXNjMm5UT0txdmNFY0dlaW9jc2laQkd2OVBWVnM0VVY0LzFPeUNZQT0
-#EXTINF:-1 tvg-id="" tvg-name="History 2 HD" tvg-logo="https://i.imgur.com/GRWFcpq.png" group-title="🎬 |  CULTURA PREMIUM HD",History 2 HD
-http://velive.lat:8080/d1FEeXNjMm5UT0txdmNFY0dlaW9jcktrUlZDUkJ4T01yeVRha2hpZUZvVT0
-#EXTINF:-1 tvg-id="" tvg-name="NATGEO HD" tvg-logo="https://i.imgur.com/APItKTW.png" group-title="🎬 |  CULTURA PREMIUM HD",NATGEO HD
-http://velive.lat:8080/d1FEeXNjMm5UT0txdmNFY0dlaW9jdkl1bE1JdCsyWXNoL1BNZ2pPa0VhMD0
-#EXTINF:-1 tvg-id="" tvg-name="NATGEO SD" tvg-logo="https://i.imgur.com/APItKTW.png" group-title="🎬 |  CULTURA PREMIUM HD",NATGEO SD
-http://velive.lat:8080/d1FEeXNjMm5UT0txdmNFY0dlaW9jb1hkNkQvRG40cXRhTzg2eUdwaTQzND0
-#EXTINF:-1 tvg-id="" tvg-name="NATGEO WILD FHD" tvg-logo="https://i.imgur.com/6kVMdtI.png" group-title="🎬 |  CULTURA PREMIUM HD",NATGEO WILD FHD
-http://velive.lat:8080/d1FEeXNjMm5UT0txdmNFY0dlaW9jaFh3NWpLMUtvTTY0cS8xVEhOVnFaaz0
-#EXTINF:-1 tvg-id="" tvg-name="LOVE  NATURALEZA" tvg-logo="https://i.imgur.com/752GR4Q.png" group-title="🎬 |  CULTURA PREMIUM HD",LOVE  NATURALEZA
-http://velive.lat:8080/d1FEeXNjMm5UT0txdmNFY0dlaW9jc25qRFV3d3o2VS9RcURpd3VPVGo0ST0
-#EXTINF:-1 tvg-id="" tvg-name="EL GOURMET" tvg-logo="https://i.imgur.com/Z66BTt0.png" group-title="🎬 |  CULTURA PREMIUM HD",EL GOURMET
-http://velive.lat:8080/d1FEeXNjMm5UT0txdmNFY0dlaW9jbWhVOThraWhjeWQ5OW5SeVR6Unc2RT0
-#EXTINF:-1 tvg-id="" tvg-name="CANAL COCINA HD." tvg-logo="https://i.imgur.com/f9kDoYE.png" group-title="🎬 |  CULTURA PREMIUM HD",CANAL COCINA HD.
-http://velive.lat:8080/d1FEeXNjMm5UT0txdmNFY0dlaW9jZ0hYb0c5cDV3OHdFSEJIa0llZ0VXND0
-#EXTINF:-1 tvg-id="" tvg-name="HGTV FHD" tvg-logo="https://i.imgur.com/NmgQ5Pe.png" group-title="🎬 |  CULTURA PREMIUM HD",HGTV FHD
-http://velive.lat:8080/d1FEeXNjMm5UT0txdmNFY0dlaW9jbStMRE5mT2t0REpxNFlZWnUwcWhobz0
-#EXTINF:-1 tvg-id="" tvg-name="LIFETIME HD" tvg-logo="https://i.imgur.com/MQfrHGk.png" group-title="🎬 |  CULTURA PREMIUM HD",LIFETIME HD
-http://velive.lat:8080/d1FEeXNjMm5UT0txdmNFY0dlaW9jcThjVEczbFlWemZiVm5sMk95TW41RT0
-#EXTINF:-1 tvg-id="" tvg-name="DW ESPAÑOL" tvg-logo="https://i.imgur.com/O8uHKdA.png" group-title="🎬 |  CULTURA PREMIUM HD",DW ESPAÑOL
-http://velive.lat:8080/d1FEeXNjMm5UT0txdmNFY0dlaW9jZ2p3YVJDT0hHVmlXUjJuV0p4MGszST0
-#EXTINF:-1 tvg-id="" tvg-name="EN | Food Network HD" tvg-logo="https://i.imgur.com/KraZ2Qb.png" group-title="🎬 |  CULTURA PREMIUM HD",EN | Food Network HD
-http://velive.lat:8080/d1FEeXNjMm5UT0txdmNFY0dlaW9jcXNEaTRNd0p1Q1NhU0tQUFRwdWIyMD0
-#EXTINF:-1 tvg-id="" tvg-name="HOLA TV MEXICO FHD" tvg-logo="https://i.imgur.com/ImFdyUz.png" group-title="🎬 |  CULTURA PREMIUM HD",HOLA TV MEXICO FHD
-http://velive.lat:8080/d1FEeXNjMm5UT0txdmNFY0dlaW9jaGVEbmRET2JQYlg0WFlTSG9mMDZmaz0
+#EXTINF:-1 tvg-logo="http://mundo2.vip:8080/images/5158b013c9827ca60160ef8925d1edba.png" group-title="General", CINE|•FILMS & ∆RTS
+http://daleplaytv.vip/live/9C00D37FA543/D37FA5439C00/538270.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ3ULDxLzwCnoThNDFcSQWEAm-c9mv1zaicE-kkEzOWiOs7gA8OoCi5C8&s" group-title="General", CINE l P∆NICO HD
+http://daleplaytv.vip/live/9C00D37FA543/D37FA5439C00/538093.m3u8
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/mR0lHE3.png" group-title="General", CINE | A&E HD
+http://daleplaytv.vip/live/9C00D37FA543/D37FA5439C00/435979.m3u8
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/fyhe0NT.png" group-title="General", CINE | A&E SD
+http://daleplaytv.vip/live/9C00D37FA543/D37FA5439C00/435982.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/63mygjwX/STAR-HD.png" group-title="General", CINE | STAR CHANEL HD
+http://daleplaytv.vip/live/9C00D37FA543/D37FA5439C00/436007.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/k5MNdHr6/STAR-SD.png" group-title="General", CINE | STAR CHANEL SD
+http://daleplaytv.vip/live/9C00D37FA543/D37FA5439C00/436010.m3u8
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/T5rxYbe.png" group-title="General", CINE | CINEMAX HD
+http://daleplaytv.vip/live/9C00D37FA543/D37FA5439C00/435991.m3u8
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/pSCqVg8.png" group-title="General", CINE | CINEMAX SD
+http://daleplaytv.vip/live/9C00D37FA543/D37FA5439C00/435994.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfY_V6-B2g_kEqycv8FnYBzZZca7242M3uLw&usqp=CAU" group-title="General", CINE | CINECANAL  HD
+http://daleplaytv.vip/live/9C00D37FA543/D37FA5439C00/1251.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfY_V6-B2g_kEqycv8FnYBzZZca7242M3uLw&usqp=CAU" group-title="General", CINE | CINECANAL  SD
+http://daleplaytv.vip/live/9C00D37FA543/D37FA5439C00/1252.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFDesPfe1ZHPS8Manr4Gh-S3dP6FhllqYVjg&usqp=CAU" group-title="General", CINE | AXN  FHD
+http://daleplaytv.vip/live/9C00D37FA543/D37FA5439C00/1254.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFDesPfe1ZHPS8Manr4Gh-S3dP6FhllqYVjg&usqp=CAU" group-title="General", CINE | AXN  HD
+http://daleplaytv.vip/live/9C00D37FA543/D37FA5439C00/1255.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFDesPfe1ZHPS8Manr4Gh-S3dP6FhllqYVjg&usqp=CAU" group-title="General", CINE | AXN  SD
+http://daleplaytv.vip/live/9C00D37FA543/D37FA5439C00/1257.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS412_DLemKjbNR286Bqh-5--md7yWlo7F9sw&usqp=CAU" group-title="General", CINE  | TNT SERIES  FHD
+http://daleplaytv.vip/live/9C00D37FA543/D37FA5439C00/1247.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS412_DLemKjbNR286Bqh-5--md7yWlo7F9sw&usqp=CAU" group-title="General", CINE | TNT SERIES  HD
+http://daleplaytv.vip/live/9C00D37FA543/D37FA5439C00/1248.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREx6xag_8jHvToBLGBqlHfK3Y6oMAi5cqnLw&usqp=CAU" group-title="General", CINE  | TⓝT  FHD
+http://daleplaytv.vip/live/9C00D37FA543/D37FA5439C00/1244.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREx6xag_8jHvToBLGBqlHfK3Y6oMAi5cqnLw&usqp=CAU" group-title="General", CINE  | TÑT  HD
+http://daleplaytv.vip/live/9C00D37FA543/D37FA5439C00/1245.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREx6xag_8jHvToBLGBqlHfK3Y6oMAi5cqnLw&usqp=CAU" group-title="General", CINE  | TNT  SD
+http://daleplaytv.vip/live/9C00D37FA543/D37FA5439C00/1246.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS412_DLemKjbNR286Bqh-5--md7yWlo7F9sw&usqp=CAU" group-title="General", CINE |  TNT SERIES  SD
+http://daleplaytv.vip/live/9C00D37FA543/D37FA5439C00/1250.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c6/HBO_Cine%2C_fanmade_del_logo_de_Cinemax.png" group-title="General", CINE | HBO  FHD
+http://daleplaytv.vip/live/9C00D37FA543/D37FA5439C00/54.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c6/HBO_Cine%2C_fanmade_del_logo_de_Cinemax.png" group-title="General", CINE | HBO  HD
+http://daleplaytv.vip/live/9C00D37FA543/D37FA5439C00/55.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c6/HBO_Cine%2C_fanmade_del_logo_de_Cinemax.png" group-title="General", CINE  | HBO  SD
+http://daleplaytv.vip/live/9C00D37FA543/D37FA5439C00/1240.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CMCQYWXJ/HBO-2-HD.png" group-title="General", CINE | HBO 2 HD
+http://daleplaytv.vip/live/9C00D37FA543/D37FA5439C00/435985.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qxykrm80/HBO-2-SD.png" group-title="General", CINE | HBO 2 FHD
+http://daleplaytv.vip/live/9C00D37FA543/D37FA5439C00/435988.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA4WC_DVLdy7I-kMJhcpStbdiBOe00hos0AA&usqp=CAU" group-title="General", CINE  | HBO FAMILY FHD
+http://daleplaytv.vip/live/9C00D37FA543/D37FA5439C00/51.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA4WC_DVLdy7I-kMJhcpStbdiBOe00hos0AA&usqp=CAU" group-title="General", CINE | HBO FAMILY  HD
+http://daleplaytv.vip/live/9C00D37FA543/D37FA5439C00/52.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA4WC_DVLdy7I-kMJhcpStbdiBOe00hos0AA&usqp=CAU" group-title="General", CINE | HBO FAMILY  SD
+http://daleplaytv.vip/live/9C00D37FA543/D37FA5439C00/53.m3u8
+#EXTINF:-1 tvg-logo="http://mundo2.pro:80/images/fd496867ac6e9074677342d8e013f563.png" group-title="General", CINE  | HBO PLUS  HD
+http://daleplaytv.vip/live/9C00D37FA543/D37FA5439C00/49.m3u8
+#EXTINF:-1 tvg-logo="http://mundo2.pro:80/images/fd496867ac6e9074677342d8e013f563.png" group-title="General", CINE  | HBO PLUS  FHD
+http://daleplaytv.vip/live/9C00D37FA543/D37FA5439C00/50.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUGbj613doA_lyYhNByuF0DRhIk9yKSfzkLA&s.png" group-title="General", CINE  | HBO XTREME HD
+http://daleplaytv.vip/live/9C00D37FA543/D37FA5439C00/47.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUGbj613doA_lyYhNByuF0DRhIk9yKSfzkLA&s.png" group-title="General", CINE | HBO XTREME FHD
+http://daleplaytv.vip/live/9C00D37FA543/D37FA5439C00/48.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd8X6vH9jsyuXvtYEs56bNO1NlDkim-SJkQg&usqp=CAU" group-title="General", CINE | HBO SIGNATURE  SD
+http://daleplaytv.vip/live/9C00D37FA543/D37FA5439C00/46.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUrjaVQ_67o7XMUHTLunr3MrCREj8_Mfn_-g&usqp=CAU" group-title="General", CINE  | HBO POP  FHD
+http://daleplaytv.vip/live/9C00D37FA543/D37FA5439C00/1242.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUrjaVQ_67o7XMUHTLunr3MrCREj8_Mfn_-g&usqp=CAU" group-title="General", CINE  | HBO .POP  HD
+http://daleplaytv.vip/live/9C00D37FA543/D37FA5439C00/1243.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbAXp130AYAc4pXI_m-PqxrYip5VQCNRfUVA&s.png" group-title="General", CINE | HBO MUNDl FHD
+http://daleplaytv.vip/live/9C00D37FA543/D37FA5439C00/53937.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbAXp130AYAc4pXI_m-PqxrYip5VQCNRfUVA&s.png" group-title="General", CINE | HBO MUNDI HD
+http://daleplaytv.vip/live/9C00D37FA543/D37FA5439C00/53939.m3u8
+#EXTINF:-1 tvg-logo="https://timnetworks.tv/wp-content/uploads/2022/10/CINE-PREMIUM.png" group-title="General", CINE l P∆R∆M0UNT + HD
+http://daleplaytv.vip/live/9C00D37FA543/D37FA5439C00/53938.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaPteTsp2zPkNGIK2aC8M1_bKG7FUZBaFHrg&usqp=CAU" group-title="General", CINE | SPACE CHANEL  FHD
+http://daleplaytv.vip/live/9C00D37FA543/D37FA5439C00/1280.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaPteTsp2zPkNGIK2aC8M1_bKG7FUZBaFHrg&usqp=CAU" group-title="General", CINE | SPACE CHANEL  HD
+http://daleplaytv.vip/live/9C00D37FA543/D37FA5439C00/1281.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaPteTsp2zPkNGIK2aC8M1_bKG7FUZBaFHrg&usqp=CAU" group-title="General", CINE | SPACE CHANEL  SD
+http://daleplaytv.vip/live/9C00D37FA543/D37FA5439C00/1282.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJq1YUknstlcWYR_a39Pbh-VKNQP_noF_rDg&usqp=CAU" group-title="General", CINE | FX  HD
+http://daleplaytv.vip/live/9C00D37FA543/D37FA5439C00/1275.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJq1YUknstlcWYR_a39Pbh-VKNQP_noF_rDg&usqp=CAU" group-title="General", CINE | FX  SD
+http://daleplaytv.vip/live/9C00D37FA543/D37FA5439C00/1276.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1200px-TCM_Latam_logo.svg.png" group-title="General", CINE | TCM  HD
+http://daleplaytv.vip/live/9C00D37FA543/D37FA5439C00/1266.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1200px-TCM_Latam_logo.svg.png" group-title="General", CINE |  TCM  SD
+http://daleplaytv.vip/live/9C00D37FA543/D37FA5439C00/1267.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYLWKA2w7UzyAaT3-EA29E7bvcPQ9SsvHoMQ&usqp=CAU" group-title="General", CINE | CINE LATINO
+http://daleplaytv.vip/live/9C00D37FA543/D37FA5439C00/100681.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEUkFenrLxGFpEKOzzTEl2crLHBNePJehWFQ&usqp=CAU" group-title="General", CINE GOLDEN PLUS FHD
+http://daleplaytv.vip/live/9C00D37FA543/D37FA5439C00/53940.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEUkFenrLxGFpEKOzzTEl2crLHBNePJehWFQ&usqp=CAU" group-title="General", CINE | GOLDEN PLUS HD
+http://daleplaytv.vip/live/9C00D37FA543/D37FA5439C00/53941.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEUkFenrLxGFpEKOzzTEl2crLHBNePJehWFQ&usqp=CAU" group-title="General", CINE | GOLDEN PLUS SD
+http://daleplaytv.vip/live/9C00D37FA543/D37FA5439C00/53942.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9O4LcnjKCXpeYqAKqoMBL8AlgEW4KvxMe9w&usqp=CAU" group-title="General", CINE | GOLDEN PREMIER  HD
+http://daleplaytv.vip/live/9C00D37FA543/D37FA5439C00/1293.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9O4LcnjKCXpeYqAKqoMBL8AlgEW4KvxMe9w&usqp=CAU" group-title="General", CINE | GOLDEN PREMIER  SD
+http://daleplaytv.vip/live/9C00D37FA543/D37FA5439C00/1294.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHNIfv7VLUeS2w8eoF4b-k5psDxmpHYqkxew&usqp=CAU" group-title="General", CINE | WARNER  FHD
+http://daleplaytv.vip/live/9C00D37FA543/D37FA5439C00/1258.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHNIfv7VLUeS2w8eoF4b-k5psDxmpHYqkxew&usqp=CAU" group-title="General", CINE | WARNER  HD
+http://daleplaytv.vip/live/9C00D37FA543/D37FA5439C00/1259.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHNIfv7VLUeS2w8eoF4b-k5psDxmpHYqkxew&usqp=CAU" group-title="General", CINE | WARNER  SD
+http://daleplaytv.vip/live/9C00D37FA543/D37FA5439C00/1260.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmUM5s02mVJaBsX8VO8xATB9ivrYta859D9g&usqp=CAU" group-title="General", CINE | SONY M0VIES FHD
+http://daleplaytv.vip/live/9C00D37FA543/D37FA5439C00/1261.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmUM5s02mVJaBsX8VO8xATB9ivrYta859D9g&usqp=CAU" group-title="General", CINE | SONY  HD
+http://daleplaytv.vip/live/9C00D37FA543/D37FA5439C00/1263.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmUM5s02mVJaBsX8VO8xATB9ivrYta859D9g&usqp=CAU" group-title="General", CINE | SONY  SD
+http://daleplaytv.vip/live/9C00D37FA543/D37FA5439C00/1264.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxytfwU0t7hq8tWkwnq1tr0_J-NnCk_nV1Ow&usqp=CAU" group-title="General", CINE | GOLDEN  HD
+http://daleplaytv.vip/live/9C00D37FA543/D37FA5439C00/1287.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxytfwU0t7hq8tWkwnq1tr0_J-NnCk_nV1Ow&usqp=CAU" group-title="General", CINE | GOLDEN  SD
+http://daleplaytv.vip/live/9C00D37FA543/D37FA5439C00/1288.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw_MXCN8YTJUs_t4zTDTivh73cIHqA2A3Drw&usqp=CAU" group-title="General", CINE | GOLDEN EDG  HD
+http://daleplaytv.vip/live/9C00D37FA543/D37FA5439C00/1290.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw_MXCN8YTJUs_t4zTDTivh73cIHqA2A3Drw&usqp=CAU" group-title="General", CINE | GOLDEN EDG  SD
+http://daleplaytv.vip/live/9C00D37FA543/D37FA5439C00/1291.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQcA5OtBj1V_sz2ofup_bgNkbwLElRQVtfRg&s" group-title="General", P | UNIVERSAL CINEMA HD
+http://daleplaytv.vip/live/9C00D37FA543/D37FA5439C00/111421.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/6AckSd4Qswk/maxresdefault.jpg" group-title="General", P | UNIVERSAL CRIMEN HD
+http://daleplaytv.vip/live/9C00D37FA543/D37FA5439C00/111422.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAOm-iccq4R5QW8LPEJ1nqSJygGM0s8f0N8w&s" group-title="General", P | UNIVERSAL COMEDY HD
+http://daleplaytv.vip/live/9C00D37FA543/D37FA5439C00/111417.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Universal_Premiere_2021.png" group-title="General", P | UNIVERSAL PREMIER HD
+http://daleplaytv.vip/live/9C00D37FA543/D37FA5439C00/111419.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfp1yzahmtFF9JfJg9-WzKnM7T9H918o_3dg&s" group-title="General", P | UNIVERSAL REALITY HD
+http://daleplaytv.vip/live/9C00D37FA543/D37FA5439C00/111420.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Universal_Channel_Logo_2013.svg/1024px-Universal_Channel_Logo_2013.svg.png" group-title="General", CINE | UNIVERSAL CHANEL HD
+http://daleplaytv.vip/live/9C00D37FA543/D37FA5439C00/1269.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Universal_Channel_Logo_2013.svg/1024px-Universal_Channel_Logo_2013.svg.png" group-title="General", CINE | UNIVERSAL CHANEL  SD
+http://daleplaytv.vip/live/9C00D37FA543/D37FA5439C00/1270.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Universal_Studios_Hollywood_%28recorte%29.jpg/1200px-Universal_Studios_Hollywood_%28recorte%29.jpg" group-title="General", CINE | UNIVERSAL STUDIO HD
+http://daleplaytv.vip/live/9C00D37FA543/D37FA5439C00/1268.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRPXbkxZVQKnNqZ0tcPBhMhdHUgLcP3Kw0fw&usqp=CAU" group-title="General", CINE | AMC  SD
+http://daleplaytv.vip/live/9C00D37FA543/D37FA5439C00/1285.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRPXbkxZVQKnNqZ0tcPBhMhdHUgLcP3Kw0fw&usqp=CAU" group-title="General", CINE | AMC HD
+http://daleplaytv.vip/live/9C00D37FA543/D37FA5439C00/1284.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/q-ImVW8iRNA/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCXXXTQyTDQhJzEU1dXinpsh1GoOw" group-title="General", ClNE | AMC SERIES
+http://daleplaytv.vip/live/9C00D37FA543/D37FA5439C00/376321.m3u8
+#EXTINF:-1 tvg-logo="http://mundo2.pro:80/images/f03c24deece1f371d55953aabc3d3a20.png" group-title="General", EUROPA EUROPA
+http://daleplaytv.vip/live/9C00D37FA543/D37FA5439C00/317522.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/8zYXddtg0CH7NXDA63WqNnsIpDLzBTv4vBFNmvuqlLQQqCRFMHLOlo3NDAJ6L-vam7S5sLie=s900-c-k-c0x00ffffff-no-rj" group-title="General", ClNE l °US∆ SERIES
+http://daleplaytv.vip/live/9C00D37FA543/D37FA5439C00/346686.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/2020_Canal_DHE_logo.svg/1200px-2020_Canal_DHE_logo.svg.png" group-title="General", ClNE l DHE cine  HD
+http://daleplaytv.vip/live/9C00D37FA543/D37FA5439C00/400290.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2he_V5EXXTHItP1KU4wxitqgJH_SHy6yBRNYEx-AXwg&s=10" group-title="General", Discovery Channel HD
+http://daleplaytv.vip/live/9C00D37FA543/D37FA5439C00/53457.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2he_V5EXXTHItP1KU4wxitqgJH_SHy6yBRNYEx-AXwg&s=10" group-title="General", Discovery Channel SD
+http://daleplaytv.vip/live/9C00D37FA543/D37FA5439C00/53458.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbAEa5E1Ee1JI3a42vhC2g0l_LJZ8go9akDRCPGZKRrg&s=10" group-title="General", DISCOVERY Science HD
+http://daleplaytv.vip/live/9C00D37FA543/D37FA5439C00/53464.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-oy2o2z1-V66saeYPTRxqsuBGhnmzE-E04IAt7d6c8w&s=10" group-title="General", DISCOVERY Turbo HD
+http://daleplaytv.vip/live/9C00D37FA543/D37FA5439C00/53467.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-oy2o2z1-V66saeYPTRxqsuBGhnmzE-E04IAt7d6c8w&s=10" group-title="General", DISCOVERY Turbo SD
+http://daleplaytv.vip/live/9C00D37FA543/D37FA5439C00/53468.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLc54PfIICksjBN_lFu0gGQAgRfFVqDJxZ5Pg7BVG1YA&s=10" group-title="General", DISCOVERY World SD
+http://daleplaytv.vip/live/9C00D37FA543/D37FA5439C00/53470.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Logo_id.png" group-title="General", Discovery Investigation sd
+http://daleplaytv.vip/live/9C00D37FA543/D37FA5439C00/53463.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Logo_id.png" group-title="General", Discovery Investigation HD
+http://daleplaytv.vip/live/9C00D37FA543/D37FA5439C00/53462.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQYYxVUjsyNJVICTbPvJ9vPqrV_WU_Dx53FDIoz3G8Pg&s=10" group-title="General", DISCOVERY Theater HD
+http://daleplaytv.vip/live/9C00D37FA543/D37FA5439C00/53465.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQYYxVUjsyNJVICTbPvJ9vPqrV_WU_Dx53FDIoz3G8Pg&s=10" group-title="General", DISCOVERY Theater sd
+http://daleplaytv.vip/live/9C00D37FA543/D37FA5439C00/53466.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjZtheIuBMmzmU3ggAy4RW4HUvoh5qgp5OSJI7cPDRsA&s=10" group-title="General", FOOD NETWORK
+http://daleplaytv.vip/live/9C00D37FA543/D37FA5439C00/227677.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/647288295442001920/OjrAmw5F_400x400.jpg" group-title="General", EL GOURMET
+http://daleplaytv.vip/live/9C00D37FA543/D37FA5439C00/53474.m3u8
+#EXTINF:-1 tvg-logo="http://mundo2.vip:80/images/c258d2c85d8de55b0acb05cfca11ea68.jpg" group-title="General", HOLA! TV
+http://daleplaytv.vip/live/9C00D37FA543/D37FA5439C00/126560.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKZAkPCPO2NaHMdbS8CDZn8Ry-0pwOIzpvWh1gZoZOAg&s=10" group-title="General", LIFETIME HD
+http://daleplaytv.vip/live/9C00D37FA543/D37FA5439C00/128338.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvLia20OA1hD0gBq1f93WBT3wlBMeEV2tY4JoqTNTvXg&s=10" group-title="General", E! Entretainment FHD
+http://daleplaytv.vip/live/9C00D37FA543/D37FA5439C00/122959.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvLia20OA1hD0gBq1f93WBT3wlBMeEV2tY4JoqTNTvXg&s=10" group-title="General", E! Entretainment HD
+http://daleplaytv.vip/live/9C00D37FA543/D37FA5439C00/126151.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.myportfolio.com/c21e6d51-81bd-45f5-86c6-278ab15a6df6/266d59d5-3729-4c7e-877a-eb028dfa64a8_rwc_512x187x861x673x861.png?h=95f73088cacc2a6a12274867ce7114fc" group-title="General", NATGEO HD
+http://daleplaytv.vip/live/9C00D37FA543/D37FA5439C00/53489.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.myportfolio.com/c21e6d51-81bd-45f5-86c6-278ab15a6df6/266d59d5-3729-4c7e-877a-eb028dfa64a8_rwc_512x187x861x673x861.png?h=95f73088cacc2a6a12274867ce7114fc" group-title="General", NATGEO HD
+http://daleplaytv.vip/live/9C00D37FA543/D37FA5439C00/53491.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0sA5mYs1JHLbc3-pA1kNcCehHY4Yl8UA7J-oXdFGr7g&s=10" group-title="General", HISTORY SD
+http://daleplaytv.vip/live/9C00D37FA543/D37FA5439C00/53482.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0sA5mYs1JHLbc3-pA1kNcCehHY4Yl8UA7J-oXdFGr7g&s=10" group-title="General", HISTORY HD
+http://daleplaytv.vip/live/9C00D37FA543/D37FA5439C00/53481.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLpiwMvAu1bIRrZ-0sQw0shYJrp_Y4Klp6yFbE0NgU-g&s=10" group-title="General", ANIMAL Planet HD.
+http://daleplaytv.vip/live/9C00D37FA543/D37FA5439C00/54172.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLpiwMvAu1bIRrZ-0sQw0shYJrp_Y4Klp6yFbE0NgU-g&s=10" group-title="General", ANIMAL PLANET SD
+http://daleplaytv.vip/live/9C00D37FA543/D37FA5439C00/114382.m3u8
+#EXTINF:-1 tvg-logo="http://mundo2.vip:80/images/c852b5432e05450e2da90b9ec5041506.jpg" group-title="General", History 2 SD
+http://daleplaytv.vip/live/9C00D37FA543/D37FA5439C00/53488.m3u8
+#EXTINF:-1 tvg-logo="http://mundo2.vip:80/images/c852b5432e05450e2da90b9ec5041506.jpg" group-title="General", History 2 HD
+http://daleplaytv.vip/live/9C00D37FA543/D37FA5439C00/53483.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLc54PfIICksjBN_lFu0gGQAgRfFVqDJxZ5Pg7BVG1YA&s=10" group-title="General", DISCOVERY World HD
+http://daleplaytv.vip/live/9C00D37FA543/D37FA5439C00/53469.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuIlkmrdJtPF_N2MSqFplKr1RrXqPYTioxVQ&s" group-title="General", CGTN ESPANOL HD
+http://daleplaytv.vip/live/9C00D37FA543/D37FA5439C00/435858.m3u8
+#EXTINF:-1 tvg-logo="http://mundo2.pro:80/images/2f687de7e20c64a66faa4f4de6677b85.jpg" group-title="General", TLC SD
+http://daleplaytv.vip/live/9C00D37FA543/D37FA5439C00/126559.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJzP4d0bowgYqDo9DlOwQ_2EyL7K8xqucdU8dq5lLLxQ&s=10" group-title="General", NATGEO FHD
+http://daleplaytv.vip/live/9C00D37FA543/D37FA5439C00/53492.m3u8
+#EXTINF:-1 tvg-logo="https://www.cineytele.com/wp-content/uploads/2018/03/az-click.jpg" group-title="General", Az click
+http://daleplaytv.vip/live/9C00D37FA543/D37FA5439C00/315941.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/dNzSb2qIcXtaUAXmOeCmq4RXh36RoEaEYL7WNa05ua4DE8e8h9bm9-QTc9dyqk3nARQzaKM1=s900-c-k-c0x00ffffff-no-rj" group-title="General", CANAL DE C0ClN∆
+http://daleplaytv.vip/live/9C00D37FA543/D37FA5439C00/110241.m3u8
+#EXTINF:-1 tvg-logo="http://mundo2.pro:80/images/2f687de7e20c64a66faa4f4de6677b85.jpg" group-title="General", TLC HD
+http://daleplaytv.vip/live/9C00D37FA543/D37FA5439C00/126558.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRViKnQDOe2rHeHmhuF2RFWtTkD4VobnXW6DLw8oWd1G2Sl7FgI-khDytI&s=10" group-title="General", Discovery Familia HD
+http://daleplaytv.vip/live/9C00D37FA543/D37FA5439C00/53473.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRViKnQDOe2rHeHmhuF2RFWtTkD4VobnXW6DLw8oWd1G2Sl7FgI-khDytI&s=10" group-title="General", Discovery Familia FHD
+http://daleplaytv.vip/live/9C00D37FA543/D37FA5439C00/53472.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6qoZJh2FFcWQqEIXv7RZ9eSYYDZaG168vXw&s" group-title="General", C∆N∆L DEC∆S∆
+http://daleplaytv.vip/live/9C00D37FA543/D37FA5439C00/110244.m3u8
+#EXTINF:-1 tvg-logo="http://mundo2.pro:80/images/1718e6862af67de1815db86ad9fc3ad5.jpg" group-title="General", LOVE  NATURALEZA HD
+http://daleplaytv.vip/live/9C00D37FA543/D37FA5439C00/118747.m3u8
+#EXTINF:-1 tvg-logo="https://www.si.com/.image/c_fill,w_1200,ar_4:3,f_auto,q_auto,g_auto/MTkwNzU1MzUxMTQ0OTY1ODE0/hgtv.png" group-title="General", w_1200,ar_4:3,f_auto,q_auto,g_auto/MTkwNzU1MzUxMTQ0OTY1ODE0/hgtv.png' group-title=' ✅ CULTURA  ✅',HGTV FHD
+http://daleplaytv.vip/live/9C00D37FA543/D37FA5439C00/126561.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2lll98RXlbNuDY3pZng4dFZts8W9TCE097ZwED7AyZA&s=10" group-title="General", Discovery Home & Health SD
+http://daleplaytv.vip/live/9C00D37FA543/D37FA5439C00/53460.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2lll98RXlbNuDY3pZng4dFZts8W9TCE097ZwED7AyZA&s=10" group-title="General", Discovery Home & Health HD
+http://daleplaytv.vip/live/9C00D37FA543/D37FA5439C00/53459.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJzP4d0bowgYqDo9DlOwQ_2EyL7K8xqucdU8dq5lLLxQ&s=10" group-title="General", NATGEO WILD HD
+http://daleplaytv.vip/live/9C00D37FA543/D37FA5439C00/54171.m3u8
