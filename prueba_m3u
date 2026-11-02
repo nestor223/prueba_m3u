@@ -1593,13 +1593,14 @@ http://181.78.0.107:8006/play/a08d/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Disney Junior HD" tvg-logo="https://i.ibb.co/5kVKd6g/disneyjre3.png" group-title="INFANTILES",Disney Junior HD
 http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/11928.ts
 #EXTINF:-1 tvg-id="" tvg-name="Dreamworks HD" tvg-logo="https://brandemia.org/sites/default/files/inline/images/dreamworks-portada.jpg" group-title="INFANTILES",Dreamworks HD
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/319635.ts
+http://play.pelusa.online:8080/live/moisesveld/t9zXxmf4jXN2ca67/292589.ts
 #EXTINF:-1 tvg-id="" tvg-name="Nick Jr" tvg-logo="https://i.ibb.co/KcZRszs/nickjre324e.png" group-title="INFANTILES",Nick Jr
 http://45.70.168.162:12339/play/a015/index.m3u8
 #EXTINF:-1 tvg-id="NickJr..ar" tvg-name="Nick Jr HD" tvg-logo="https://i.ibb.co/KcZRszs/nickjre324e.png" group-title="INFANTILES",Nick Jr HD
 http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/11937.ts
 #EXTINF:-1 tvg-id="Nick.co" tvg-name="NICKELODEON " tvg-logo="https://i.postimg.cc/k4QXtZLm/1280px-Nickelodeon-2023-logo-(outline)-svg.png" group-title="INFANTILES",NICKELODEON
-http://45.70.168.162:12316/play/a001/index.m3u8#EXTINF:-1 tvg-id="" tvg-name="NICKMUSIC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVjKxxwjpC-ITNwW2VRXHO4y3ceTYowFQflQ&s" group-title="INFANTILES",NICKMUSIC
+http://45.70.168.162:12316/play/a001/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NICKMUSIC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVjKxxwjpC-ITNwW2VRXHO4y3ceTYowFQflQ&s" group-title="INFANTILES",NICKMUSIC
 http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/11940.ts
 #EXTINF:-1 tvg-id="" tvg-name="PAKAPAKA" tvg-logo="https://i.ibb.co/L8k0yMM/pakjaaaaas.png" group-title="INFANTILES",PAKAPAKA
 http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/84574.ts
