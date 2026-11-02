@@ -10,7 +10,7 @@ http://45.134.141.161:80/ARG/A24/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="America TV" tvg-logo="https://i.postimg.cc/k4MCH4Dh/America-TV-(Nuevo-logo-Junio-2020).png" group-title="ARGENTINA",America TV
 http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/712703.ts
 #EXTINF:-1 tvg-id="" tvg-name="America TV FHD" tvg-logo="https://i.postimg.cc/k4MCH4Dh/America-TV-(Nuevo-logo-Junio-2020).png" group-title="ARGENTINA",America TV FHD
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/712704.ts
+https://stream1.sersat.com/hls/argentinisima.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ARGENTINISIMA" tvg-logo="https://i.postimg.cc/fbnqyrs4/latest-(20).png" group-title="ARGENTINA",ARGENTINISIMA
 https://stream1.sersat.com/hls/argentinisima.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="C5N FHD " tvg-logo="https://i.postimg.cc/gjQPrH4v/C5N-Logo-2015.png" group-title="ARGENTINA",C5N FHD
@@ -40,7 +40,7 @@ http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/712709.ts
 #EXTINF:-1 tvg-id="" tvg-name="El Trece" tvg-logo="https://i.postimg.cc/HWRGw34L/Logo-Canal-13-200-8.png" group-title="ARGENTINA",El Trece
 http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/712710.ts
 #EXTINF:-1 tvg-id="" tvg-name="El Trece FHD" tvg-logo="https://i.postimg.cc/HWRGw34L/Logo-Canal-13-200-8.png" group-title="ARGENTINA",El Trece FHD
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/712711.ts
+https://livetrx01.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Xtrema Accion" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ar/XtremaAccion.ar.png" group-title="ARGENTINA",Xtrema Accion
 https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Xtrema Cartoons" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ar/XtremaCartoons.ar.png" group-title="ARGENTINA",Xtrema Cartoons
@@ -67,6 +67,9 @@ http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/712737.ts
 http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Telefe FHD" tvg-logo="https://i.postimg.cc/x8MSJbZX/330px-Telefe-(nuevo-logo).png" group-title="ARGENTINA",Telefe FHD
 http://45.134.141.161:80/ARG/TELEFE_HD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telefe FHD" tvg-logo="https://i.postimg.cc/x8MSJbZX/330px-Telefe-(nuevo-logo).png" group-title="ARGENTINA",Telefe FHD
+#EXTINF:-1 tvg-id="" tvg-name="TN" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/CHtn.png" group-title="ARGENTINA",TN
+https://dai.google.com/linear/hls/event/5OEEtA9FR-yrvhNE5K8PQQ/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Publica" tvg-logo="https://i.postimg.cc/hPBkZvwY/1280px-TVP-Television-Publica-(2021)-svg.png" group-title="ARGENTINA",TV Publica
 http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/712719.ts
 #EXTINF:-1 tvg-id="" tvg-name="TV Publica FHD" tvg-logo="https://i.postimg.cc/hPBkZvwY/1280px-TVP-Television-Publica-(2021)-svg.png" group-title="ARGENTINA",TV Publica FHD
@@ -817,6 +820,8 @@ http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/79478.ts
 http://190.93.224.42/HISTORY/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="History Channel HD" tvg-logo="https://i.ibb.co/wgfpK2W/3245325437656876ty.png" group-title="CULTURA",History Channel HD
 http://190.93.224.42:80/HISTORY/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="History Channel HD" tvg-logo="https://i.ibb.co/wgfpK2W/3245325437656876ty.png" group-title="CULTURA",History Channel 3HD
+http://45.167.1.136:8000/play/a03j
 #EXTINF:-1 tvg-id="" tvg-name="LOVE NATURE" tvg-logo="https://i.ibb.co/PQ5nx0q/lovena.png" group-title="CULTURA",LOVE NATURE
 http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/79481.ts
 #EXTINF:-1 tvg-id="" tvg-name="LOVE NATURE HD" tvg-logo="https://i.ibb.co/RHMtJVv/lober.png" group-title="CULTURA",LOVE NATURE HD
