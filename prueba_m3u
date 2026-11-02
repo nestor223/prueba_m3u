@@ -201,8 +201,8 @@ http://181.78.0.107:8006/play/a085/index.m3u8
 #EXTINF:-1 tvg-id="AMCLatinAmerica.us" tvg-name="AMC HD" tvg-logo="https://i.ibb.co/3Fy00fn/amc.png" group-title="CINE",AMC HD
 http://45.134.141.161:2200/ARG/AMC_HD/index.m3u8
 #EXTINF:-1 tvg-id="AMCLatinAmerica.us" tvg-name="AMC HD MX" tvg-logo="https://i.ibb.co/3Fy00fn/amc.png" group-title="CINE",AMC HD MX
-http://45.134.141.161:80/ARG/AMC_HD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AMC SERI" tvg-logo="https://i.postimg.cc/J4bc389s/images-9-removebg-preview.png" group-title="CINE",AMC SERI
+https://amc-amcespanol-1-us.plex.wurl.tv/1200.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AMC SERIES" tvg-logo="https://i.postimg.cc/J4bc389s/images-9-removebg-preview.png" group-title="CINE",AMC SERIES
 http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/79064.ts
 #EXTINF:-1 tvg-id="" tvg-name="ATRESERIES HD" tvg-logo="https://i.postimg.cc/g2bcCZnW/1024px-Atreseries-2020-logo-svg.png" group-title="CINE",ATRESERIES HD
 http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/46098.ts
@@ -288,6 +288,8 @@ http://190.93.224.42:80/GOLDEN/index.m3u8
 http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/46140.ts
 #EXTINF:-1 tvg-id="GOLDEN PREMIER" tvg-name="GOLDEN PREMIER HD" tvg-logo="https://i.ibb.co/6b9LCMq/GOLDENPRIMNIERS.png" group-title="CINE",GOLDEN PREMIER HD
 http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/46141.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHgrjngo.png" group-title="CINE",Grjngo
+https://amogonetworx-grjngo-2-eu.plex.wurl.tv/2000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="https://i.ibb.co/NSG7tNS/hbo3.png" group-title="CINE",HBO
 http://45.70.168.162:8091/play/a00w/index.m3u8
 #EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO" tvg-logo="https://i.ibb.co/3Y1tZwW/HBO33.png" group-title="CINE",HBO
@@ -356,6 +358,8 @@ http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/46172.ts
 http://45.70.168.162:12339/play/a028/index.m3u8
 #EXTINF:-1 tvg-id="SONYCH" tvg-name="SONY CHANNEL HD" tvg-logo="https://i.ibb.co/M7nmfDY/SONY1.png" group-title="CINE",SONY CHANNEL HD
 http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/46176.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHsonycine.png" group-title="CINE",Sony Cine
+https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="SONY MOVIES" tvg-name="SONY MOVIES HD" tvg-logo="https://i.ibb.co/rFMxhPH/SONY2.png" group-title="CINE",SONY MOVIES HD
 http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/46175.ts
 #EXTINF:-1 tvg-id="SpacePanregional.us" tvg-name="SPACE FHD" tvg-logo="https://i.ibb.co/K0JqT9S/space2.png" group-title="CINE",SPACE FHD
@@ -440,151 +444,6 @@ http://181.78.0.107:8006/play/a08c/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WARNER TV HD MX" tvg-logo="https://i.ibb.co/TRgfNRw/WNERTV2.png" group-title="CINE",WARNER TV HD MX
 http://181.78.0.107:8006/play/a09z/index.m3u8
 
-===CINE Y SERIES ESPAÑA===
-#EXTINF:-1 tvg-id="TRECE" tvg-name="13 tv HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Trece.svg/1280px-Trece.svg.png" group-title="CINE Y SERIES ESPAÑA",13 tv HD
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/327773.ts
-#EXTINF:-1 tvg-id="Atreseries" tvg-name="A3SERIES" tvg-logo="https://fiber.salt.ch/sites/default/files/tvchannels/Atresseries.png" group-title="CINE Y SERIES ESPAÑA",A3SERIES
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/327799.ts
-#EXTINF:-1 tvg-id="Atreseries" tvg-name="A3SERIES FHD" tvg-logo="https://fiber.salt.ch/sites/default/files/tvchannels/Atresseries.png" group-title="CINE Y SERIES ESPAÑA",A3SERIES FHD
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/327802.ts
-#EXTINF:-1 tvg-id="Atreseries" tvg-name="A3SERIES HD" tvg-logo="https://fiber.salt.ch/sites/default/files/tvchannels/Atresseries.png" group-title="CINE Y SERIES ESPAÑA",A3SERIES HD
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/327800.ts
-#EXTINF:-1 tvg-id="M+ ACCIÓN HD" tvg-name="ACCION por M+  HD" tvg-logo="https://i.postimg.cc/HL63psfd/Acci-n-por-Movistar-Plus-2023.png" group-title="CINE Y SERIES ESPAÑA",ACCION por M+  HD
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/327776.ts
-#EXTINF:-1 tvg-id="M+ Acción" tvg-name="ACCION por M+ FHD" tvg-logo="https://i.postimg.cc/HL63psfd/Acci-n-por-Movistar-Plus-2023.png" group-title="CINE Y SERIES ESPAÑA",ACCION por M+ FHD
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/327778.ts
-#EXTINF:-1 tvg-id="¡HOLA! TV SD.co" tvg-name="AMC  CRIME FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CYM.png" group-title="CINE Y SERIES ESPAÑA",AMC  CRIME FHD
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/327834.ts
-#EXTINF:-1 tvg-id="AMC Break" tvg-name="AMC BREAK FHD" tvg-logo="https://i.postimg.cc/mZHWk0V7/images.png" group-title="CINE Y SERIES ESPAÑA",AMC BREAK FHD
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/327838.ts
-#EXTINF:-1 tvg-id="AMC Break" tvg-name="AMC BREAK HD" tvg-logo="https://i.postimg.cc/mZHWk0V7/images.png" group-title="CINE Y SERIES ESPAÑA",AMC BREAK HD
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/327837.ts
-#EXTINF:-1 tvg-id="AMC Crime" tvg-name="AMC CRIME SD" tvg-logo="https://i.postimg.cc/XvtyWrnR/AMC-Crime-Print.png" group-title="CINE Y SERIES ESPAÑA",AMC CRIME SD
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/327839.ts
-#EXTINF:-1 tvg-id="AMC" tvg-name="AMC FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2020/01/amc-logo-1.png" group-title="CINE Y SERIES ESPAÑA",AMC FHD
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/327836.ts
-#EXTINF:-1 tvg-id="AMC" tvg-name="AMC HD" tvg-logo="https://logodownload.org/wp-content/uploads/2020/01/amc-logo-1.png" group-title="CINE Y SERIES ESPAÑA",AMC HD
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/327835.ts
-#EXTINF:-1 tvg-id="AMC" tvg-name="AMC SD" tvg-logo="https://logodownload.org/wp-content/uploads/2020/01/amc-logo-1.png" group-title="CINE Y SERIES ESPAÑA",AMC SD
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/327833.ts
-#EXTINF:-1 tvg-id="Canal 13 de Panamá (Telemetro).pa" tvg-name="AMC WESTERN FHD" tvg-logo="https://i.postimg.cc/jdwLD2xd/AMCWESTERN-COLOR-1.png" group-title="CINE Y SERIES ESPAÑA",AMC WESTERN FHD
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/414752.ts
-#EXTINF:-1 tvg-id="3ABNEnglish.us" tvg-name="AMC WESTERN HD" tvg-logo="https://i.postimg.cc/jdwLD2xd/AMCWESTERN-COLOR-1.png" group-title="CINE Y SERIES ESPAÑA",AMC WESTERN HD
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/414753.ts
-#EXTINF:-1 tvg-id="" tvg-name="ATRESCINE HD" tvg-logo="https://fiber.salt.ch/sites/default/files/tvchannels/Atresseries.png" group-title="CINE Y SERIES ESPAÑA",ATRESCINE HD
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/327803.ts
-#EXTINF:-1 tvg-id="13C.cl" tvg-name="AXN FHD" tvg-logo="https://i.postimg.cc/J0JkkMpy/images-q-tbn-ANd9Gc-SQlw-Ox-Op-SH1v-CIDl-YIjvo-Kk6g5F1LJNFh0qg-s.png" group-title="CINE Y SERIES ESPAÑA",AXN FHD
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/327809.ts
-#EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN HD" tvg-logo="https://i.postimg.cc/ZR26s9ys/AXN-logo-2015-svg.png" group-title="CINE Y SERIES ESPAÑA",AXN HD
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/327808.ts
-#EXTINF:-1 tvg-id="" tvg-name="AXN MOVIE HD" tvg-logo="https://i.postimg.cc/g0GXgVt2/AXN-Movies-logo.png" group-title="CINE Y SERIES ESPAÑA",AXN MOVIE HD
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/327805.ts
-#EXTINF:-1 tvg-id="" tvg-name="AXN MOVIES FHD" tvg-logo="https://i.postimg.cc/g0GXgVt2/AXN-Movies-logo.png" group-title="CINE Y SERIES ESPAÑA",AXN MOVIES FHD
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/327806.ts
-#EXTINF:-1 tvg-id="BOM Cine" tvg-name="BOM CINE" tvg-logo="https://i.postimg.cc/YqKLZBh9/Logo-bom-svg.png" group-title="CINE Y SERIES ESPAÑA",BOM CINE
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/327826.ts
-#EXTINF:-1 tvg-id="BOM" tvg-name="BOM CINE FHD" tvg-logo="https://i.postimg.cc/YqKLZBh9/Logo-bom-svg.png" group-title="CINE Y SERIES ESPAÑA",BOM CINE FHD
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/327827.ts
-#EXTINF:-1 tvg-id="CALLE 13 HD" tvg-name="CALLE 13 FHD" tvg-logo="https://i.postimg.cc/DzVkh537/Calle13-logo-svg.png" group-title="CINE Y SERIES ESPAÑA",CALLE 13 FHD
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/327812.ts
-#EXTINF:-1 tvg-id="CALLE 13 HD" tvg-name="CALLE 13 HD" tvg-logo="https://i.postimg.cc/DzVkh537/Calle13-logo-svg.png" group-title="CINE Y SERIES ESPAÑA",CALLE 13 HD
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/327811.ts
-#EXTINF:-1 tvg-id="3ABNEnglish.us" tvg-name="CINE ESPAÑOL  M+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCESP.png" group-title="CINE Y SERIES ESPAÑA",CINE ESPAÑOL  M+
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/327769.ts
-#EXTINF:-1 tvg-id="M+ CLÁSICOS HD" tvg-name="CLASICOS por M+ HD" tvg-logo="https://i.postimg.cc/YS2Kn06H/Cl-sicos-por-Movistar-Plus-2023-Logo-svg.png" group-title="CINE Y SERIES ESPAÑA",CLASICOS por M+ HD
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/327785.ts
-#EXTINF:-1 tvg-id="M+ CLÁSICOS HD" tvg-name="CLASICOS por M+ HD" tvg-logo="https://i.postimg.cc/YS2Kn06H/Cl-sicos-por-Movistar-Plus-2023-Logo-svg.png" group-title="CINE Y SERIES ESPAÑA",CLASICOS por M+ HD
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/327787.ts
-#EXTINF:-1 tvg-id="M+ COMEDIA" tvg-name="COMEDIA por M+ FHD" tvg-logo="https://i.postimg.cc/3rc6X9fY/Comedia-por-Movistar-Plus-2023.png" group-title="CINE Y SERIES ESPAÑA",COMEDIA por M+ FHD
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/327781.ts
-#EXTINF:-1 tvg-id="M+ COMEDIA" tvg-name="COMEDIA por M+ HD" tvg-logo="https://i.postimg.cc/3rc6X9fY/Comedia-por-Movistar-Plus-2023.png" group-title="CINE Y SERIES ESPAÑA",COMEDIA por M+ HD
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/327780.ts
-#EXTINF:-1 tvg-id="Comedy Central" tvg-name="COMEDY CENTRAL FHD" tvg-logo="https://i.postimg.cc/pdvLJKXX/comedy-central.jpg" group-title="CINE Y SERIES ESPAÑA",COMEDY CENTRAL FHD
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/327762.ts
-#EXTINF:-1 tvg-id="Comedy Central" tvg-name="COMEDY CENTRAL HD" tvg-logo="https://i.postimg.cc/pdvLJKXX/comedy-central.jpg" group-title="CINE Y SERIES ESPAÑA",COMEDY CENTRAL HD
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/327804.ts
-#EXTINF:-1 tvg-id="COSMO" tvg-name="COSMO FHD" tvg-logo="https://i.postimg.cc/jSCThLtJ/LOGO-COSMO.png" group-title="CINE Y SERIES ESPAÑA",COSMO FHD
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/327830.ts
-#EXTINF:-1 tvg-id="COSMO" tvg-name="COSMOS HD" tvg-logo="https://i.postimg.cc/jSCThLtJ/LOGO-COSMO.png" group-title="CINE Y SERIES ESPAÑA",COSMOS HD
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/327829.ts
-#EXTINF:-1 tvg-id="DK" tvg-name="DK FHD" tvg-logo="https://i.postimg.cc/26qMqKRq/800px-Dark-Teuve.png" group-title="CINE Y SERIES ESPAÑA",DK FHD
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/327840.ts
-#EXTINF:-1 tvg-id="DK" tvg-name="DK HD" tvg-logo="https://1.bp.blogspot.com/-j-JnVb0WOOg/X-URZWU73JI/AAAAAAAAPxA/rc7PkmIt3Z0btGAlnx1tGe7nVbFdQC6sACLcBGAsYHQ/w1200-h630-p-k-no-nu/dark.png" group-title="CINE Y SERIES ESPAÑA",DK HD
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/327819.ts
-#EXTINF:-1 tvg-id="DK" tvg-name="DK RED  FHD" tvg-logo="https://i.postimg.cc/26qMqKRq/800px-Dark-Teuve.png" group-title="CINE Y SERIES ESPAÑA",DK RED  FHD
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/327841.ts
-#EXTINF:-1 tvg-id="M+ DRAMA HD" tvg-name="DRAMA por M+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOLE.png" group-title="CINE Y SERIES ESPAÑA",DRAMA por M+
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/327782.ts
-#EXTINF:-1 tvg-id="M+ DRAMA HD" tvg-name="DRAMA por M+ FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOLE.png" group-title="CINE Y SERIES ESPAÑA",DRAMA por M+ FHD
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/327784.ts
-#EXTINF:-1 tvg-id="Dreamworks" tvg-name="DREAMWORKS FHD" tvg-logo="https://i.postimg.cc/h437r7q9/Dream-Works-Channel-Logo-svg.png" group-title="CINE Y SERIES ESPAÑA",DREAMWORKS FHD
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/327824.ts
-#EXTINF:-1 tvg-id="DreamWorks HD" tvg-name="DREAMWORKS HD" tvg-logo="https://i.postimg.cc/h437r7q9/Dream-Works-Channel-Logo-svg.png" group-title="CINE Y SERIES ESPAÑA",DREAMWORKS HD
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/327822.ts
-#EXTINF:-1 tvg-id="" tvg-name="ESTRENOS por M+" tvg-logo="https://i.postimg.cc/g29S5gN3/3840px-Estrenos-por-Movistar-Plus-2022-logo-svg.png" group-title="CINE Y SERIES ESPAÑA",ESTRENOS por M+
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/327767.ts
-#EXTINF:-1 tvg-id="" tvg-name="HBO Max Avances" tvg-logo="https://i.postimg.cc/KcVJwpgM/HBO-MAX-AVANCE.png" group-title="CINE Y SERIES ESPAÑA",HBO Max Avances
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/1732800.ts
-#EXTINF:-1 tvg-id="HOLLYWOODHD" tvg-name="HOLLYWOOD FHD" tvg-logo="https://i.postimg.cc/HssBJM9X/Canal-Hollywood.png" group-title="CINE Y SERIES ESPAÑA",HOLLYWOOD FHD
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/327821.ts
-#EXTINF:-1 tvg-id="HOLLYWOOD" tvg-name="HOLLYWOOD HD" tvg-logo="https://i.postimg.cc/HssBJM9X/Canal-Hollywood.png" group-title="CINE Y SERIES ESPAÑA",HOLLYWOOD HD
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/327814.ts
-#EXTINF:-1 tvg-id="M+ Indie HD" tvg-name="INDIE por M+" tvg-logo="https://i.ibb.co/nR2kCWS/descarga.png" group-title="CINE Y SERIES ESPAÑA",INDIE por M+
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/327771.ts
-#EXTINF:-1 tvg-id="M+ Indie HD" tvg-name="INDIE por M+ FHD" tvg-logo="https://i.ibb.co/nR2kCWS/descarga.png" group-title="CINE Y SERIES ESPAÑA",INDIE por M+ FHD
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/327775.ts
-#EXTINF:-1 tvg-id="M+ #0" tvg-name="M+" tvg-logo="https://i.postimg.cc/CxtLMVH3/Movistar-Plus-2022.png" group-title="CINE Y SERIES ESPAÑA",M+
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/327774.ts
-#EXTINF:-1 tvg-id="13C.cl" tvg-name="M+  ESTRENOS FHD" tvg-logo="https://i.postimg.cc/g29S5gN3/3840px-Estrenos-por-Movistar-Plus-2022-logo-svg.png" group-title="CINE Y SERIES ESPAÑA",M+  ESTRENOS FHD
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/327772.ts
-#EXTINF:-1 tvg-id="M+ SERIES 2" tvg-name="M+  SERIES FHD" tvg-logo="https://i.postimg.cc/8zg7x2ZG/images-q-tbn-ANd9Gc-Tno-YAM9xu-RXmfp-Rppdj-TNz-Qx-GOk-O9da-ERx-Aw-s.png" group-title="CINE Y SERIES ESPAÑA",M+  SERIES FHD
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/327792.ts
-#EXTINF:-1 tvg-id="" tvg-name="M+ HITS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyuYGSErO7zFBkp0jfi6CvExEOrgNw4T4lqg&s" group-title="CINE Y SERIES ESPAÑA",M+ HITS
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/745977.ts
-#EXTINF:-1 tvg-id="M+ SERIES 2" tvg-name="M+ SERIES HD" tvg-logo="https://i.postimg.cc/8zg7x2ZG/images-q-tbn-ANd9Gc-Tno-YAM9xu-RXmfp-Rppdj-TNz-Qx-GOk-O9da-ERx-Aw-s.png" group-title="CINE Y SERIES ESPAÑA",M+ SERIES HD
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/327791.ts
-#EXTINF:-1 tvg-id="M+ SERIES" tvg-name="M+ SERIES HD" tvg-logo="https://i.postimg.cc/8zg7x2ZG/images-q-tbn-ANd9Gc-Tno-YAM9xu-RXmfp-Rppdj-TNz-Qx-GOk-O9da-ERx-Aw-s.png" group-title="CINE Y SERIES ESPAÑA",M+ SERIES HD
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/327794.ts
-#EXTINF:-1 tvg-id="Mega" tvg-name="MEGA FHD" tvg-logo="https://i.postimg.cc/BnrMYQdv/Mega-Spain-2015.png" group-title="CINE Y SERIES ESPAÑA",MEGA FHD
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/327790.ts
-#EXTINF:-1 tvg-id="mega" tvg-name="MEGA HD" tvg-logo="https://i.postimg.cc/BnrMYQdv/Mega-Spain-2015.png" group-title="CINE Y SERIES ESPAÑA",MEGA HD
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/327793.ts
-#EXTINF:-1 tvg-id="" tvg-name="MyTIME MOVIE NETWORK" tvg-logo="https://i.postimg.cc/L6tmxnqy/logo-white-ovbvbhqmjlyimijy1j8jdjgrs3eyx5g0if7icg9st0.png" group-title="CINE Y SERIES ESPAÑA",MyTIME MOVIE NETWORK
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/327783.ts
-#EXTINF:-1 tvg-id="" tvg-name="SkyShowtime 1 FHD" tvg-logo="https://i.postimg.cc/HW2Tt5JB/sky-showtime-1-se.png" group-title="CINE Y SERIES ESPAÑA",SkyShowtime 1 FHD
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/1732799.ts
-#EXTINF:-1 tvg-id="Somos" tvg-name="SOMOS HD" tvg-logo="https://i.postimg.cc/T32vQQvw/320px-Somos.png" group-title="CINE Y SERIES ESPAÑA",SOMOS HD
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/327823.ts
-#EXTINF:-1 tvg-id="" tvg-name="SONY ONE BLACKLIST" tvg-logo="https://www.notebookcheck.net/fileadmin/_processed_/a/7/csm_Notebookcheck17_8e5fa600d7.jpg" group-title="CINE Y SERIES ESPAÑA",SONY ONE BLACKLIST
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/1732794.ts
-#EXTINF:-1 tvg-id="" tvg-name="SONY ONE EXITOS" tvg-logo="https://www.notebookcheck.net/fileadmin/_processed_/a/7/csm_Notebookcheck17_8e5fa600d7.jpg" group-title="CINE Y SERIES ESPAÑA",SONY ONE EXITOS
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/1732798.ts
-#EXTINF:-1 tvg-id="" tvg-name="SONY ONE HITS ACCIÓN" tvg-logo="https://www.notebookcheck.net/fileadmin/_processed_/a/7/csm_Notebookcheck17_8e5fa600d7.jpg" group-title="CINE Y SERIES ESPAÑA",SONY ONE HITS ACCIÓN
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/1732797.ts
-#EXTINF:-1 tvg-id="" tvg-name="SONY ONE HITS COMEDIA" tvg-logo="https://www.notebookcheck.net/fileadmin/_processed_/a/7/csm_Notebookcheck17_8e5fa600d7.jpg" group-title="CINE Y SERIES ESPAÑA",SONY ONE HITS COMEDIA
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/1732795.ts
-#EXTINF:-1 tvg-id="" tvg-name="SONY ONE SERIES COMEDIA" tvg-logo="https://www.notebookcheck.net/fileadmin/_processed_/a/7/csm_Notebookcheck17_8e5fa600d7.jpg" group-title="CINE Y SERIES ESPAÑA",SONY ONE SERIES COMEDIA
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/1732796.ts
-#EXTINF:-1 tvg-id="13C.cl" tvg-name="ST CHANNEL" tvg-logo="https://i.postimg.cc/G2vLPt1d/Star-Channel-2020.jpg" group-title="CINE Y SERIES ESPAÑA",ST CHANNEL
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/327820.ts
-#EXTINF:-1 tvg-id="13C.cl" tvg-name="ST CHANNEL HD" tvg-logo="https://i.postimg.cc/Y2GHwQVK/250-cb-20231209070650.png" group-title="CINE Y SERIES ESPAÑA",ST CHANNEL HD
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/327818.ts
-#EXTINF:-1 tvg-id="13C.cl" tvg-name="SYFY FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Syfylogo.png" group-title="CINE Y SERIES ESPAÑA",SYFY FHD
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/327832.ts
-#EXTINF:-1 tvg-id="SYFY HD" tvg-name="SYFY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Syfylogo.png" group-title="CINE Y SERIES ESPAÑA",SYFY HD
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/327831.ts
-#EXTINF:-1 tvg-id="TCM HD" tvg-name="TCM FHD" tvg-logo="https://i.postimg.cc/QxJBG6wx/images-q-tbn-ANd9Gc-Sz-Qj-4uuozr-TR-QKzu-ZOx-EEKqt-YSXnn3rws-Q-s.png" group-title="CINE Y SERIES ESPAÑA",TCM FHD
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/327817.ts
-#EXTINF:-1 tvg-id="TCM HD" tvg-name="TCM HD" tvg-logo="https://i.postimg.cc/QxJBG6wx/images-q-tbn-ANd9Gc-Sz-Qj-4uuozr-TR-QKzu-ZOx-EEKqt-YSXnn3rws-Q-s.png" group-title="CINE Y SERIES ESPAÑA",TCM HD
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/327816.ts
-#EXTINF:-1 tvg-id="13C.cl" tvg-name="TRECE FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Trece.svg/1280px-Trece.svg.png" group-title="CINE Y SERIES ESPAÑA",TRECE FHD
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/327798.ts
-#EXTINF:-1 tvg-id="13C.cl" tvg-name="TRECE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Trece.svg/1280px-Trece.svg.png" group-title="CINE Y SERIES ESPAÑA",TRECE HD
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/327764.ts
-#EXTINF:-1 tvg-id="XTRM" tvg-name="XTRM FHD" tvg-logo="https://i.postimg.cc/vTRTJ58j/Xtrm-2021.png" group-title="CINE Y SERIES ESPAÑA",XTRM FHD
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/327763.ts
-#EXTINF:-1 tvg-id="XTRM" tvg-name="XTRM HD" tvg-logo="https://i.postimg.cc/vTRTJ58j/Xtrm-2021.png" group-title="CINE Y SERIES ESPAÑA",XTRM HD
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/327828.ts
 
 ===COLOMBIA===
 #EXTINF:-1 tvg-id="" tvg-name="Cable Noticias HD" tvg-logo="https://i.postimg.cc/76HvZBKr/resize.png" group-title="COLOMBIA",Cable Noticias HD
@@ -826,6 +685,8 @@ http://45.167.1.136:8000/play/a03j
 http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/79481.ts
 #EXTINF:-1 tvg-id="" tvg-name="LOVE NATURE HD" tvg-logo="https://i.ibb.co/RHMtJVv/lober.png" group-title="CULTURA",LOVE NATURE HD
 http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/79482.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHlovetheplanet.png" group-title="CULTURA",Love The Planet
+https://amg01821-lovetvchannels-lovetheplanetsp-tivify-tivify-vycsr.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NatGeo Mundo" tvg-logo="https://i.ibb.co/D57vhdZ/24324342545.png" group-title="CULTURA",NatGeo Mundo
 http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/79488.ts
 #EXTINF:-1 tvg-id="" tvg-name="NatGeo Mundo HD" tvg-logo="https://i.ibb.co/D57vhdZ/24324342545.png" group-title="CULTURA",NatGeo Mundo HD
@@ -885,7 +746,7 @@ http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/750203.ts
 #EXTINF:-1 tvg-id="" tvg-name="DSPORTS +1 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="DEPORTES",DSPORTS +1
 http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/722195.ts
 #EXTINF:-1 tvg-id="" tvg-name="DSPORTS 1 G" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="DEPORTES",DSPORTS 1 G
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/712756.ts
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/1178.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DSPORTS 2 G" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/DSports2.png" group-title="DEPORTES",DSPORTS 2 G
 http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/712757.ts
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 2  FHD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/wcualh1660760950.png" group-title="DEPORTES",ESPN 2  FHD
@@ -1119,7 +980,7 @@ http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/598556.ts
 
 ===DIRECTV SPORTS===
 #EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS " tvg-logo="https://i.ibb.co/RjFVFZW/wer324324324.png" group-title="DIRECTV SPORTS",DIRECTV SPORTS
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/69547.ts
+http://190.117.20.37:8000/play/a08d/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS 2 " tvg-logo="https://i.ibb.co/fXC6w96/ds2.png" group-title="DIRECTV SPORTS",DIRECTV SPORTS 2
 http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/69549.ts
 #EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS 2 CO" tvg-logo="https://i.ibb.co/fXC6w96/ds2.png" group-title="DIRECTV SPORTS",DIRECTV SPORTS 2 CO
@@ -1724,7 +1585,7 @@ http://181.78.0.107:8006/play/a086/index.m3u8
 #EXTINF:-1 tvg-id="Discovery Kids.co" tvg-name="Discovery Kids HD" tvg-logo="https://i.ibb.co/4tQzkbt/discovere4r4e.png" group-title="INFANTILES",Discovery Kids HD
 http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/11924.ts
 #EXTINF:-1 tvg-id="" tvg-name="Disney Channel  HD" tvg-logo="https://i.ibb.co/L0tyPPn/disner3e3w.pnghttps://i.ibb.co/L0tyPPn/disner3e3w.png" group-title="INFANTILES",Disney Channel  HD
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/11927.ts
+http://45.70.168.162:12316/play/a009/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Disney Channel HD" tvg-logo="https://i.ibb.co/L0tyPPn/disner3e3w.pnghttps://i.ibb.co/L0tyPPn/disner3e3w.png" group-title="INFANTILES",Disney Channel HD
 http://181.78.0.107:8006/play/a07n/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Disney Junior" tvg-logo="https://i.ibb.co/5kVKd6g/disneyjre3.png" group-title="INFANTILES",Disney Junior
@@ -1738,8 +1599,7 @@ http://45.70.168.162:12339/play/a015/index.m3u8
 #EXTINF:-1 tvg-id="NickJr..ar" tvg-name="Nick Jr HD" tvg-logo="https://i.ibb.co/KcZRszs/nickjre324e.png" group-title="INFANTILES",Nick Jr HD
 http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/11937.ts
 #EXTINF:-1 tvg-id="Nick.co" tvg-name="NICKELODEON " tvg-logo="https://i.postimg.cc/k4QXtZLm/1280px-Nickelodeon-2023-logo-(outline)-svg.png" group-title="INFANTILES",NICKELODEON
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/11939.ts
-#EXTINF:-1 tvg-id="" tvg-name="NICKMUSIC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVjKxxwjpC-ITNwW2VRXHO4y3ceTYowFQflQ&s" group-title="INFANTILES",NICKMUSIC
+http://45.70.168.162:12316/play/a001/index.m3u8#EXTINF:-1 tvg-id="" tvg-name="NICKMUSIC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVjKxxwjpC-ITNwW2VRXHO4y3ceTYowFQflQ&s" group-title="INFANTILES",NICKMUSIC
 http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/11940.ts
 #EXTINF:-1 tvg-id="" tvg-name="PAKAPAKA" tvg-logo="https://i.ibb.co/L8k0yMM/pakjaaaaas.png" group-title="INFANTILES",PAKAPAKA
 http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/84574.ts
@@ -2199,3 +2059,15 @@ http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/18464.ts
 http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/31008.ts
 #EXTINF:-1 tvg-id="" tvg-name="WAPA DEPORTES" tvg-logo="https://d1cd2t8ij9653t.cloudfront.net/eyJidWNrZXQiOiJ3YXBhdHYtaW1hZ2VzIiwia2V5IjoicHJvZ3JhbXMvMjAxOS8wNi8yMDE5MDYxOTE2NTk1MjB3YXBhX2RlcG9ydGVzX2xvZ29fYmxhY2twbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0IjozMTUsImZpdCI6Imluc2lkZSJ9fX0=" group-title="VENEZUELA",WAPA DEPORTES
 http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/199975.ts
+===24/7===
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/animacion/CHlossimpson.png" group-title="24/7",Los Simpson
+https://live20.bozztv.com/akamaissh101/ssh101/simplat/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gia.tv/streams/pptv/211465.png" group-title="24/7",El Chavo
+https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2UROzSc.png" group-title="24/7",Cine Western
+https://d2nq34q0i1r3la.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-awohw8g217ho8/CineWestern_ES.m3u8
+===NOVELAS===
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/novelas/CHtllnovelas.png" group-title="NOVELAS",✔️ TLNovelas
+http://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/novelas/CHnovelisima.png" group-title="NOVELAS",✔️ Novelisima
+https://pubads.g.doubleclick.net/ssai/event/8QpjAnHCQQqBxFVRdDQXCA/master.m3u8
