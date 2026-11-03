@@ -353,8 +353,10 @@ http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/46171.ts
 http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/46170.ts
 #EXTINF:-1 tvg-id="1+1 Internacional" tvg-name="PAMOUNT CHANNEL HD" tvg-logo="https://i.ibb.co/wr5LRY4/PAMOUNT.png" group-title="CINE",PAMOUNT CHANNEL HD
 http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/46172.ts
-#EXTINF:-1 tvg-id="SONY HD" tvg-name="SONY CINE" tvg-logo="ttps://n9.cl/cmu5fx" group-title="CINE",SONY CINE
+#EXTINF:-1 tvg-id="SONY HD" tvg-name="SONY CINE" tvg-logo="https://n9.cl/cmu5fx" group-title="CINE",SONY CINE
 https://a-cdn.klowdtv.com/live1/cine_720p/chunks.m3u8
+#EXTINF:-1 tvg-id="SONY HD" tvg-name="SONY COMEDIA" tvg-logo="https://is.gd/LATVcxwc.png" group-title="CINE",SONY COMEDIA
+https://d3m8rnla2v9m5d.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="SONY HD" tvg-name="SONY CHANNEL" tvg-logo="https://i.ibb.co/M7nmfDY/SONY1.png" group-title="CINE",SONY CHANNEL
 http://45.70.168.162:12339/play/a028/index.m3u8
 #EXTINF:-1 tvg-id="SONYCH" tvg-name="SONY CHANNEL HD" tvg-logo="https://i.ibb.co/M7nmfDY/SONY1.png" group-title="CINE",SONY CHANNEL HD
@@ -629,8 +631,8 @@ http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/511539.ts
 http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/415642.ts
 #EXTINF:-1 tvg-id="DiscoveryFamily.us" tvg-name="Discovery Familia HD" tvg-logo="https://static.epg.best/us/DiscoveryFamilia.us.png" group-title="CULTURA",Discovery Familia HD
 http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/415641.ts
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Home & Health" tvg-logo="https://i.ibb.co/bdL2MpV/hyh.png" group-title="CULTURA",Discovery Home & Health
-http://45.70.168.162:64333/play/a01q/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Home & Health" tvg-logo="https://i.ibb.co/bdL2MpV/hyh.png" group-title="CULTURA",Discovery Home & Health 1
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/39.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Home & Health" tvg-logo="https://i.ibb.co/bdL2MpV/hyh.png" group-title="CULTURA",Discovery Home & Health
 http://45.70.168.162:8443/play/a01q/index.m3u8
 #EXTINF:-1 tvg-id="DISCOVERY HOME AND HEALTH" tvg-name="Discovery Home & Health HD" tvg-logo="https://i.ibb.co/bdL2MpV/hyh.png" group-title="CULTURA",Discovery Home & Health HD
@@ -1598,7 +1600,7 @@ http://play.pelusa.online:8080/live/moisesveld/t9zXxmf4jXN2ca67/292589.ts
 #EXTINF:-1 tvg-id="" tvg-name="Nick Jr" tvg-logo="https://i.ibb.co/KcZRszs/nickjre324e.png" group-title="INFANTILES",Nick Jr
 http://45.70.168.162:12339/play/a015/index.m3u8
 #EXTINF:-1 tvg-id="NickJr..ar" tvg-name="Nick Jr HD" tvg-logo="https://i.ibb.co/KcZRszs/nickjre324e.png" group-title="INFANTILES",Nick Jr HD
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/11937.ts
+https://streaming.onnethn.com/NICK_JR/playlist.m3u8
 #EXTINF:-1 tvg-id="Nick.co" tvg-name="NICKELODEON " tvg-logo="https://i.postimg.cc/k4QXtZLm/1280px-Nickelodeon-2023-logo-(outline)-svg.png" group-title="INFANTILES",NICKELODEON
 http://45.70.168.162:12316/play/a001/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NICKMUSIC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVjKxxwjpC-ITNwW2VRXHO4y3ceTYowFQflQ&s" group-title="INFANTILES",NICKMUSIC
@@ -2064,14 +2066,264 @@ http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/199975.ts
 ===24/7===
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/animacion/CHlossimpson.png" group-title="24/7",Los Simpson
 https://live20.bozztv.com/akamaissh101/ssh101/simplat/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/es/CineFriki.es.png" group-title="24/7",Cine Friki
+https://d2mr4fu91mjx9m.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rb0tx75ojbc5u/CineFriki_ES.m3u8
 #EXTINF:-1 tvg-logo="https://gia.tv/streams/pptv/211465.png" group-title="24/7",El Chavo
 https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RFD0j4Dx/el-zorro.png" group-title="24/7",El Chavo
 http://xdplus.site:2082/live/GerardoSilvap/MTUUR/107878.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pw4NZK1.png" group-title="24/7",MyTime Movie
+https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2UROzSc.png" group-title="24/7",Cine Western
 https://d2nq34q0i1r3la.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-awohw8g217ho8/CineWestern_ES.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ULGVjyC.png" group-title="24/7",Popcorn Central
+https://oly-ftvpc.otteravision.com/oly/ftvpc/ftvpc.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A Corazon Abierto" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="24 HORAS",A Corazon Abierto
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/176977
+#EXTINF:-1 tvg-id="" tvg-name="A Prueba de todo" tvg-logo="/patoaventura.png" group-title="24 HORAS",A Prueba de todo
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/266632
+#EXTINF:-1 tvg-id="" tvg-name="Acapulco Shore" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="24 HORAS",Acapulco Shore
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/266539
+#EXTINF:-1 tvg-id="" tvg-name="Alerta Aeropuerto" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="24 HORAS",Alerta Aeropuerto
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/266541
+#EXTINF:-1 tvg-id="" tvg-name="Alf" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="24 HORAS",Alf
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/30507
+#EXTINF:-1 tvg-id="" tvg-name="Avengers Unidos" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="24 HORAS",Avengers Unidos
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/266542
+#EXTINF:-1 tvg-id="" tvg-name="Baki" tvg-logo="/247/YooHoo.and.Friends.png" group-title="24 HORAS",Baki
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/266670
+#EXTINF:-1 tvg-id="" tvg-name="Betty La fea" tvg-logo="/247/masha.png" group-title="24 HORAS",Betty La fea
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/266618
+#EXTINF:-1 tvg-id="" tvg-name="Black Mirror" tvg-logo="/247/playkids128.png" group-title="24 HORAS",Black Mirror
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/266638
+#EXTINF:-1 tvg-id="" tvg-name="Caballeros del Zodiaco" tvg-logo="/247/pobrenovio.png" group-title="24 HORAS",Caballeros del Zodiaco
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/266639
+#EXTINF:-1 tvg-id="" tvg-name="Caminos Hacia el Terror" tvg-logo="/247/yosoylorenzo.png" group-title="24 HORAS",Caminos Hacia el Terror
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/266669
+#EXTINF:-1 tvg-id="" tvg-name="Cantinflas" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="24 HORAS",Cantinflas
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/63155
+#EXTINF:-1 tvg-id="" tvg-name="Cantinflas" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="24 HORAS",Cantinflas
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/117814
+#EXTINF:-1 tvg-id="" tvg-name="Caso Cerrado" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="24 HORAS",Caso Cerrado
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/45977
+#EXTINF:-1 tvg-id="" tvg-name="Caso Cerrado" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="24 HORAS",Caso Cerrado
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/117818
+#EXTINF:-1 tvg-id="" tvg-name="Chepe Fortuna" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="24 HORAS",Chepe Fortuna
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/266556
+#EXTINF:-1 tvg-id="" tvg-name="Chespirito" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="24 HORAS",Chespirito
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/266543
+#EXTINF:-1 tvg-id="" tvg-name="Cine Prime 01" tvg-logo="" group-title="24 HORAS",Cine Prime 01
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/306957
+#EXTINF:-1 tvg-id="" tvg-name="Cine Prime 02" tvg-logo="" group-title="24 HORAS",Cine Prime 02
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/306958
+#EXTINF:-1 tvg-id="" tvg-name="Cine Prime 03" tvg-logo="" group-title="24 HORAS",Cine Prime 03
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/306959
+#EXTINF:-1 tvg-id="" tvg-name="Cine Prime 04" tvg-logo="" group-title="24 HORAS",Cine Prime 04
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/306960
+#EXTINF:-1 tvg-id="" tvg-name="Cine Prime 05" tvg-logo="" group-title="24 HORAS",Cine Prime 05
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/306961
+#EXTINF:-1 tvg-id="" tvg-name="Cine Prime 06" tvg-logo="" group-title="24 HORAS",Cine Prime 06
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/306962
+#EXTINF:-1 tvg-id="" tvg-name="Cine Prime 07" tvg-logo="" group-title="24 HORAS",Cine Prime 07
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/306956
+#EXTINF:-1 tvg-id="" tvg-name="Cine Prime 08" tvg-logo="" group-title="24 HORAS",Cine Prime 08
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/306964
+#EXTINF:-1 tvg-id="" tvg-name="Cine Prime 09" tvg-logo="" group-title="24 HORAS",Cine Prime 09
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/306965
+#EXTINF:-1 tvg-id="" tvg-name="Cine Prime 10" tvg-logo="" group-title="24 HORAS",Cine Prime 10
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/306966
+#EXTINF:-1 tvg-id="" tvg-name="Cinema Comics" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="24 HORAS",Cinema Comics
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/49494
+#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai" tvg-logo="/247/pocoyo.png" group-title="24 HORAS",Cobra Kai
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/266640
+#EXTINF:-1 tvg-id="" tvg-name="Conciertos" tvg-logo="/247/riquisimo.png" group-title="24 HORAS",Conciertos
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/266646
+#EXTINF:-1 tvg-id="" tvg-name="CSI Miami" tvg-logo="/mickey_mouse.png" group-title="24 HORAS",CSI Miami
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/266619
+#EXTINF:-1 tvg-id="" tvg-name="Dark" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="24 HORAS",Dark
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/176980
+#EXTINF:-1 tvg-id="" tvg-name="DC Comics" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="24 HORAS",DC Comics
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/266563
+#EXTINF:-1 tvg-id="" tvg-name="Disney Pixar" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="24 HORAS",Disney Pixar
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/266566
+#EXTINF:-1 tvg-id="" tvg-name="WWE Royal Rumble" tvg-logo="/247/MovieCenterkids.png" group-title="24 HORAS",WWE Royal Rumble
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/266622
+#EXTINF:-1 tvg-id="" tvg-name="Documentales" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="24 HORAS",Documentales
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/155606
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball (Saga Mayin Boo)" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="24 HORAS",Dragon Ball (Saga Mayin Boo)
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/266550
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="24 HORAS",Dragon Ball Super
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/266552
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z " tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="24 HORAS",Dragon Ball Z
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/30508
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z (Saga Babidi)" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="24 HORAS",Dragon Ball Z (Saga Babidi)
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/266538
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z (Saga Cell)" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="24 HORAS",Dragon Ball Z (Saga Cell)
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/266553
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Gall GT" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="24 HORAS",Dragon Gall GT
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/63573
+#EXTINF:-1 tvg-id="" tvg-name="El Cartel de los Sapos" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="24 HORAS",El Cartel de los Sapos
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/176975
+#EXTINF:-1 tvg-id="" tvg-name="El Chavo del 8" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="24 HORAS",El Chavo del 8
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/266546
+#EXTINF:-1 tvg-id="" tvg-name="El Man es German" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="24 HORAS",El Man es German
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/176969
+#EXTINF:-1 tvg-id="" tvg-name="El Señor de Los Cielos" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="24 HORAS",El Señor de Los Cielos
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/266545
+#EXTINF:-1 tvg-id="" tvg-name="Elite" tvg-logo="/247/sofia.png" group-title="24 HORAS",Elite
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/266641
+#EXTINF:-1 tvg-id="" tvg-name="Escalona" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="24 HORAS",Escalona
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/62841
+#EXTINF:-1 tvg-id="" tvg-name="Escobar El Patron del Mal" tvg-logo="http://209.126.82.213/LogosP/24-7.png" group-title="24 HORAS",Escobar El Patron del Mal
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/43146
+#EXTINF:-1 tvg-id="" tvg-name="Exponiendo Infieles" tvg-logo="/247/fenomenoide.png" group-title="24 HORAS",Exponiendo Infieles
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/266568
+#EXTINF:-1 tvg-id="" tvg-name="FBI FHD" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="24 HORAS",FBI FHD
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/266548
+#EXTINF:-1 tvg-id="" tvg-name="Flash" tvg-logo="http://209.126.82.213/LogosP/24-7.png" group-title="24 HORAS",Flash
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/63785
+#EXTINF:-1 tvg-id="" tvg-name="Futurama FHD" tvg-logo="/247/futurama.png" group-title="24 HORAS",Futurama FHD
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/266570
+#EXTINF:-1 tvg-id="" tvg-name="Amigas y Rivales" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="24 HORAS",Amigas y Rivales
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/266630
+#EXTINF:-1 tvg-id="" tvg-name="Guerrero Ninja Americano" tvg-logo="/247/jimmyneutron.png" group-title="24 HORAS",Guerrero Ninja Americano
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/266581
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter" tvg-logo="http://209.126.82.213/LogosP/24-7.png" group-title="24 HORAS",Harry Potter
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/155626
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter FHD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="24 HORAS",Harry Potter FHD
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/266592
+#EXTINF:-1 tvg-id="" tvg-name="Hugo Chavez" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="24 HORAS",Hugo Chavez
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/266564
+#EXTINF:-1 tvg-id="" tvg-name="Invicto" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="24 HORAS",Invicto
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/266569
+#EXTINF:-1 tvg-id="" tvg-name="La Rosa de Guadalupe" tvg-logo="/247/rapidosysabrosos.png" group-title="24 HORAS",La Rosa de Guadalupe
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/266643
+#EXTINF:-1 tvg-id="" tvg-name="La Casa de Papel" tvg-logo="http://209.126.82.213/LogosP/24-7.png" group-title="24 HORAS",La Casa de Papel
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/155641
+#EXTINF:-1 tvg-id="" tvg-name="La Familia Peluche" tvg-logo="http://209.126.82.213/LogosP/24-7.png" group-title="24 HORAS",La Familia Peluche
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/155605
+#EXTINF:-1 tvg-id="" tvg-name="La Hija del Mariachi" tvg-logo="/247/galloclaudio128.png" group-title="24 HORAS",La Hija del Mariachi
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/266572
+#EXTINF:-1 tvg-id="" tvg-name="La Liga del Dragon" tvg-logo="/247/geniosdelacarne.png" group-title="24 HORAS",La Liga del Dragon
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/266573
+#EXTINF:-1 tvg-id="" tvg-name="La Prepago" tvg-logo="/247/grupoincreible.png" group-title="24 HORAS",La Prepago
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/266574
+#EXTINF:-1 tvg-id="" tvg-name="La Prepago" tvg-logo="http://209.126.82.213/logox/247h.png" group-title="24 HORAS",La Prepago
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/49493
+#EXTINF:-1 tvg-id="" tvg-name="La Reina del Flow" tvg-logo="/247/losautoslocos.png" group-title="24 HORAS",La Reina del Flow
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/266607
+#EXTINF:-1 tvg-id="" tvg-name="La Reina del Sur" tvg-logo="/247/hagaloustedmismo.png" group-title="24 HORAS",La Reina del Sur
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/266575
+#EXTINF:-1 tvg-id="" tvg-name="Las Muñecas de la Mafia" tvg-logo="/247/winnie.png" group-title="24 HORAS",Las Muñecas de la Mafia
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/266668
+#EXTINF:-1 tvg-id="" tvg-name="Amor Eterno" tvg-logo="/247/littlepetshop.png" group-title="24 HORAS",Amor Eterno
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/266600
+#EXTINF:-1 tvg-id="" tvg-name="Los Magnificos" tvg-logo="/247/mickey.png" group-title="24 HORAS",Los Magnificos
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/266602
+#EXTINF:-1 tvg-id="" tvg-name="Los Picapiedras" tvg-logo="http://209.126.82.213/LogosP/24-7.png" group-title="24 HORAS",Los Picapiedras
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/117811
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpsons FHD" tvg-logo="/247/simpson.png" group-title="24 HORAS",Los Simpsons FHD
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/266612
+#EXTINF:-1 tvg-id="" tvg-name="NCSI Los Angeles" tvg-logo="/247/simpsonsterror.png" group-title="24 HORAS",NCSI Los Angeles
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/266614
+#EXTINF:-1 tvg-id="" tvg-name="Luisito Comunica" tvg-logo="/jhonnybravo.png" group-title="24 HORAS",Luisito Comunica
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/266582
+#EXTINF:-1 tvg-id="" tvg-name="Maria la del Barrio" tvg-logo="http://209.126.82.213/logox/247h.png" group-title="24 HORAS",Maria la del Barrio
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/176971
+#EXTINF:-1 tvg-id="" tvg-name="Macgyver" tvg-logo="/247/vueltaalamanzana.png" group-title="24 HORAS",Macgyver
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/266667
+#EXTINF:-1 tvg-id="" tvg-name="Maria Mercedes" tvg-logo="/247/lacaceria.png" group-title="24 HORAS",Maria Mercedes
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/266584
+#EXTINF:-1 tvg-id="" tvg-name="Marvel Studios" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="24 HORAS",Marvel Studios
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/266544
+#EXTINF:-1 tvg-id="" tvg-name="Mi Gorda Bella" tvg-logo="/247/peppa.png" group-title="24 HORAS",Mi Gorda Bella
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/266635
+#EXTINF:-1 tvg-id="" tvg-name="Mr. Bean" tvg-logo="/247/pluto.png" group-title="24 HORAS",Mr. Bean
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/266603
+#EXTINF:-1 tvg-id="" tvg-name="NCIS Los Angeles" tvg-logo="/247/lacolonia.png" group-title="24 HORAS",NCIS Los Angeles
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/266589
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Cine en Casa 01" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="24 HORAS",Netflix Cine en Casa 01
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/266495
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Cine en Casa 02" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="24 HORAS",Netflix Cine en Casa 02
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/266502
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Cine en Casa 03" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="24 HORAS",Netflix Cine en Casa 03
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/266504
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Cine en Casa 05" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="24 HORAS",Netflix Cine en Casa 05
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/266506
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Cine en Casa 07" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="24 HORAS",Netflix Cine en Casa 07
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/266511
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Cine en Casa 08" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="24 HORAS",Netflix Cine en Casa 08
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/266512
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Cine en Casa 09" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="24 HORAS",Netflix Cine en Casa 09
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/266513
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Cine en Casa 10" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="24 HORAS",Netflix Cine en Casa 10
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/266514
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Cine en Casa 11" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="24 HORAS",Netflix Cine en Casa 11
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/266515
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Cine en Casa 14" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="24 HORAS",Netflix Cine en Casa 14
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/266519
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Cine en Casa 15" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="24 HORAS",Netflix Cine en Casa 15
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/266521
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Cine en Casa 16" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="24 HORAS",Netflix Cine en Casa 16
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/266530
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Cine en Casa 17" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="24 HORAS",Netflix Cine en Casa 17
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/266532
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Cine en Casa 18" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="24 HORAS",Netflix Cine en Casa 18
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/266533
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Cine en Casa 19" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="24 HORAS",Netflix Cine en Casa 19
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/266535
+#EXTINF:-1 tvg-id="" tvg-name="Palazuelos mi rey" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="24 HORAS",Palazuelos mi rey
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/266665
+#EXTINF:-1 tvg-id="" tvg-name="Paw Patrol FHD" tvg-logo="/247/pawpatrol2.png" group-title="24 HORAS",Paw Patrol FHD
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/266634
+#EXTINF:-1 tvg-id="" tvg-name="Pedro el Escamoso" tvg-logo="https://dl.dropboxusercontent.com/s/9l2g4haedez7y37/laguardiadelleon.png" group-title="24 HORAS",Pedro el Escamoso
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/266591
+#EXTINF:-1 tvg-id="" tvg-name="Pepa Pig" tvg-logo="/247/twd.png" group-title="24 HORAS",Pepa Pig
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/266662
+#EXTINF:-1 tvg-id="" tvg-name="Pesca Mortal" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="24 HORAS",Pesca Mortal
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/266537
+#EXTINF:-1 tvg-id="" tvg-name="Piratas del Caribe" tvg-logo="http://puntoz.xyz/LOGOS/shera.png" group-title="24 HORAS",Piratas del Caribe
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/266653
+#EXTINF:-1 tvg-id="" tvg-name="Rambo" tvg-logo="/247/volveriascontuex.png" group-title="24 HORAS",Rambo
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/266666
+#EXTINF:-1 tvg-id="" tvg-name="Rapido y Furioso" tvg-logo="/247/rtdoc.png" group-title="24 HORAS",Rapido y Furioso
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/266648
+#EXTINF:-1 tvg-id="" tvg-name="Reina de Corazones" tvg-logo="/247/laresistencia2.png" group-title="24 HORAS",Reina de Corazones
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/266593
+#EXTINF:-1 tvg-id="" tvg-name="Rocky " tvg-logo="http://puntoz.xyz/LOGOS/lasirenita.png" group-title="24 HORAS",Rocky
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/266595
+#EXTINF:-1 tvg-id="" tvg-name="Sex Education" tvg-logo="/247/tinytoon.png" group-title="24 HORAS",Sex Education
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/266660
+#EXTINF:-1 tvg-id="" tvg-name="Shark Tank" tvg-logo="/247/romancechannel.png" group-title="24 HORAS",Shark Tank
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/266647
+#EXTINF:-1 tvg-id="" tvg-name="Si Nos Dejan" tvg-logo="/247/tropagoofy.png" group-title="24 HORAS",Si Nos Dejan
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/266596
+#EXTINF:-1 tvg-id="" tvg-name="Sin tetas no Hay Paraiso" tvg-logo="/247/secretosurbanos.png" group-title="24 HORAS",Sin tetas no Hay Paraiso
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/266651
+#EXTINF:-1 tvg-id="" tvg-name="Sin Tetas no Hya Paraiso" tvg-logo="http://209.126.82.213/LogosP/24-7.png" group-title="24 HORAS",Sin Tetas no Hya Paraiso
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/117810
+#EXTINF:-1 tvg-id="" tvg-name="Soñadoras" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="24 HORAS",Soñadoras
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/266598
+#EXTINF:-1 tvg-id="" tvg-name="Suits" tvg-logo="http://puntoz.xyz/LOGOS/strretshark.png" group-title="24 HORAS",Suits
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/266656
+#EXTINF:-1 tvg-id="" tvg-name="Super Campeones" tvg-logo="/247/gatotom.png" group-title="24 HORAS",Super Campeones
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/266657
+#EXTINF:-1 tvg-id="" tvg-name="Supervivencia al Desnudo" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="24 HORAS",Supervivencia al Desnudo
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/266631
+#EXTINF:-1 tvg-id="" tvg-name="The Sopranos" tvg-logo="/247/South-park.png" group-title="24 HORAS",The Sopranos
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/266655
+#EXTINF:-1 tvg-id="" tvg-name="Cafe con Aroma de Mujer" tvg-logo="/247/paolaymeguelito.png" group-title="24 HORAS",Cafe con Aroma de Mujer
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/266629
+#EXTINF:-1 tvg-id="" tvg-name="Vis a Vis" tvg-logo="/247/tortugasninja.png" group-title="24 HORAS",Vis a Vis
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/266661
+#EXTINF:-1 tvg-id="" tvg-name="Vis a Vis" tvg-logo="http://209.126.82.213/LogosP/24-7.png" group-title="24 HORAS",Vis a Vis
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/117807
+#EXTINF:-1 tvg-id="" tvg-name="Wild Frank" tvg-logo="/247/seleccionnacional.png" group-title="24 HORAS",Wild Frank
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/266652
+#EXTINF:-1 tvg-id="" tvg-name="Xica Da Silva" tvg-logo="/247/donald.png" group-title="24 HORAS",Xica Da Silva
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/266601
 ===NOVELAS===
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/novelas/CHtllnovelas.png" group-title="NOVELAS",✔️ TLNovelas
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/novelas/CHtllnovelas.png" group-title="NOVELAS",TLNovelas
 http://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/novelas/CHnovelisima.png" group-title="NOVELAS",✔️ Novelisima
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/novelas/CHnovelisima.png" group-title="NOVELAS",Novelisima
 https://pubads.g.doubleclick.net/ssai/event/8QpjAnHCQQqBxFVRdDQXCA/master.m3u8
