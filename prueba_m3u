@@ -377,8 +377,8 @@ http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/46195.ts
 http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/46189.ts
 #EXTINF:-1 tvg-id="" tvg-name="STAR CHANNEL HDG" tvg-logo="https://i.ibb.co/vHVVM6K/STCHA1.png" group-title="CINE",STAR CHANNEL HDG
 http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/46188.ts
-#EXTINF:-1 tvg-id="StudioUniversalSouth.us" tvg-name="STUDIO UNIVERSAL" tvg-logo="https://i.ibb.co/jL5S1mw/STUDIO.png" group-title="CINE",STUDIO UNIVERSAL
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/46219.ts
+#EXTINF:-1 tvg-id="StudioUniversalSouth.us" tvg-name="STUDIO UNIVERSAL 1" tvg-logo="https://i.ibb.co/jL5S1mw/STUDIO.png" group-title="CINE",STUDIO UNIVERSAL 1
+http://38.134.250.110:8000/play/a005/index.m3u8
 #EXTINF:-1 tvg-id="Studio Universal.co" tvg-name="STUDIO UNIVERSAL" tvg-logo="https://i.ibb.co/4Nh3KcF/STUD1.png" group-title="CINE",STUDIO UNIVERSAL
 http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/46220.ts
 #EXTINF:-1 tvg-id="Studio Universal.co" tvg-name="STUDIO UNIVERSAL HD" tvg-logo="https://i.ibb.co/kmQCLLM/STUDI2.png" group-title="CINE",STUDIO UNIVERSAL HD
