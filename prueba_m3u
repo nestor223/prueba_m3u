@@ -1,5 +1,4 @@
 #EXTM3U
-
 ===ARGENTINA===
 #EXTINF:-1 tvg-id="" tvg-name="5TV" tvg-logo="https://www.tvcinco.com/images/logo2.jpg" group-title="ARGENTINA",5TV
 http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/712700.ts
@@ -189,17 +188,17 @@ http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/715105.ts
 
 ===CINE===
 #EXTINF:-1 tvg-id="AEANDHC" tvg-name="A&E OP1" tvg-logo="https://i.ibb.co/kKgT2Fy/A-E.png" group-title="CINE",A&E OP1
-http://45.70.168.162:8088/play/a00h/index.m3u8
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/5.m3u8
 #EXTINF:-1 tvg-id="AandE HD" tvg-name="A&E OP2" tvg-logo="https://i.ibb.co/kKgT2Fy/A-E.png" group-title="CINE",A&E OP2
-http://45.70.168.162:8100/play/a00h/index.m3u8
+https://netgotvpro.cc/live/juan_ferez/Ferez2023J/46085.ts
 #EXTINF:-1 tvg-id="AandE.co" tvg-name="A&E OP3" tvg-logo="https://i.ibb.co/kKgT2Fy/A-E.png" group-title="CINE",A&E OP3
-http://45.70.168.162:8090/play/a00h/index.m3u8
+https://netgotvpro.cc/live/juan_ferez/Ferez2023J/46086.ts
 #EXTINF:-1 tvg-id="Atrescine.es" tvg-name="A3SERIES" tvg-logo="https://i.postimg.cc/g2bcCZnW/1024px-Atreseries-2020-logo-svg.png" group-title="CINE",A3SERIES
 http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/46097.ts
 #EXTINF:-1 tvg-id="AMCLatinAmerica.us" tvg-name="AMC FHD" tvg-logo="https://i.ibb.co/3Fy00fn/amc.png" group-title="CINE",AMC FHD
 http://181.78.0.107:8006/play/a085/index.m3u8
 #EXTINF:-1 tvg-id="AMCLatinAmerica.us" tvg-name="AMC HD" tvg-logo="https://i.ibb.co/3Fy00fn/amc.png" group-title="CINE",AMC HD
-http://45.134.141.161:2200/ARG/AMC_HD/index.m3u8
+http://m3u.tvcluboficial.com/free/oct/oct/33.m3u8
 #EXTINF:-1 tvg-id="AMCLatinAmerica.us" tvg-name="AMC HD MX" tvg-logo="https://i.ibb.co/3Fy00fn/amc.png" group-title="CINE",AMC HD MX
 https://amc-amcespanol-1-us.plex.wurl.tv/1200.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AMC SERIES" tvg-logo="https://i.postimg.cc/J4bc389s/images-9-removebg-preview.png" group-title="CINE",AMC SERIES
@@ -354,6 +353,8 @@ http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/46171.ts
 http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/46170.ts
 #EXTINF:-1 tvg-id="1+1 Internacional" tvg-name="PAMOUNT CHANNEL HD" tvg-logo="https://i.ibb.co/wr5LRY4/PAMOUNT.png" group-title="CINE",PAMOUNT CHANNEL HD
 http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/46172.ts
+#EXTINF:-1 tvg-id="SONY HD" tvg-name="SONY CINE" tvg-logo="ttps://n9.cl/cmu5fx" group-title="CINE",SONY CINE
+https://a-cdn.klowdtv.com/live1/cine_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="SONY HD" tvg-name="SONY CHANNEL" tvg-logo="https://i.ibb.co/M7nmfDY/SONY1.png" group-title="CINE",SONY CHANNEL
 http://45.70.168.162:12339/play/a028/index.m3u8
 #EXTINF:-1 tvg-id="SONYCH" tvg-name="SONY CHANNEL HD" tvg-logo="https://i.ibb.co/M7nmfDY/SONY1.png" group-title="CINE",SONY CHANNEL HD
@@ -418,7 +419,7 @@ http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/90078.ts
 #EXTINF:-1 tvg-id="UniversalComedy.ar" tvg-name="UNIVERSAL COMEDY HD" tvg-logo="https://i.ibb.co/TBLRttd/UNIVESALCOMEDY.png" group-title="CINE",UNIVERSAL COMEDY HD
 http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/90081.ts
 #EXTINF:-1 tvg-id="UNIVERSAL CRIME" tvg-name="UNIVERSAL CRIME MX" tvg-logo="https://i.ibb.co/Rj4HpMq/UNIVESALCRIME.png" group-title="CINE",UNIVERSAL CRIME MX
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/90079.ts
+http://play.pelusa.online:8080/live/moisesveld/t9zXxmf4jXN2ca67/249734.ts
 #EXTINF:-1 tvg-id="UNIVERSAL CHANNEL" tvg-name="UNIVERSAL HD" tvg-logo="https://i.ibb.co/4YqhnVc/universa2.png" group-title="CINE",UNIVERSAL HD
 http://181.78.0.107:8006/play/a06y/index.m3u8
 #EXTINF:-1 tvg-id="UniversalTVSouth.us" tvg-name="UNIVERSAL HD" tvg-logo="https://i.ibb.co/4YqhnVc/universa2.png" group-title="CINE",UNIVERSAL HD
@@ -426,7 +427,7 @@ http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/46246.ts
 #EXTINF:-1 tvg-id="Universal TV.co" tvg-name="UNIVERSAL HD" tvg-logo="https://i.ibb.co/Mpx2y51/UNIVERSAL1.png" group-title="CINE",UNIVERSAL HD
 http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/46247.ts
 #EXTINF:-1 tvg-id="UNIVERSAL PREMIERE" tvg-name="UNIVERSAL PREMIERE HD" tvg-logo="https://i.ibb.co/NCKFnDN/UNIVERSALPRE.png" group-title="CINE",UNIVERSAL PREMIERE HD
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/90082.ts
+http://play.pelusa.online:8080/live/moisesveld/t9zXxmf4jXN2ca67/249733.ts
 #EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL PREMIERE HD" tvg-logo="https://i.ibb.co/NCKFnDN/UNIVERSALPRE.png" group-title="CINE",UNIVERSAL PREMIERE HD
 http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/90083.ts
 #EXTINF:-1 tvg-id="UNIVERSAL REALITY" tvg-name="UNIVERSAL REALITY" tvg-logo="https://i.ibb.co/dcZ8bsY/UNIVESALREA.png" group-title="CINE",UNIVERSAL REALITY
@@ -609,7 +610,7 @@ http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/13766.ts
 
 ===CULTURA===
 #EXTINF:-1 tvg-id="Animal Planet.co" tvg-name="Animal Planet  HD" tvg-logo="https://i.ibb.co/JqYBgn5/lgit878888.png" group-title="CULTURA",Animal Planet  HD
-http://190.108.83.69:8000/play/a043/index.m3u
+http://m3u.tvcluboficial.com/free/oct/oct/42.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Animal Planet HD" tvg-logo="https://i.ibb.co/JqYBgn5/lgit878888.png" group-title="CULTURA",Animal Planet HD
 http://181.78.0.107:8006/play/a07x/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CGTN ESPAÑOL HD" tvg-logo="https://i.ibb.co/W5gXhQL/gvbret54654232.png" group-title="CULTURA",CGTN ESPAÑOL HD
@@ -705,16 +706,16 @@ http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/679034.ts
 http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/585989.ts
 
 ===DAZN  ESPAÑA===
-#EXTINF:-1 tvg-id="dazn1.es" tvg-name="DAZN 1 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/M1SD.png" group-title="DAZN  ESPAÑA",DAZN 1 FHD
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/155621.ts
+#EXTINF:-1 tvg-id="dazn1.es" tvg-name="DAZN  FHD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/M1SD.png" group-title="DAZN  ESPAÑA",DAZN 1 FHD
+http://play.pelusa.online:8080/live/moisesveld/t9zXxmf4jXN2ca67/278284.ts
 #EXTINF:-1 tvg-id="" tvg-name="DAZN 1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/M1SD.png" group-title="DAZN  ESPAÑA",DAZN 1 HD
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/221519.ts
+http://play.pelusa.online:8080/live/moisesveld/t9zXxmf4jXN2ca67/278285.ts
 #EXTINF:-1 tvg-id="" tvg-name="DAZN 2 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/M2SD.png" group-title="DAZN  ESPAÑA",DAZN 2 FHD
 http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/155623.ts
 #EXTINF:-1 tvg-id="" tvg-name="DAZN 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/M2SD.png" group-title="DAZN  ESPAÑA",DAZN 2 HD
 http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/155622.ts
 #EXTINF:-1 tvg-id="DAZN 3" tvg-name="DAZN 3 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DAZN3.png" group-title="DAZN  ESPAÑA",DAZN 3 FHD
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/155624.ts
+http://play.pelusa.online:8080/live/moisesveld/t9zXxmf4jXN2ca67/278238.ts
 #EXTINF:-1 tvg-id="" tvg-name="DAZN 4 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DAZN4.png" group-title="DAZN  ESPAÑA",DAZN 4 FHD
 http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/155625.ts
 #EXTINF:-1 tvg-id="" tvg-name="DAZN Baloncesto 2 FHD" tvg-logo="https://dsnqyfrown.sdt7cgr.com:443/images/RFT_BIHYmBp4TXwYJnzZsPZ_gvrljfir3iub2uVRFX3lrHrr4eVVWIcM50gWnSjUg_LtWc7nMefbPRvtq_9nXYXh4HGyX_JJgENCXmFxEoTINYc1tRIvPlqni_t-NnURHfyRrJBqw1Kgme7Oc5aQjiVZeJk6Xs5VUUBSEdyDKUCrTKriDtuWMX6p-epxVG5x.png" group-title="DAZN  ESPAÑA",DAZN Baloncesto 2 FHD
@@ -726,7 +727,7 @@ http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/750200.ts
 #EXTINF:-1 tvg-id="DAZN F1 4K" tvg-name="DAZN F1 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" group-title="DAZN  ESPAÑA",DAZN F1 4K
 http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/147267.ts
 #EXTINF:-1 tvg-id="" tvg-name="DAZN F1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" group-title="DAZN  ESPAÑA",DAZN F1 FHD
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/155619.ts
+http://play.pelusa.online:8080/live/moisesveld/t9zXxmf4jXN2ca67/278286.ts
 #EXTINF:-1 tvg-id="" tvg-name="DAZN F1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" group-title="DAZN  ESPAÑA",DAZN F1 HD
 http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/155616.ts
 #EXTINF:-1 tvg-id="DAZN F1" tvg-name="DAZN F1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" group-title="DAZN  ESPAÑA",DAZN F1 HD
@@ -756,7 +757,7 @@ http://181.78.0.107:8006/play/a07j/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 3 HD " tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/wkdrnd1660760961.png" group-title="DEPORTES",ESPN 3 HD
 http://45.70.168.162:12339/play/a017/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 3 HD " tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/wkdrnd1660760961.png" group-title="DEPORTES",ESPN 3 HD
-http://200.48.65.77:8000/play/a00f?output=ts
+http://play.pelusa.online:8080/live/moisesveld/t9zXxmf4jXN2ca67/292587.ts
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 4 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/ESPN_4.svg/revision/latest/scale-to-width-down/250?cb=20211120194330" group-title="DEPORTES",ESPN 4 HD
 http://181.78.0.107:8006/play/a07k/index.m3u8
 #EXTINF:1 tvg-id="" tvg-name="ESPN 5" tvg-logo="https://n9.cl/3677y" group-title="DEPORTES",ESPN 5
@@ -2065,8 +2066,8 @@ http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/199975.ts
 https://live20.bozztv.com/akamaissh101/ssh101/simplat/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gia.tv/streams/pptv/211465.png" group-title="24/7",El Chavo
 https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://gia.tv/streams/pptv/211465.png" group-title="24/7",El Chavo
-http://saiyaancorp.com:80/live/T3FAeRAjQBHQ/DfzFbxY7QgUe/1566062.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RFD0j4Dx/el-zorro.png" group-title="24/7",El Chavo
+http://xdplus.site:2082/live/GerardoSilvap/MTUUR/107878.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2UROzSc.png" group-title="24/7",Cine Western
 https://d2nq34q0i1r3la.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-awohw8g217ho8/CineWestern_ES.m3u8
 ===NOVELAS===
