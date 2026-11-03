@@ -2078,6 +2078,7 @@ https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 https://d2nq34q0i1r3la.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-awohw8g217ho8/CineWestern_ES.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ULGVjyC.png" group-title="24/7",Popcorn Central
 https://oly-ftvpc.otteravision.com/oly/ftvpc/ftvpc.m3u8
+#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="A Corazon Abierto" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="24/7",A Corazon Abierto
 http://www.1play.cool:25461/Antonio30/bdb3a18bc6/176977
 #EXTINF:-1 tvg-id="" tvg-name="A Prueba de todo" tvg-logo="/patoaventura.png" group-title="24/7",A Prueba de todo
@@ -2154,7 +2155,7 @@ http://www.1play.cool:25461/Antonio30/bdb3a18bc6/155606
 http://www.1play.cool:25461/Antonio30/bdb3a18bc6/266550
 #EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="24/7",Dragon Ball Super
 http://www.1play.cool:25461/Antonio30/bdb3a18bc6/266552
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z " tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="24/7",Dragon Ball Z 
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z " tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="24/7",Dragon Ball Z
 http://www.1play.cool:25461/Antonio30/bdb3a18bc6/30508
 #EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z (Saga Babidi)" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="24/7",Dragon Ball Z (Saga Babidi)
 http://www.1play.cool:25461/Antonio30/bdb3a18bc6/266538
@@ -2290,7 +2291,7 @@ http://www.1play.cool:25461/Antonio30/bdb3a18bc6/266666
 http://www.1play.cool:25461/Antonio30/bdb3a18bc6/266648
 #EXTINF:-1 tvg-id="" tvg-name="Reina de Corazones" tvg-logo="/247/laresistencia2.png" group-title="24/7",Reina de Corazones
 http://www.1play.cool:25461/Antonio30/bdb3a18bc6/266593
-#EXTINF:-1 tvg-id="" tvg-name="Rocky " tvg-logo="http://puntoz.xyz/LOGOS/lasirenita.png" group-title="24/7",Rocky 
+#EXTINF:-1 tvg-id="" tvg-name="Rocky " tvg-logo="http://puntoz.xyz/LOGOS/lasirenita.png" group-title="24/7",Rocky
 http://www.1play.cool:25461/Antonio30/bdb3a18bc6/266595
 #EXTINF:-1 tvg-id="" tvg-name="Sex Education" tvg-logo="/247/tinytoon.png" group-title="24/7",Sex Education
 http://www.1play.cool:25461/Antonio30/bdb3a18bc6/266660
@@ -2322,9 +2323,171 @@ http://www.1play.cool:25461/Antonio30/bdb3a18bc6/117807
 http://www.1play.cool:25461/Antonio30/bdb3a18bc6/266652
 #EXTINF:-1 tvg-id="" tvg-name="Xica Da Silva" tvg-logo="/247/donald.png" group-title="24/7",Xica Da Silva
 http://www.1play.cool:25461/Antonio30/bdb3a18bc6/266601
-
 ===NOVELAS===
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/novelas/CHtllnovelas.png" group-title="NOVELAS",TLNovelas
 http://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/novelas/CHnovelisima.png" group-title="NOVELAS",Novelisima
 https://pubads.g.doubleclick.net/ssai/event/8QpjAnHCQQqBxFVRdDQXCA/master.m3u8
+===LATINOS===
+#EXTINF:-1 tvg-id="MX - A&E Mundo" tvg-name="A&E (MX)" tvg-logo="http://209.126.82.213/LogosP/Cine/cine_ae.png" group-title="LATINOS",A&E (MX)
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/30656
+#EXTINF:-1 tvg-id="I430.88305.schedulesdirect.org" tvg-name="A3cine (MX)" tvg-logo="https://od.lk/s/MzlfMzQ1NjIxOTJf/mx_arts.png" group-title="LATINOS",A3cine (MX)
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/134284
+#EXTINF:-1 tvg-id="MX - AMC HD" tvg-name="AMC (MX)" tvg-logo="http://209.126.82.213/LogosP/Cine/cine_amc.png" group-title="LATINOS",AMC (MX)
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/45928
+#EXTINF:-1 tvg-id="MX - Animal Planet" tvg-name="Animal Planet (MX)" tvg-logo="http://209.126.82.213/logos/mx_animal_planet.png" group-title="LATINOS",Animal Planet (MX)
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/59920
+#EXTINF:-1 tvg-id="I58.90898.schedulesdirect.org" tvg-name="Atreseries (MX)" tvg-logo="https://od.lk/s/MzlfMzQ1NjE1Nzlf/mx_a3series.png" group-title="LATINOS",Atreseries (MX)
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/134285
+#EXTINF:-1 tvg-id="MX - AXN" tvg-name="AXN (MX)" tvg-logo="https://od.lk/s/MzlfMzQ1NjE1ODRf/mx_axn.png" group-title="LATINOS",AXN (MX)
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/30659
+#EXTINF:-1 tvg-id="XHIMT.Azteca.7.DF.(AZT-7).mx" tvg-name="Azteca 7 (MX)" tvg-logo="https://od.lk/s/MzlfMzQ1NjE1MjNf/mx_azteca_7.png" group-title="LATINOS",Azteca 7 (MX)
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/134288
+#EXTINF:-1 tvg-id="CO - Antena 3" tvg-name="Azteca Deportes (MX)" tvg-logo="https://od.lk/s/MzlfMzQ1NjE1ODJf/mx_antena_3.png" group-title="LATINOS",Azteca Deportes (MX)
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/30657
+#EXTINF:-1 tvg-id="XHDF.Ciudad.de.México.(Azteca.Uno).DF.(AZUNO).mx" tvg-name="Azteca Uno (MX)" tvg-logo="https://od.lk/s/MzlfMzQ1NjE1MjRf/mx_azteca_uno.png" group-title="LATINOS",Azteca Uno (MX)
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/134289
+#EXTINF:-1 tvg-id="CL - BabyTV" tvg-name="Baby TV (MX)" tvg-logo="https://od.lk/s/MzlfMzQ1NjE1ODZf/mx_baby_tv.png" group-title="LATINOS",Baby TV (MX)
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/59921
+#EXTINF:-1 tvg-id="MX - Bandamax" tvg-name="Bandamax (MX)" tvg-logo="https://od.lk/s/MzlfMzQ1NjE1MjVf/mx_bandamax.png" group-title="LATINOS",Bandamax (MX)
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/134332
+#EXTINF:-1 tvg-id="LATINO_Networks_and_Sports_EPGCanal5.mx" tvg-name="Canal 5 (MX)" tvg-logo="http://209.126.82.213/logos/mx_canal_5.png" group-title="LATINOS",Canal 5 (MX)
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/134290
+#EXTINF:-1 tvg-id="MX - Cartoon Network" tvg-name="Cartoon Network (MX)" tvg-logo="https://od.lk/s/MzlfMzQ1NjE1OTBf/mx_cartoon_network.png" group-title="LATINOS",Cartoon Network (MX)
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/30665
+#EXTINF:-1 tvg-id="MX - Boomerang" tvg-name="Cartoonito (MX)" tvg-logo="https://od.lk/s/MzlfMzQ1NjE0ODRf/mx_cartoonito.png" group-title="LATINOS",Cartoonito (MX)
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/30660
+#EXTINF:-1 tvg-id="CO - Cinelatino" tvg-name="Cine Latino (MX)" tvg-logo="https://od.lk/s/MzlfMzQ1NjIyMTBf/mx_cine_latino.png" group-title="LATINOS",Cine Latino (MX)
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/67196
+#EXTINF:-1 tvg-id="MX - Cinecanal HD" tvg-name="Cinecanal (MX)" tvg-logo="https://od.lk/s/MzlfMzQ1NjE1OTJf/mx_cinecanal.png" group-title="LATINOS",Cinecanal (MX)
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/30661
+#EXTINF:-1 tvg-id="MX - Cinemax" tvg-name="Cinemax MX)" tvg-logo="http://209.126.82.213/LogosP/Cine/cine_cinemax.png" group-title="LATINOS",Cinemax MX)
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/30663
+#EXTINF:-1 tvg-id="I152.84479.schedulesdirect.org" tvg-name="Claro Sports (MX)" tvg-logo="http://209.126.82.213/LogosP/Deportes/dep_clarosports.png" group-title="LATINOS",Claro Sports (MX)
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/134291
+#EXTINF:-1 tvg-id="PE - CNN en Español" tvg-name="CNN Espanol (MX)" tvg-logo="https://od.lk/s/MzlfMzQ1NjE1MzRf/mx_cnn_esp.png" group-title="LATINOS",CNN Espanol (MX)
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/134312
+#EXTINF:-1 tvg-id="PE - CNN (EE.UU.)" tvg-name="CNN Internacional (MX)" tvg-logo="https://od.lk/s/MzlfMzQ1NjE1OTRf/mx_cnn.png" group-title="LATINOS",CNN Internacional (MX)
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/134292
+#EXTINF:-1 tvg-id="MX - Comedy Central" tvg-name="Comedy Central (MX)" tvg-logo="https://od.lk/s/MzlfMzQ1NjE1MzVf/mx_comedy_central.png" group-title="LATINOS",Comedy Central (MX)
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/30664
+#EXTINF:-1 tvg-id="MX - De Película HD" tvg-name="De Pelicula (MX)" tvg-logo="https://od.lk/s/MzlfMzQ1NjE1MzZf/mx_depelicula.png" group-title="LATINOS",De Pelicula (MX)
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/45938
+#EXTINF:-1 tvg-id="CO - DHE" tvg-name="DHE (MX)" tvg-logo="https://od.lk/s/MzlfMzQ1NjE2NjRf/mx_dhe.png" group-title="LATINOS",DHE (MX)
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/45930
+#EXTINF:-1 tvg-id="MX - Discovery Channel" tvg-name="Discovery Channel (MX)" tvg-logo="http://209.126.82.213/logos/mx_discovery.png" group-title="LATINOS",Discovery Channel (MX)
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/30667
+#EXTINF:-1 tvg-id="MX - Discovery Home & Health" tvg-name="Discovery Home & Healt (MX)" tvg-logo="http://209.126.82.213/logos/mx_discovery_hh.png" group-title="LATINOS",Discovery Home & Healt (MX)
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/30666
+#EXTINF:-1 tvg-id="MX - Discovery Kids" tvg-name="Discovery Kids (MX)" tvg-logo="https://od.lk/s/MzlfMzQ1NjE1Mzlf/mx_discovery_kids.png" group-title="LATINOS",Discovery Kids (MX)
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/67190
+#EXTINF:-1 tvg-id="MX - Discovery HD Theater" tvg-name="Discovery Theather (MX)" tvg-logo="https://od.lk/s/MzlfMzQ1NjE1OTdf/mx_discovery_theater.png" group-title="LATINOS",Discovery Theather (MX)
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/67191
+#EXTINF:-1 tvg-id="CO - Discovery Turbo" tvg-name="Discovery Turbo (MX)" tvg-logo="https://od.lk/s/MzlfMzQ1NjE1OThf/mx_discovery_turbo.png" group-title="LATINOS",Discovery Turbo (MX)
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/31118
+#EXTINF:-1 tvg-id="MX - Discovery World HD" tvg-name="Discovery World (MX)" tvg-logo="https://od.lk/s/MzlfMzQ1NjE1OTlf/mx_discovery_world.png" group-title="LATINOS",Discovery World (MX)
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/67192
+#EXTINF:-1 tvg-id="MX - Disney Channel" tvg-name="Disney Channel (MX)" tvg-logo="https://od.lk/s/MzlfMzQ1NjE2MDBf/mx_disney.png" group-title="LATINOS",Disney Channel (MX)
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/59922
+#EXTINF:-1 tvg-id="E!.Entertainment.Television.(Mexico).(E!).mx" tvg-name="E! Entertaiment (MX)" tvg-logo="https://od.lk/s/MzlfMzQ1NjE2MDVf/mx_e.png" group-title="LATINOS",E! Entertaiment (MX)
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/134293
+#EXTINF:-1 tvg-id="CO - elgourmet" tvg-name="Elgourmet (MX)" tvg-logo="https://od.lk/s/MzlfMzQ1NjE2MDZf/mx_el_gourmet.png" group-title="LATINOS",Elgourmet (MX)
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/134298
+#EXTINF:-1 tvg-id="ESPN.(Mexico).(ESPMX).mx" tvg-name="ESPN (MX)" tvg-logo="https://od.lk/s/MzlfMzQ1NjE1NDBf/mx_espn.png" group-title="LATINOS",ESPN (MX)
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/31122
+#EXTINF:-1 tvg-id="ESPN.2.Latin.North.(Mexico).(ESPN2M).mx" tvg-name="ESPN 2 (MX)" tvg-logo="https://od.lk/s/MzlfMzQ1NjE1NDFf/mx_espn_2.png" group-title="LATINOS",ESPN 2 (MX)
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/31123
+#EXTINF:-1 tvg-id="ESPN.3.North.(Latin.America).(ESPN3).mx" tvg-name="ESPN 3 (MX)" tvg-logo="https://od.lk/s/MzlfMzQ1NjE2MDhf/mx_espn_3.png" group-title="LATINOS",ESPN 3 (MX)
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/31124
+#EXTINF:-1 tvg-id="ESPN.Extra.Centroamérica.HDTV.(ESPNXTRA).mx" tvg-name="ESPN 4 (MX)" tvg-logo="https://od.lk/s/MzlfMzQ1NjE2NjVf/mx_espn_extra.png" group-title="LATINOS",ESPN 4 (MX)
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/134294
+#EXTINF:-1 tvg-id="Exa.TV.(EXATV).mx" tvg-name="Estrellas (MX)" tvg-logo="" group-title="LATINOS",Estrellas (MX)
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/134295
+#EXTINF:-1 tvg-id="CL - Europa Europa" tvg-name="Europa Europa (MX)" tvg-logo="https://od.lk/s/MzlfMzQ1NjE2MDlf/mx_europa.png" group-title="LATINOS",Europa Europa (MX)
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/45931
+#EXTINF:-1 tvg-id="MX - Film&Arts" tvg-name="Film & Arts (MX)" tvg-logo="https://od.lk/s/MzlfMzQ1NjE2MTJf/mx_film_arts.png" group-title="LATINOS",Film & Arts (MX)
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/30658
+#EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="Food Network (MX)" tvg-logo="https://od.lk/s/MzlfMzQ1NjE2MTNf/mx_food_network.png" group-title="LATINOS",Food Network (MX)
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/61123
+#EXTINF:-1 tvg-id="Fox.Sports.2.(Cono.Norte).(FOXSP2).mx" tvg-name="Fox Sports 2 (MX)" tvg-logo="https://od.lk/s/MzlfMzQ1NjE2MTdf/mx_fox_sports_2.png" group-title="LATINOS",Fox Sports 2 (MX)
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/31131
+#EXTINF:-1 tvg-id="Fox.Sports.3.(Cono.Norte).(FOXSP3).mx" tvg-name="Fox Sports 3 (MX)" tvg-logo="https://od.lk/s/MzlfMzQ1NjE2MThf/mx_fox_sports_3.png" group-title="LATINOS",Fox Sports 3 (MX)
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/31132
+#EXTINF:-1 tvg-id="MX - FX" tvg-name="FX (MX)" tvg-logo="https://od.lk/s/MzlfMzQ1NjE2Njdf/mx_fx.png" group-title="LATINOS",FX (MX)
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/31135
+#EXTINF:-1 tvg-id="MX - Golden Edge" tvg-name="Golden Edge (MX)" tvg-logo="https://od.lk/s/MzlfMzQ1NjE1NDRf/mx_golden_edge.png" group-title="LATINOS",Golden Edge (MX)
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/45937
+#EXTINF:-1 tvg-id="CO - Golden Premier HD" tvg-name="Golden Premier (MX)" tvg-logo="https://od.lk/s/MzlfMzQ1NjIyNDdf/mx_golden_premier.png" group-title="LATINOS",Golden Premier (MX)
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/45932
+#EXTINF:-1 tvg-id="MX - HBO HD" tvg-name="HBO (MX)" tvg-logo="https://od.lk/s/MzlfMzQ1NjE2MjJf/mx_hbo.png" group-title="LATINOS",HBO (MX)
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/31138
+#EXTINF:-1 tvg-id="MX - HBO 2" tvg-name="HBO 2 (MX)" tvg-logo="https://od.lk/s/MzlfMzQ1NjE2MjVf/mx_hbo2.png" group-title="LATINOS",HBO 2 (MX)
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/31140
+#EXTINF:-1 tvg-id="MX - HBO Family" tvg-name="HBO Family (MX)" tvg-logo="https://od.lk/s/MzlfMzQ1NjE1NDZf/mx_hbo_family.png" group-title="LATINOS",HBO Family (MX)
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/31139
+#EXTINF:-1 tvg-id="MX - Max" tvg-name="HBO Mundi (MX)" tvg-logo="https://od.lk/s/MzlfMzQ1NjE1NDdf/mx_hbo_mundi.png" group-title="LATINOS",HBO Mundi (MX)
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/134299
+#EXTINF:-1 tvg-id="MX - HBO Plus México" tvg-name="HBO Plus (MX)" tvg-logo="https://od.lk/s/MzlfMzQ1NjE2MjNf/mx_hbo_plus.png" group-title="LATINOS",HBO Plus (MX)
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/45929
+#EXTINF:-1 tvg-id="CO - HBO Signature HD" tvg-name="HBO Signature (MX)" tvg-logo="https://od.lk/s/MzlfMzQ1NjE2MjRf/mx_hbo_signature.png" group-title="LATINOS",HBO Signature (MX)
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/45933
+#EXTINF:-1 tvg-id="MX - Max Prime México" tvg-name="HBO Xtreme (MX)" tvg-logo="https://od.lk/s/MzlfMzQ1NjE1NDlf/mx_hbo_xtreme.png" group-title="LATINOS",HBO Xtreme (MX)
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/134300
+#EXTINF:-1 tvg-id="MX - History HD" tvg-name="History (MX)" tvg-logo="https://od.lk/s/MzlfMzQ1NjE0ODdf/mx_history.png" group-title="LATINOS",History (MX)
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/134301
+#EXTINF:-1 tvg-id="CO - H2" tvg-name="History 2 (MX)" tvg-logo="https://od.lk/s/MzlfMzQ1NjE0ODhf/mx_history_2.png" group-title="LATINOS",History 2 (MX)
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/31137
+#EXTINF:-1 tvg-id="CL - HTV" tvg-name="HTV (MX)" tvg-logo="https://od.lk/s/MzlfMzQ1NjE1NTFf/mx_htv.png" group-title="LATINOS",HTV (MX)
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/134303
+#EXTINF:-1 tvg-id="MX - Investigation Discovery" tvg-name="Investigation Discovery (MX)" tvg-logo="https://od.lk/s/MzlfMzQ1NjE1Mzhf/mx_discovery_id.png" group-title="LATINOS",Investigation Discovery (MX)
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/39739
+#EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="Kanal Drama (MX)" tvg-logo="" group-title="LATINOS",Kanal Drama (MX)
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/134304
+#EXTINF:-1 tvg-id="MX - Las Estrellas" tvg-name="Las Estrellas (MX)" tvg-logo="https://od.lk/s/MzlfMzQ1NjE1NTNf/mx_las_estrellas.png" group-title="LATINOS",Las Estrellas (MX)
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/31120
+#EXTINF:-1 tvg-id="CO - Lifetime" tvg-name="Lifetime (MX)" tvg-logo="https://od.lk/s/MzlfMzQ1NjE1NTRf/mx_lifetime.png" group-title="LATINOS",Lifetime (MX)
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/134305
+#EXTINF:-1 tvg-id="CO - Multipremier" tvg-name="Multi Premier (MX)" tvg-logo="https://od.lk/s/MzlfMzQ1NjIzMTRf/mx_multipremier.png" group-title="LATINOS",Multi Premier (MX)
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/134310
+#EXTINF:-1 tvg-id="MX - National Geographic" tvg-name="National Geographic (MX)" tvg-logo="http://209.126.82.213/LogosP/Cultura/cult_national_Geographic.png" group-title="LATINOS",National Geographic (MX)
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/67194
+#EXTINF:-1 tvg-id="MX - Canal Once" tvg-name="Once (MX)" tvg-logo="https://od.lk/s/MzlfMzQ1NjE1Njhf/mx_once.png" group-title="LATINOS",Once (MX)
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/134317
+#EXTINF:-1 tvg-id="Canal.Once.XEIPN.(CANL11).mx" tvg-name="Once Niñas y Niños (MX)" tvg-logo="https://od.lk/s/MzlfMzQ1NjE1Njlf/mx_once_ninas.png" group-title="LATINOS",Once Niñas y Niños (MX)
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/134318
+#EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="Pasiones (MX)" tvg-logo="" group-title="LATINOS",Pasiones (MX)
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/134322
+#EXTINF:-1 tvg-id="MX - Sony HD" tvg-name="Sony Channel (MX)" tvg-logo="https://od.lk/s/MzlfMzQ1NjE2NzBf/mx_sony.png" group-title="LATINOS",Sony Channel (MX)
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/45936
+#EXTINF:-1 tvg-id="MX - Space" tvg-name="Space (MX)" tvg-logo="https://od.lk/s/MzlfMzQ1NjE2NDFf/mx_space.png" group-title="LATINOS",Space (MX)
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/31141
+#EXTINF:-1 tvg-id="MX - FOX" tvg-name="Star Channel (MX)" tvg-logo="https://od.lk/s/MzlfMzQ1NjE1NzBf/mx_star_channel.png" group-title="LATINOS",Star Channel (MX)
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/31125
+#EXTINF:-1 tvg-id="MX - Studio Universal" tvg-name="Studio Universal (MX)" tvg-logo="https://od.lk/s/MzlfMzQ1NjE2NDJf/mx_studio_universal.png" group-title="LATINOS",Studio Universal (MX)
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/134324
+#EXTINF:-1 tvg-id="MX - TBS" tvg-name="TCM (MX)" tvg-logo="https://od.lk/s/MzlfMzQ1NjE2NDRf/mx_tbs.png" group-title="LATINOS",TCM (MX)
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/134325
+#EXTINF:-1 tvg-id="CO - TLC" tvg-name="TLC (MX)" tvg-logo="https://od.lk/s/MzlfMzQ1NjE2NzJf/mx_tlc.png" group-title="LATINOS",TLC (MX)
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/134327
+#EXTINF:-1 tvg-id="" tvg-name="TNT (MX)" tvg-logo="" group-title="LATINOS",TNT (MX)
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/172624
+#EXTINF:-1 tvg-id="CO - TNT Series" tvg-name="TNT Series (MX)" tvg-logo="https://od.lk/s/MzlfMzQ1NjE2NTBf/mx_tnt_series.png" group-title="LATINOS",TNT Series (MX)
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/31144
+#EXTINF:-1 tvg-id="I464.75176.zap2it.com" tvg-name="TUDN (MX)" tvg-logo="https://od.lk/s/MzlfMzQ1NjE2NTNf/mx_tudn.png" group-title="LATINOS",TUDN (MX)
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/134311
+#EXTINF:-1 tvg-id="MX - Az Corazón" tvg-name="TVC Deportes (MX)" tvg-logo="https://od.lk/s/MzlfMzQ1NjE2NTVf/mx_tv_d.png" group-title="LATINOS",TVC Deportes (MX)
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/134328
+#EXTINF:-1 tvg-id="MX - Universal Channel" tvg-name="Universal Channel (MX)" tvg-logo="https://od.lk/s/MzlfMzQ1NjE2NTdf/mx_universal_tv.png" group-title="LATINOS",Universal Channel (MX)
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/45935
+#EXTINF:-1 tvg-id="Teveunam.(UNAM).mx" tvg-name="Universal Cinema (MX)" tvg-logo="" group-title="LATINOS",Universal Cinema (MX)
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/134329
+#EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="Universal Comedy (MX)" tvg-logo="https://od.lk/s/MzlfMzQ1NjE1MTNf/mx_universal_comedy.png" group-title="LATINOS",Universal Comedy (MX)
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/134423
+#EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="Universal Crime (MX)" tvg-logo="https://od.lk/s/MzlfMzQ1NjE1MTRf/mx_universal_crime.png" group-title="LATINOS",Universal Crime (MX)
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/134424
+#EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="Universal Premiere Este (MX)" tvg-logo="https://od.lk/s/MzlfMzQ1NjE1MTVf/mx_universal_premiere.png" group-title="LATINOS",Universal Premiere Este (MX)
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/134425
+#EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="Universal Reality (MX)" tvg-logo="https://od.lk/s/MzlfMzQ1NjE1MTZf/mx_universal_reality.png" group-title="LATINOS",Universal Reality (MX)
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/134427
+#EXTINF:-1 tvg-id="MX - Warner Channel" tvg-name="Warner Channel (MX)" tvg-logo="https://od.lk/s/MzlfMzQ1NjE1Nzdf/mx_warner.png" group-title="LATINOS",Warner Channel (MX)
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/31145
