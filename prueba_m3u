@@ -75,6 +75,21 @@ http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/712719.ts
 http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/712720.ts
 #EXTINF:-1 tvg-id="" tvg-name="Volver HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0b/Volver_2016.png/revision/latest?cb=20210525002558&path-prefix=es" group-title="ARGENTINA",Volver HD
 http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/712741.ts
+===CANALES VIP===
+#EXTINF:-1 tvg-id="" tvg-name="Starz Encore Action" tvg-logo="https://i.ibb.co/fdNvs76r/Gemini-Generated-Image-5zc3jv5zc3jv5zc3.jpg" group-title="CANALES VIP",Starz Encore Action
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/102324
+#EXTINF:-1 tvg-id="" tvg-name="Sony One Blacklist" tvg-logo="https://i.ibb.co/fdNvs76r/Gemini-Generated-Image-5zc3jv5zc3jv5zc3.jpg" group-title="CANALES VIP",Sony One Blacklist
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/433425
+#EXTINF:-1 tvg-id="" tvg-name="Sony One Exitos" tvg-logo="https://i.ibb.co/fdNvs76r/Gemini-Generated-Image-5zc3jv5zc3jv5zc3.jpg" group-title="CANALES VIP",Sony One Exitos
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/433426
+#EXTINF:-1 tvg-id="" tvg-name="Sony One Hits Accion" tvg-logo="https://i.ibb.co/fdNvs76r/Gemini-Generated-Image-5zc3jv5zc3jv5zc3.jpg" group-title="CANALES VIP",Sony One Hits Accion
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/433427
+#EXTINF:-1 tvg-id="" tvg-name="Sony One Hits Comedia" tvg-logo="https://i.ibb.co/fdNvs76r/Gemini-Generated-Image-5zc3jv5zc3jv5zc3.jpg" group-title="CANALES VIP",Sony One Hits Comedia
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/433428
+#EXTINF:-1 tvg-id="" tvg-name="Sony One Series Comedia" tvg-logo="https://i.ibb.co/fdNvs76r/Gemini-Generated-Image-5zc3jv5zc3jv5zc3.jpg" group-title="CANALES VIP",Sony One Series Comedia
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/433429
+#EXTINF:-1 tvg-id="" tvg-name="Sony One Shark Tank" tvg-logo="https://i.ibb.co/fdNvs76r/Gemini-Generated-Image-5zc3jv5zc3jv5zc3.jpg" group-title="CANALES VIP",Sony One Shark Tank
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/433431
 
 ===CHILE===
 #EXTINF:-1 tvg-id="" tvg-name="13T (Teleserie)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/88/Canal_13_Chile_2018_impreso.svg/revision/latest/scale-to-width-down/250?cb=20210501153859&path-prefix=es" group-title="CHILE",13T (Teleserie)
@@ -188,37 +203,41 @@ http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/715105.ts
 
 ===CINE===
 #EXTINF:-1 tvg-id="AEANDHC" tvg-name="A&E OP1" tvg-logo="https://i.ibb.co/kKgT2Fy/A-E.png" group-title="CINE",A&E OP1
-http://m3u.tvcluboficial.com/free/ReachBot/Kip/5.m3u8
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/29722
 #EXTINF:-1 tvg-id="AandE HD" tvg-name="A&E OP2" tvg-logo="https://i.ibb.co/kKgT2Fy/A-E.png" group-title="CINE",A&E OP2
-https://netgotvpro.cc/live/juan_ferez/Ferez2023J/46085.ts
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/30656
 #EXTINF:-1 tvg-id="AandE.co" tvg-name="A&E OP3" tvg-logo="https://i.ibb.co/kKgT2Fy/A-E.png" group-title="CINE",A&E OP3
-https://netgotvpro.cc/live/juan_ferez/Ferez2023J/46086.ts
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/45873
 #EXTINF:-1 tvg-id="Atrescine.es" tvg-name="A3SERIES" tvg-logo="https://i.postimg.cc/g2bcCZnW/1024px-Atreseries-2020-logo-svg.png" group-title="CINE",A3SERIES
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/46097.ts
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/134284
+#EXTINF:-1 tvg-id="Atrescine.es" tvg-name="A3SERIES" tvg-logo="https://i.postimg.cc/g2bcCZnW/1024px-Atreseries-2020-logo-svg.png" group-title="CINE",A3SERIES
+ http://www.1play.cool:25461/Antonio30/bdb3a18bc6/134285
 #EXTINF:-1 tvg-id="AMCLatinAmerica.us" tvg-name="AMC FHD" tvg-logo="https://i.ibb.co/3Fy00fn/amc.png" group-title="CINE",AMC FHD
-http://181.78.0.107:8006/play/a085/index.m3u8
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/29795
 #EXTINF:-1 tvg-id="AMCLatinAmerica.us" tvg-name="AMC HD" tvg-logo="https://i.ibb.co/3Fy00fn/amc.png" group-title="CINE",AMC HD
-http://m3u.tvcluboficial.com/free/oct/oct/33.m3u8
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/45928
 #EXTINF:-1 tvg-id="AMCLatinAmerica.us" tvg-name="AMC HD MX" tvg-logo="https://i.ibb.co/3Fy00fn/amc.png" group-title="CINE",AMC HD MX
 https://amc-amcespanol-1-us.plex.wurl.tv/1200.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AMC SERIES" tvg-logo="https://i.postimg.cc/J4bc389s/images-9-removebg-preview.png" group-title="CINE",AMC SERIES
 http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/79064.ts
+#EXTINF:-1 tvg-id="" tvg-name="AMC SERIES" tvg-logo="https://i.postimg.cc/J4bc389s/images-9-removebg-preview.png" group-title="CINE",AMC SERIES
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/432920
 #EXTINF:-1 tvg-id="" tvg-name="ATRESERIES HD" tvg-logo="https://i.postimg.cc/g2bcCZnW/1024px-Atreseries-2020-logo-svg.png" group-title="CINE",ATRESERIES HD
 http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/46098.ts
 #EXTINF:-1 tvg-id="Atreseries" tvg-name="ATRESERIES HD (P)" tvg-logo="https://i.ibb.co/qYs2x7w/Atreseries.png" group-title="CINE",ATRESERIES HD (P)
 http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/46100.ts
 #EXTINF:-1 tvg-id="AXN" tvg-name="AXN FHD" tvg-logo="https://i.ibb.co/Hxt8qXB/axn.png" group-title="CINE",AXN FHD
-http://45.70.168.162:9000/play/a00z/index.m3u8
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/62781
 #EXTINF:-1 tvg-id="AXNANHD" tvg-name="AXN HD" tvg-logo="https://i.ibb.co/Hxt8qXB/axn.png" group-title="CINE",AXN HD
-http://45.70.168.162:8083/play/a00z/index.m3u8
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/41008
 #EXTINF:-1 tvg-id="AXN" tvg-name="AXN HD MX" tvg-logo="https://i.ibb.co/Hxt8qXB/axn.png" group-title="CINE",AXN HD MX
-http://45.70.168.162:8081/play/a00z/index.m3u8
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/29797
 #EXTINF:-1 tvg-id="CINESTE" tvg-name="CINE ESTEL" tvg-logo="https://i.ibb.co/gMMxZ5h/cineestelar.png" group-title="CINE",CINE ESTEL
 http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/148901.ts
 #EXTINF:-1 tvg-id="" tvg-name="CINE FAMILI" tvg-logo="https://timnetworks.tv/wp-content/uploads/2022/10/CINE-FAMILI.png" group-title="CINE",CINE FAMILI
 http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/772966.ts
 #EXTINF:-1 tvg-id="CINE LATINO" tvg-name="CINE LATINO" tvg-logo="https://i.ibb.co/GPFShhQ/Cine-Latino-logo-svg.png" group-title="CINE",CINE LATINO
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/46104.ts
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/30392
 #EXTINF:-1 tvg-id="CINE LATINO" tvg-name="CINE LATINO FHD" tvg-logo="https://i.ibb.co/GPFShhQ/Cine-Latino-logo-svg.png" group-title="CINE",CINE LATINO FHD
 http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/46106.ts
 #EXTINF:-1 tvg-id="CINE LATINO" tvg-name="CINE LATINO HD" tvg-logo="https://i.ibb.co/GPFShhQ/Cine-Latino-logo-svg.png" group-title="CINE",CINE LATINO HD
@@ -230,11 +249,11 @@ http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/772965.ts
 #EXTINF:-1 tvg-id="CinecanalEast.us" tvg-name="CINECANAL G" tvg-logo="https://i.ibb.co/7b8zcvc/cincemas.png" group-title="CINE",CINECANAL G
 http://181.78.0.107:8006/play/a077/index.m3u8
 #EXTINF:-1 tvg-id="CINECANAL HD.co" tvg-name="CINECANAL HD" tvg-logo="https://i.ibb.co/7b8zcvc/cincemas.png" group-title="CINE",CINECANAL HD
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/46108.ts
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/29800
 #EXTINF:-1 tvg-id="CINECANAL" tvg-name="CineCanal HD CH" tvg-logo="https://i.ibb.co/7b8zcvc/cincemas.png" group-title="CINE",CineCanal HD CH
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/46109.ts
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/29734
 #EXTINF:-1 tvg-id="CINECANAL HD.co" tvg-name="CineCanal HD MX" tvg-logo="https://i.ibb.co/7b8zcvc/cincemas.png" group-title="CINE",CineCanal HD MX
-http://181.78.0.107:8006/play/a09v/index.m3u8
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/62783
 #EXTINF:-1 tvg-id="AzCinema.mx" tvg-name="CINEMA" tvg-logo="https://i.ibb.co/L0KQK4J/ciensa.png" group-title="CINE",CINEMA
 http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/46102.ts
 #EXTINF:-1 tvg-id="CDINA" tvg-name="CINEMA DINAMITA" tvg-logo="https://i.ibb.co/bbDPNVG/CINEDINAMITA.png" group-title="CINE",CINEMA DINAMITA
@@ -242,212 +261,239 @@ http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/46116.ts
 #EXTINF:-1 tvg-id="AzCinema.mx" tvg-name="CINEMA 1HD" tvg-logo="https://i.ibb.co/L0KQK4J/ciensa.png" group-title="CINE",CINEMA 1HD
 http://45.5.118.152:8000/play/a03p/index.m3u8
 #EXTINF:-1 tvg-id="CINEMAX HD.co" tvg-name="CINEMAX OP1" tvg-logo="https://i.ibb.co/QjX0fqW/cienmax1.png" group-title="CINE",CINEMAX OP1
-http://45.70.168.162:8100/play/a00x/index.m3u8
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/29735
 #EXTINF:-1 tvg-id="Cinemax.ar" tvg-name="CINEMAX OP2" tvg-logo="https://i.ibb.co/zSbPFXZ/cienmax2.png" group-title="CINE",CINEMAX OP2
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/46112.ts
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/41010
 #EXTINF:-1 tvg-id="Cinemax.co" tvg-name="CINEMAX OP3" tvg-logo="https://i.ibb.co/G3DXZ9d/cienmax3.png" group-title="CINE",CINEMAX OP3
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/46114.ts
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/164009
 #EXTINF:-1 tvg-id="DEPELC" tvg-name="DE PELICULA CLASICO" tvg-logo="https://i.ibb.co/RQnQqNg/depelicula.png" group-title="CINE",DE PELICULA CLASICO
 http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/46121.ts
 #EXTINF:-1 tvg-id="DE PELICULA" tvg-name="DE PELICULA HD" tvg-logo="https://seeklogo.com/images/D/de-pelicula-logo-F97A15125D-seeklogo.com.png" group-title="CINE",DE PELICULA HD
-http://181.78.0.107:8006/play/a06q/index.m3u8
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/29737
+#EXTINF:-1 tvg-id="DE PELICULA" tvg-name="DE PELICULA HD" tvg-logo="https://seeklogo.com/images/D/de-pelicula-logo-F97A15125D-seeklogo.com.png" group-title="CINE",DE PELICULA HD
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/277090
+#EXTINF:-1 tvg-id="DE PELICULA" tvg-name="DE PELICULA HD" tvg-logo="https://seeklogo.com/images/D/de-pelicula-logo-F97A15125D-seeklogo.com.png" group-title="CINE",DE PELICULA HD
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/277089
 #EXTINF:-1 tvg-id="DEPELPL" tvg-name="DE PELICULA PLUS" tvg-logo="https://i.ibb.co/Zx31D3Y/de-pelioiasd.png" group-title="CINE",DE PELICULA PLUS
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/46119.ts
-#EXTINF:-1 tvg-id="DEPELPL" tvg-name="DE PELICULA PLUS HD" tvg-logo="https://i.ibb.co/Zx31D3Y/de-pelioiasd.png" group-title="CINE",DE PELICULA PLUS HD
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/46118.ts
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/47442
 #EXTINF:-1 tvg-id="DHE.us" tvg-name="DHE" tvg-logo="https://i.ibb.co/m9TtGfd/dhe2.png" group-title="CINE",DHE
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/46123.ts
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/77159
 #EXTINF:-1 tvg-id="DHE.us" tvg-name="DHE FHD" tvg-logo="https://i.ibb.co/MBvTm7y/dhe.png" group-title="CINE",DHE FHD
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/46122.ts
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/30253
 #EXTINF:-1 tvg-id="DHE.us" tvg-name="DHE HD" tvg-logo="https://i.ibb.co/MBvTm7y/dhe.png" group-title="CINE",DHE HD
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/46124.ts
-#EXTINF:-1 tvg-id="Canal 13 de Panamá (Telemetro).pa" tvg-name="DREAMWORKS" tvg-logo="https://i.ibb.co/1sd9JXk/Dreamworks.png" group-title="CINE",DREAMWORKS
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/206517.ts
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/77160
 #EXTINF:-1 tvg-id="EuropaEuropa.ar" tvg-name="EUROPA EUROPA" tvg-logo="https://i.ibb.co/SKbQ4mG/euroapa.png" group-title="CINE",EUROPA EUROPA
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/46125.ts
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/282821
 #EXTINF:-1 tvg-id="EUROPA EUROPA.co" tvg-name="EUROPA EUROPA HD" tvg-logo="https://i.ibb.co/Nt50S6w/europa-euor.png" group-title="CINE",EUROPA EUROPA HD
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/46127.ts
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/32886
+#EXTINF:-1 tvg-id="EUROPA EUROPA.co" tvg-name="EUROPA EUROPA HD" tvg-logo="https://i.ibb.co/Nt50S6w/europa-euor.png" group-title="CINE",EUROPA EUROPA HD
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/277091
 #EXTINF:-1 tvg-id="" tvg-name="FX HD" tvg-logo="https://i.ibb.co/z2PqF2T/FX1.png" group-title="CINE",FX HD
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/46130.ts
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/29763
 #EXTINF:-1 tvg-id="FX HD.co" tvg-name="FX HD" tvg-logo="https://i.ibb.co/hDvN9HZ/FX2.png" group-title="CINE",FX HD
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/46132.ts
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/164026
 #EXTINF:-1 tvg-id="FX" tvg-name="FX HD MX" tvg-logo="https://i.ibb.co/grpxgB4/FX3.png" group-title="CINE",FX HD MX
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/46133.ts
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/77007
 #EXTINF:-1 tvg-id="GoldenPanregional.mx" tvg-name="GOLDEN" tvg-logo="https://i.ibb.co/x8x7LYX/GILDEN.png" group-title="CINE",GOLDEN
-http://190.93.224.42/GOLDEN/index.m3u8
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/29765
+#EXTINF:-1 tvg-id="GoldenPanregional.mx" tvg-name="GOLDEN" tvg-logo="https://i.ibb.co/x8x7LYX/GILDEN.png" group-title="CINE",GOLDEN
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/77163
+#EXTINF:-1 tvg-id="GoldenPanregional.mx" tvg-name="GOLDEN" tvg-logo="https://i.ibb.co/x8x7LYX/GILDEN.png" group-title="CINE",GOLDEN
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/210087
 #EXTINF:-1 tvg-id="GOLDEN EDGE" tvg-name="GOLDEN EDGE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/Goldenedge.jpg/revision/latest?cb=20120110075418" group-title="CINE",GOLDEN EDGE
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/46139.ts
-#EXTINF:-1 tvg-id="GoldenPanregional.mx" tvg-name="GOLDEN HD" tvg-logo="https://i.ibb.co/x8x7LYX/GILDEN.png" group-title="CINE",GOLDEN HD
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/46143.ts
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/29823
+#EXTINF:-1 tvg-id="GOLDEN EDGE" tvg-name="GOLDEN EDGE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/Goldenedge.jpg/revision/latest?cb=20120110075418" group-title="CINE",GOLDEN EDGE
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/210086
+#EXTINF:-1 tvg-id="GOLDEN EDGE" tvg-name="GOLDEN EDGE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/Goldenedge.jpg/revision/latest?cb=20120110075418" group-title="CINE",GOLDEN EDGE
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/29766
 #EXTINF:-1 tvg-id="GOLDEN HD.co" tvg-name="GOLDEN PLUS" tvg-logo="https://i.ibb.co/wQBkWCT/GOLDENPLUS.png" group-title="CINE",GOLDEN PLUS
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/46138.ts
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/77161
 #EXTINF:-1 tvg-id="GOLDEN HD.co" tvg-name="GOLDEN PLUS" tvg-logo="https://i.ibb.co/wQBkWCT/GOLDENPLUS.png" group-title="CINE",GOLDEN PLUS
-http://190.93.224.42:80/GOLDEN/index.m3u8
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/77162
+#EXTINF:-1 tvg-id="GOLDEN HD.co" tvg-name="GOLDEN PLUS" tvg-logo="https://i.ibb.co/wQBkWCT/GOLDENPLUS.png" group-title="CINE",GOLDEN PLUS
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/277092
 #EXTINF:-1 tvg-id="GOLDEN PREMIER" tvg-name="GOLDEN PREMIER" tvg-logo="https://i.ibb.co/6b9LCMq/GOLDENPRIMNIERS.png" group-title="CINE",GOLDEN PREMIER
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/46140.ts
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/128510
 #EXTINF:-1 tvg-id="GOLDEN PREMIER" tvg-name="GOLDEN PREMIER HD" tvg-logo="https://i.ibb.co/6b9LCMq/GOLDENPRIMNIERS.png" group-title="CINE",GOLDEN PREMIER HD
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/46141.ts
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/32914
+#EXTINF:-1 tvg-id="GOLDEN PREMIER" tvg-name="GOLDEN PREMIER HD" tvg-logo="https://i.ibb.co/6b9LCMq/GOLDENPRIMNIERS.png" group-title="CINE",GOLDEN PREMIER HD
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/30448
+#EXTINF:-1 tvg-id="GOLDEN PREMIER 2" tvg-name="GOLDEN PREMIER 2 HD" tvg-logo="https://i.ibb.co/JwZ1HGXr/images.png" group-title="CINE",GOLDEN PREMIER 2 HD
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/282341
+#EXTINF:-1 tvg-id="GOLDEN PREMIER 2" tvg-name="GOLDEN PREMIER 2 HD" tvg-logo="https://i.ibb.co/JwZ1HGXr/images.png" group-title="CINE",GOLDEN PREMIER 2 HD
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/282342
+#EXTINF:-1 tvg-id="GOLDEN PREMIER 2" tvg-name="GOLDEN PREMIER 2 HD" tvg-logo="https://i.ibb.co/JwZ1HGXr/images.png" group-title="CINE",GOLDEN PREMIER 2 HD
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/282343
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHgrjngo.png" group-title="CINE",Grjngo
 https://amogonetworx-grjngo-2-eu.plex.wurl.tv/2000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="https://i.ibb.co/NSG7tNS/hbo3.png" group-title="CINE",HBO
-http://45.70.168.162:8091/play/a00w/index.m3u8
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/29917
 #EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO" tvg-logo="https://i.ibb.co/3Y1tZwW/HBO33.png" group-title="CINE",HBO
-http://45.70.168.162:8090/play/a00w/index.m3u8
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/41020
 #EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO" tvg-logo="https://i.ibb.co/3Y1tZwW/HBO33.png" group-title="CINE",HBO
-http://45.70.168.162:8088/play/a00w/index.m3u8
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/47462
 #EXTINF:-1 tvg-id="" tvg-name="HBO 2 HD" tvg-logo="https://i.ibb.co/K0x3Lm1/hbo22.png" group-title="CINE",HBO 2 HD
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/46148.ts
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/41021
 #EXTINF:-1 tvg-id="" tvg-name="HBO 2 HD" tvg-logo="https://i.ibb.co/KV2tjc7/hbo2.png" group-title="CINE",HBO 2 HD
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/46149.ts
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/29874
 #EXTINF:-1 tvg-id="HBO2LatinAmerica.us" tvg-name="HBO 2 HD" tvg-logo="https://i.ibb.co/KV2tjc7/hbo2.png" group-title="CINE",HBO 2 HD
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/46150.ts
-#EXTINF:-1 tvg-id="HBO2LatinAmerica.us" tvg-name="HBO 2 HD" tvg-logo="https://i.ibb.co/K0x3Lm1/hbo22.png" group-title="CINE",HBO 2 HD
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/46151.ts
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/62795
 #EXTINF:-1 tvg-id="HBOFamilyLatinAmerica.us" tvg-name="HBO FAMILY" tvg-logo="https://i.ibb.co/xLxZy4s/hbfa3.png" group-title="CINE",HBO FAMILY
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/46152.ts
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/151406
 #EXTINF:-1 tvg-id="HBO Family.co" tvg-name="HBO FAMILY" tvg-logo="https://i.ibb.co/xLxZy4s/hbfa3.png" group-title="CINE",HBO FAMILY
-http://181.78.0.107:8006/play/a05p/index.m3u8
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/30397
 #EXTINF:-1 tvg-id="2M Maroc" tvg-name="HBO FAMILY HD" tvg-logo="https://i.ibb.co/LRWCv9G/hbofam1.png" group-title="CINE",HBO FAMILY HD
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/46154.ts
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/62797
 #EXTINF:-1 tvg-id="HBO.ar" tvg-name="HBO HD" tvg-logo="https://i.ibb.co/58VvdgP/hbo1.png" group-title="CINE",HBO HD
 http://45.70.168.162:8080/play/a00w/index.m3u8
 #EXTINF:-1 tvg-id="HBOMundiLatinAmerica.us" tvg-name="HBO MUNDI" tvg-logo="https://i.ibb.co/rH1sYsg/hbomu2.png" group-title="CINE",HBO MUNDI
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/96206.ts
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/57567
 #EXTINF:-1 tvg-id="HBOMundiLatinAmerica.us" tvg-name="HBO MUNDI FHD" tvg-logo="https://i.ibb.co/GHngdzz/hbomun3.png" group-title="CINE",HBO MUNDI FHD
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/96204.ts
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/47463
 #EXTINF:-1 tvg-id="HBOMundiLatinAmerica.us" tvg-name="HBO MUNDI HD" tvg-logo="https://i.ibb.co/7Qr4FNj/hbomu1.png" group-title="CINE",HBO MUNDI HD
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/96205.ts
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/31287
 #EXTINF:-1 tvg-id="HBO PLUS" tvg-name="HBO PLUS" tvg-logo="https://i.ibb.co/WHn2z6Z/hbp-a1.png" group-title="CINE",HBO PLUS
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/46157.ts
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/47223
 #EXTINF:-1 tvg-id="526dtv.cl" tvg-name="HBO PLUS  HD" tvg-logo="https://i.ibb.co/HVFhb7C/hbo-3.png" group-title="CINE",HBO PLUS  HD
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/46156.ts
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/41023
 #EXTINF:-1 tvg-id="" tvg-name="HBO PLUS HD" tvg-logo="https://i.ibb.co/HVFhb7C/hbo-3.png" group-title="CINE",HBO PLUS HD
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/46158.ts
-#EXTINF:-1 tvg-id="HBO PLUS" tvg-name="HBO PLUS HD" tvg-logo="https://i.ibb.co/WHn2z6Z/hbp-a1.png" group-title="CINE",HBO PLUS HD
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/46159.ts
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/41024
 #EXTINF:-1 tvg-id="HBOPopLatinAmerica.us" tvg-name="HBO POP" tvg-logo="https://i.ibb.co/tMJw0Cs/hbopop1.png" group-title="CINE",HBO POP
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/96203.ts
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/62798
 #EXTINF:-1 tvg-id="HBOPopLatinAmerica.us" tvg-name="HBO POP FHD" tvg-logo="https://i.ibb.co/vxK0tVp/hbopop3.png" group-title="CINE",HBO POP FHD
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/96201.ts
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/47467
 #EXTINF:-1 tvg-id="541dtv.cl" tvg-name="HBO POP HD" tvg-logo="https://i.ibb.co/nmPF9J3/hbopop2.png" group-title="CINE",HBO POP HD
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/96202.ts
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/31286
 #EXTINF:-1 tvg-id="" tvg-name="HBO SIGNATURE HD" tvg-logo="https://i.ibb.co/BwRLTk1/hbosig1.png" group-title="CINE",HBO SIGNATURE HD
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/46162.ts
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/47468
 #EXTINF:-1 tvg-id="HBOSignatureLatinAmerica.us" tvg-name="HBO SIGNATURE HD" tvg-logo="https://i.ibb.co/BfvZWCJ/hb0sig3.png" group-title="CINE",HBO SIGNATURE HD
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/46163.ts
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/30201
+#EXTINF:-1 tvg-id="HBOSignatureLatinAmerica.us" tvg-name="HBO SIGNATURE HD" tvg-logo="https://i.ibb.co/BfvZWCJ/hb0sig3.png" group-title="CINE",HBO SIGNATURE HD
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/30249
 #EXTINF:-1 tvg-id="HBOXtremeLatinAmerica.us" tvg-name="HBO XTREME" tvg-logo="https://i.ibb.co/CtGbJqx/hboextr3.png" group-title="CINE",HBO XTREME
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/96208.ts
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/31288
 #EXTINF:-1 tvg-id="HBOXtremeLatinAmerica.us" tvg-name="HBO XTREME HD" tvg-logo="https://i.ibb.co/bPRQG6P/hboext1.png" group-title="CINE",HBO XTREME HD
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/96207.ts
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/47469
 #EXTINF:-1 tvg-id="HBO XTREME.co" tvg-name="HBO XTREME HD" tvg-logo="https://i.ibb.co/K7bvj7t/hboext2.png" group-title="CINE",HBO XTREME HD
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/96209.ts
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/47226
 #EXTINF:-1 tvg-id="MCINLA" tvg-name="Multicinema" tvg-logo="https://i.ibb.co/921VFpp/multicinema.png" group-title="CINE",Multicinema
 http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/140365.ts
 #EXTINF:-1 tvg-id="MULTIPREMIER" tvg-name="MULTIPREMIER" tvg-logo="https://i.ibb.co/R45HbrJ/MULPREM1.png" group-title="CINE",MULTIPREMIER
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/46169.ts
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/30495
 #EXTINF:-1 tvg-id="MULTIPREMIER" tvg-name="MULTIPREMIER HD" tvg-logo="https://i.ibb.co/qWxHGjC/MULTIPRE2.png" group-title="CINE",MULTIPREMIER HD
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/46168.ts
-#EXTINF:-1 tvg-id="Paramount Channel" tvg-name="PAMOUNT CHANNEL" tvg-logo="https://i.ibb.co/tDgxkRL/PAMU2.png" group-title="CINE",PAMOUNT CHANNEL
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/46171.ts
-#EXTINF:-1 tvg-id="Paramount Channel.co" tvg-name="PAMOUNT CHANNEL FHD" tvg-logo="https://i.ibb.co/wr5LRY4/PAMOUNT.png" group-title="CINE",PAMOUNT CHANNEL FHD
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/46170.ts
-#EXTINF:-1 tvg-id="1+1 Internacional" tvg-name="PAMOUNT CHANNEL HD" tvg-logo="https://i.ibb.co/wr5LRY4/PAMOUNT.png" group-title="CINE",PAMOUNT CHANNEL HD
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/46172.ts
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/277093
 #EXTINF:-1 tvg-id="SONY HD" tvg-name="SONY CINE" tvg-logo="https://n9.cl/cmu5fx" group-title="CINE",SONY CINE
 https://a-cdn.klowdtv.com/live1/cine_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="SONY HD" tvg-name="SONY COMEDIA" tvg-logo="https://is.gd/LATVcxwc.png" group-title="CINE",SONY COMEDIA
 https://d3m8rnla2v9m5d.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="SONY HD" tvg-name="SONY CHANNEL" tvg-logo="https://i.ibb.co/M7nmfDY/SONY1.png" group-title="CINE",SONY CHANNEL
-http://45.70.168.162:12339/play/a028/index.m3u8
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/47230
 #EXTINF:-1 tvg-id="SONYCH" tvg-name="SONY CHANNEL HD" tvg-logo="https://i.ibb.co/M7nmfDY/SONY1.png" group-title="CINE",SONY CHANNEL HD
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/46176.ts
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/29776
+#EXTINF:-1 tvg-id="SONYCH" tvg-name="SONY CHANNEL HD" tvg-logo="https://i.ibb.co/M7nmfDY/SONY1.png" group-title="CINE",SONY CHANNEL HD
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/29830
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHsonycine.png" group-title="CINE",Sony Cine
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="SONY MOVIES" tvg-name="SONY MOVIES HD" tvg-logo="https://i.ibb.co/rFMxhPH/SONY2.png" group-title="CINE",SONY MOVIES HD
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/46175.ts
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/283009
+#EXTINF:-1 tvg-id="SONY MOVIES" tvg-name="SONY MOVIES HD" tvg-logo="https://i.ibb.co/rFMxhPH/SONY2.png" group-title="CINE",SONY MOVIES HD
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/283010
+#EXTINF:-1 tvg-id="SONY MOVIES" tvg-name="SONY MOVIES HD" tvg-logo="https://i.ibb.co/rFMxhPH/SONY2.png" group-title="CINE",SONY MOVIES HD
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/283008
 #EXTINF:-1 tvg-id="SpacePanregional.us" tvg-name="SPACE FHD" tvg-logo="https://i.ibb.co/K0JqT9S/space2.png" group-title="CINE",SPACE FHD
-http://190.93.224.42/SPACE/index.m3u8
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/62801
 #EXTINF:-1 tvg-id="SPACE" tvg-name="SPACE HD" tvg-logo="https://i.ibb.co/K0JqT9S/space2.png" group-title="CINE",SPACE HD
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/46178.ts
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/29777
 #EXTINF:-1 tvg-id="Space.co" tvg-name="SPACE HD" tvg-logo="https://i.ibb.co/qjqScj2/space1.png" group-title="CINE",SPACE HD
-http://181.78.0.107:8006/play/a078/index.m3u8
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/29831
 #EXTINF:-1 tvg-id="ST CHANNEL HD.co" tvg-name="STAR CHANNEL HD" tvg-logo="https://i.ibb.co/fSbvx7T/ST22.png" group-title="CINE",STAR CHANNEL HD
-http://181.78.0.107:8006/play/a07a/index.m3u8
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/41013
 #EXTINF:-1 tvg-id="StarClassics.us" tvg-name="STAR CHANNEL HD" tvg-logo="https://i.ibb.co/ZmBxYZz/STCL.png" group-title="CINE",STAR CHANNEL HD
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/46195.ts
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/29753
 #EXTINF:-1 tvg-id="" tvg-name="STAR CHANNEL HD MX" tvg-logo="https://i.ibb.co/vHVVM6K/STCHA1.png" group-title="CINE",STAR CHANNEL HD MX
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/46189.ts
-#EXTINF:-1 tvg-id="" tvg-name="STAR CHANNEL HDG" tvg-logo="https://i.ibb.co/vHVVM6K/STCHA1.png" group-title="CINE",STAR CHANNEL HDG
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/46188.ts
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/29814
 #EXTINF:-1 tvg-id="StudioUniversalSouth.us" tvg-name="STUDIO UNIVERSAL 1" tvg-logo="https://i.ibb.co/jL5S1mw/STUDIO.png" group-title="CINE",STUDIO UNIVERSAL 1
-http://38.134.250.110:8000/play/a005/index.m3u8
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/29832
 #EXTINF:-1 tvg-id="Studio Universal.co" tvg-name="STUDIO UNIVERSAL" tvg-logo="https://i.ibb.co/4Nh3KcF/STUD1.png" group-title="CINE",STUDIO UNIVERSAL
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/46220.ts
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/29778
 #EXTINF:-1 tvg-id="Studio Universal.co" tvg-name="STUDIO UNIVERSAL HD" tvg-logo="https://i.ibb.co/kmQCLLM/STUDI2.png" group-title="CINE",STUDIO UNIVERSAL HD
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/46217.ts
-#EXTINF:-1 tvg-id="STUDIO UNIVERSAL" tvg-name="STUDIO UNIVERSAL HD" tvg-logo="https://i.ibb.co/jL5S1mw/STUDIO.png" group-title="CINE",STUDIO UNIVERSAL HD
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/46218.ts
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/164055
 #EXTINF:-1 tvg-id="TCMSouth.us" tvg-name="TCM" tvg-logo="https://i.ibb.co/340KS9Y/tcm2.png" group-title="CINE",TCM
 http://45.134.141.161:2200/ARG/TCM/index.m3u8
 #EXTINF:-1 tvg-id="TCMSouth.us" tvg-name="TCM FHD" tvg-logo="https://i.ibb.co/340KS9Y/tcm2.png" group-title="CINE",TCM FHD
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/46232.ts
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/29780
 #EXTINF:-1 tvg-id="TCMSouth.us" tvg-name="TCM HD" tvg-logo="https://i.ibb.co/myRdt2X/TCM.png" group-title="CINE",TCM HD
 http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/46231.ts
 #EXTINF:-1 tvg-id="TNT HD.co" tvg-name="TNT FHD" tvg-logo="https://i.ibb.co/Fhsz28h/TNT1.png" group-title="CINE",TNT FHD
-http://181.78.0.107:8006/play/a076/index.m3u8
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/47471
 #EXTINF:-1 tvg-id="TNTSouth.us" tvg-name="TNT FHD" tvg-logo="https://i.ibb.co/Fhsz28h/TNT1.png" group-title="CINE",TNT FHD
-http://45.134.141.161:2200/ARG/TNT/index.m3u8
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/29781
 #EXTINF:-1 tvg-id="502dtv.co" tvg-name="TNT HD" tvg-logo="https://i.ibb.co/DwLT1NH/TNT2.png" group-title="CINE",TNT HD
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/46236.ts
-#EXTINF:-1 tvg-id="TNTSouth.us" tvg-name="TNT HD" tvg-logo="https://i.ibb.co/DwLT1NH/TNT2.png" group-title="CINE",TNT HD
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/46239.ts
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/29834
 #EXTINF:1 tvg-id="" tvg-name="TNT NOVELAS" tvg-logo="https://n9.cl/rv9id" group-title="CINE",TNT NOVELAS
-http://45.70.168.162:8443/play/a00l/index.m3u8
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/77177
 #EXTINF:1 tvg-id="" tvg-name="TNT NOVELAS" tvg-logo="https://n9.cl/rv9id" group-title="CINE",TNT NOVELAS
-http://45.70.168.162:9000/play/a00l/index.m3u8
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/77176
 #EXTINF:1 tvg-id="" tvg-name="TNT NOVELAS" tvg-logo="https://n9.cl/rv9id" group-title="CINE",TNT NOVELAS
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/32925
 #EXTINF:-1 tvg-id="TNT Series.co" tvg-name="TNT SERIES" tvg-logo="https://i.ibb.co/0q8QzgN/tntseries.png" group-title="CINE",TNT SERIES
-http://181.78.0.107:8006/play/a07g/index.m3u8
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/47241
 #EXTINF:-1 tvg-id="" tvg-name="TNT SERIES HD" tvg-logo="https://i.ibb.co/0q8QzgN/tntseries.png" group-title="CINE",TNT SERIES HD
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/46240.ts
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/29782
 #EXTINF:-1 tvg-id="TNT SERIES" tvg-name="TNT SERIES HD" tvg-logo="https://i.ibb.co/gzS5WjX/tntser2.png" group-title="CINE",TNT SERIES HD
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/46241.ts
-#EXTINF:-1 tvg-id="TNTSeriesSouth.us" tvg-name="TNT SERIES HD" tvg-logo="https://i.ibb.co/gzS5WjX/tntser2.png" group-title="CINE",TNT SERIES HD
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/46243.ts
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/164063
 #EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL  ᴴᴰ MX" tvg-logo="https://i.ibb.co/Mpx2y51/UNIVERSAL1.png" group-title="CINE",UNIVERSAL  ᴴᴰ MX
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/46245.ts
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/41026
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL  ᴴᴰ MX" tvg-logo="https://i.ibb.co/Mpx2y51/UNIVERSAL1.png" group-title="CINE",UNIVERSAL  ᴴᴰ MX
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/62802
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL  ᴴᴰ MX" tvg-logo="https://i.ibb.co/Mpx2y51/UNIVERSAL1.png" group-title="CINE",UNIVERSAL  ᴴᴰ MX
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/77180
 #EXTINF:-1 tvg-id="UNIVERSAL CINEMA" tvg-name="UNIVERSAL CINEMA" tvg-logo="https://i.ibb.co/NrFxsBV/UNIVERSALCIEN.png" group-title="CINE",UNIVERSAL CINEMA
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/90078.ts
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/73998
+#EXTINF:-1 tvg-id="UNIVERSAL CINEMA" tvg-name="UNIVERSAL CINEMA" tvg-logo="https://i.ibb.co/NrFxsBV/UNIVERSALCIEN.png" group-title="CINE",UNIVERSAL CINEMA
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/73994
+#EXTINF:-1 tvg-id="UNIVERSAL CINEMA" tvg-name="UNIVERSAL CINEMA" tvg-logo="https://i.ibb.co/NrFxsBV/UNIVERSALCIEN.png" group-title="CINE",UNIVERSAL CINEMA
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/128511
 #EXTINF:-1 tvg-id="UniversalComedy.ar" tvg-name="UNIVERSAL COMEDY HD" tvg-logo="https://i.ibb.co/TBLRttd/UNIVESALCOMEDY.png" group-title="CINE",UNIVERSAL COMEDY HD
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/90081.ts
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/128512
+#EXTINF:-1 tvg-id="UniversalComedy.ar" tvg-name="UNIVERSAL COMEDY HD" tvg-logo="https://i.ibb.co/TBLRttd/UNIVESALCOMEDY.png" group-title="CINE",UNIVERSAL COMEDY HD
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/76353
+#EXTINF:-1 tvg-id="UniversalComedy.ar" tvg-name="UNIVERSAL COMEDY HD" tvg-logo="https://i.ibb.co/TBLRttd/UNIVESALCOMEDY.png" group-title="CINE",UNIVERSAL COMEDY HD
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/128513
 #EXTINF:-1 tvg-id="UNIVERSAL CRIME" tvg-name="UNIVERSAL CRIME MX" tvg-logo="https://i.ibb.co/Rj4HpMq/UNIVESALCRIME.png" group-title="CINE",UNIVERSAL CRIME MX
-http://play.pelusa.online:8080/live/moisesveld/t9zXxmf4jXN2ca67/249734.ts
-#EXTINF:-1 tvg-id="UNIVERSAL CHANNEL" tvg-name="UNIVERSAL HD" tvg-logo="https://i.ibb.co/4YqhnVc/universa2.png" group-title="CINE",UNIVERSAL HD
-http://181.78.0.107:8006/play/a06y/index.m3u8
-#EXTINF:-1 tvg-id="UniversalTVSouth.us" tvg-name="UNIVERSAL HD" tvg-logo="https://i.ibb.co/4YqhnVc/universa2.png" group-title="CINE",UNIVERSAL HD
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/46246.ts
-#EXTINF:-1 tvg-id="Universal TV.co" tvg-name="UNIVERSAL HD" tvg-logo="https://i.ibb.co/Mpx2y51/UNIVERSAL1.png" group-title="CINE",UNIVERSAL HD
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/46247.ts
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/74000
+#EXTINF:-1 tvg-id="UNIVERSAL CRIME" tvg-name="UNIVERSAL CRIME MX" tvg-logo="https://i.ibb.co/Rj4HpMq/UNIVESALCRIME.png" group-title="CINE",UNIVERSAL CRIME MX
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/164068
+#EXTINF:-1 tvg-id="UNIVERSAL CRIME" tvg-name="UNIVERSAL CRIME MX" tvg-logo="https://i.ibb.co/Rj4HpMq/UNIVESALCRIME.png" group-title="CINE",UNIVERSAL CRIME MX
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/73997
 #EXTINF:-1 tvg-id="UNIVERSAL PREMIERE" tvg-name="UNIVERSAL PREMIERE HD" tvg-logo="https://i.ibb.co/NCKFnDN/UNIVERSALPRE.png" group-title="CINE",UNIVERSAL PREMIERE HD
 http://play.pelusa.online:8080/live/moisesveld/t9zXxmf4jXN2ca67/249733.ts
 #EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL PREMIERE HD" tvg-logo="https://i.ibb.co/NCKFnDN/UNIVERSALPRE.png" group-title="CINE",UNIVERSAL PREMIERE HD
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/90083.ts
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/73999
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL PREMIERE HD" tvg-logo="https://i.ibb.co/NCKFnDN/UNIVERSALPRE.png" group-title="CINE",UNIVERSAL PREMIERE HD
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/73996
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL PREMIERE HD" tvg-logo="https://i.ibb.co/NCKFnDN/UNIVERSALPRE.png" group-title="CINE",UNIVERSAL PREMIERE HD
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/128514
 #EXTINF:-1 tvg-id="UNIVERSAL REALITY" tvg-name="UNIVERSAL REALITY" tvg-logo="https://i.ibb.co/dcZ8bsY/UNIVESALREA.png" group-title="CINE",UNIVERSAL REALITY
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/90077.ts
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/41015
+#EXTINF:-1 tvg-id="UNIVERSAL REALITY" tvg-name="UNIVERSAL REALITY" tvg-logo="https://i.ibb.co/dcZ8bsY/UNIVESALREA.png" group-title="CINE",UNIVERSAL REALITY
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/73995
+#EXTINF:-1 tvg-id="UNIVERSAL REALITY" tvg-name="UNIVERSAL REALITY" tvg-logo="https://i.ibb.co/dcZ8bsY/UNIVESALREA.png" group-title="CINE",UNIVERSAL REALITY
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/30395
 #EXTINF:-1 tvg-id="USA Network HDTV (East)" tvg-name="USA" tvg-logo="https://seeklogo.com/images/U/usa-network-logo-9971D1071C-seeklogo.com.png" group-title="CINE",USA
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/46224.ts
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/29779
+#EXTINF:-1 tvg-id="USA Network HDTV (East)" tvg-name="USA" tvg-logo="https://seeklogo.com/images/U/usa-network-logo-9971D1071C-seeklogo.com.png" group-title="CINE",USA
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/76351
 #EXTINF:-1 tvg-id="SYFY" tvg-name="USA FHD" tvg-logo="https://seeklogo.com/images/U/usa-network-logo-9971D1071C-seeklogo.com.png" group-title="CINE",USA FHD
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/46223.ts
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/29833
 #EXTINF:-1 tvg-id="" tvg-name="USA HD" tvg-logo="https://seeklogo.com/images/U/usa-network-logo-9971D1071C-seeklogo.com.png" group-title="CINE",USA HD
 http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/46222.ts
 #EXTINF:-1 tvg-id="WARNER" tvg-name="WARNER HD" tvg-logo="https://i.ibb.co/jHC94Xm/WTNER3.png" group-title="CINE",WARNER HD
-http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/46250.ts
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/29785
 #EXTINF:-1 tvg-id="1206dtv.cl" tvg-name="WARNER TV HD " tvg-logo="https://i.ibb.co/jHC94Xm/WTNER3.png" group-title="CINE",WARNER TV HD
-http://181.78.0.107:8006/play/a08c/index.m3u8
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/65761
 #EXTINF:-1 tvg-id="" tvg-name="WARNER TV HD MX" tvg-logo="https://i.ibb.co/TRgfNRw/WNERTV2.png" group-title="CINE",WARNER TV HD MX
-http://181.78.0.107:8006/play/a09z/index.m3u8
-
-
+http://www.1play.cool:25461/Antonio30/bdb3a18bc6/29837
 ===COLOMBIA===
 #EXTINF:-1 tvg-id="" tvg-name="Cable Noticias HD" tvg-logo="https://i.postimg.cc/76HvZBKr/resize.png" group-title="COLOMBIA",Cable Noticias HD
 http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/13786.ts
